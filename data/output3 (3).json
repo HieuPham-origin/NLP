@@ -1,0 +1,7073 @@
+[
+  {
+    "sentence": "Rất khó làm chủ về độ chính xác và đồng bộ của các phần tử khi phát và thu, ông Trần Hoàng Việt, trưởng phòng Công nghệ ăng-ten mảng pha chủ động của VHT, cho biết.",
+    "entities": {
+      "Person": [
+        "Trần Hoàng Việt"
+      ],
+      "Organization": [
+        "VHT"
+      ]
+    }
+  },
+  {
+    "sentence": "Các chuyên gia của Viettel cho biết chọn nghiên cứu công nghệ ăng-ten mảng pha quét búp sóng điện tử (beamforming), tương tự công nghệ được ứng dụng trong phát sóng 5G.",
+    "entities": {
+      "Organization": [
+        "Viettel"
+      ],
+      "Technology": [
+        "beamforming",
+        "5G"
+      ]
+    }
+  },
+  {
+    "sentence": "Công nghệ này sử dụng các phần tử ăng-ten khác nhau hoạt động đồng bộ để điều chỉnh hướng phát và nhận sóng của radar.",
+    "entities": {
+      "technology": [
+        "phần tử ăng-ten",
+        "radar"
+      ]
+    }
+  },
+  {
+    "sentence": "Cách này tạo ra độ phân giải cao hơn so với việc phát tín hiệu ra tất cả hướng của radar truyền thống.",
+    "entities": {
+      "technology": [
+        "radar"
+      ]
+    }
+  },
+  {
+    "sentence": "Các sản phẩm được trưng bày tại Triển lãm Quốc phòng ở Hà Nội ngày 19-22/12, thu hút sự chú ý lớn từ khách tham quan, với kích thước khổng lồ, được thiết kế linh hoạt khi đặt cố định dưới đất hoặc gắn trên xe chuyên dụng.",
+    "entities": {
+      "Organization": [
+        "Triển lãm Quốc phòng"
+      ],
+      "Datetime": [
+        "19-22/12"
+      ],
+      "Location": [
+        "Hà Nội"
+      ]
+    }
+  },
+  {
+    "sentence": "Điểm độc đáo của sản phẩm là khả năng cung cấp thông tin ba tọa độ, còn gọi là 3D, và do kỹ sư Việt Nam thực hiện.",
+    "entities": {
+      "Person": [
+        "kỹ sư Việt Nam"
+      ],
+      "technology": [
+        "3D"
+      ]
+    }
+  },
+  {
+    "sentence": "Khác với radar 2D, radar 3D có thể xác định thêm độ cao, có tốc độ quét nhanh và hiển thị vị trí chính xác của mục tiêu trong không gian.",
+    "entities": {
+      "technology": [
+        "radar 2D",
+        "radar 3D"
+      ],
+      "Organization": []
+    }
+  },
+  {
+    "sentence": "This article discusses the latest advancements in 5G technology, which is expected to be released in 2025 by Qualcomm, a leading technology company.",
+    "entities": {
+      "technology": [
+        "5G technology"
+      ],
+      "Datetime": [
+        "2025"
+      ],
+      "Organization": [
+        "Qualcomm"
+      ]
+    }
+  },
+  {
+    "sentence": "Sau hai năm phát triển, những sản phẩm đầu tiên ra đời vào năm 2020 và liên tục được tối ưu, cải tiến.",
+    "entities": {
+      "Datetime": [
+        "2020"
+      ]
+    }
+  },
+  {
+    "sentence": "Đến nay, ngoài tính năng phát hiện UAV và tên lửa hành trình bay ở độ cao thấp, radar 3D của Viettel cũng được thiết kế dạng module, giúp dễ dàng tháo lắp, vận chuyển và triển khai ở nhiều địa hình trận địa, bao gồm khu vực đồi núi hiểm trở.",
+    "entities": {
+      "Organization": [
+        "Viettel"
+      ],
+      "technology": [
+        "radar 3D"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo ông Trần Hoàng Việt, so sánh với đài radar 3D chiến thuật cùng phân khúc của một công ty nước ngoài, đài radar do Viettel nghiên cứu có chỉ tiêu tương đương, vượt trội ở một số tính năng như phát hiện mục tiêu trực thăng xa hơn gấp 1,6 lần, độ chính xác đo góc tốt hơn gấp hai lần.",
+    "entities": {
+      "Person": [
+        "Trần Hoàng Việt"
+      ],
+      "Organization": [
+        "Viettel"
+      ]
+    }
+  },
+  {
+    "sentence": "Năm 2024, nhóm tác giả của công trình nghiên cứu radar 3D VRS-SRS cũng giành giải Nhất Tuổi trẻ sáng tạo toàn quân do Bộ Quốc phòng trao tặng.",
+    "entities": {
+      "Organization": [
+        "Bộ Quốc phòng"
+      ],
+      "Person": [
+        "Nhóm tác giả"
+      ],
+      "Datetime": [
+        "2024"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo đại diện đơn vị phát triển Viettel High Tech (VHT), trên thế giới, một số giải pháp radar 3D đã có, nhưng không nhiều bên sở hữu, đồng nghĩa phải mua với giá cao, phụ thuộc về công nghệ và vận hành.",
+    "entities": {
+      "Organization": [
+        "Viettel High Tech",
+        "VHT"
+      ]
+    }
+  },
+  {
+    "sentence": "Năm 2018, đơn vị này nhận nhiệm vụ nghiên cứu radar 3D.",
+    "entities": {
+      "Datetime": [
+        "2018"
+      ],
+      "Organization": [
+        "đơn vị này"
+      ]
+    }
+  },
+  {
+    "sentence": "Sản phẩm đầu tiên ra đời năm 2020 và Việt Nam hoàn toàn làm chủ công nghệ lõi.",
+    "entities": {
+      "Datetime": [
+        "2020"
+      ],
+      "Organization": [
+        "Việt Nam"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong khi đó, một số vũ khí hiện đại như UAV có kích thước nhỏ, di chuyển linh hoạt, hoạt động ở độ cao thấp và tấn công vào các mục tiêu trọng yếu.",
+    "entities": {
+      "technology": [
+        "UAV"
+      ]
+    }
+  },
+  {
+    "sentence": "Điều này được đánh giá làm thay đổi các học thuyết quân sự trước đây và đặt ra bài toán mới về phòng không, đó là các radar có thể theo dõi nhanh và chi tiết thông số của vật thể.",
+    "entities": {
+      "technology": [
+        "radar"
+      ],
+      "Organization": [
+        "quân sự"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong đó, đài radar 3D cảnh giới tầm trung băng tần S có khả năng phát hiện, định vị mục tiêu ở cự ly đến 360 km, độ cao dưới 25 km; radar chiến thuật băng S tầm gần với khả năng định vị 100 km, độ cao 10 km.",
+    "entities": {
+      "technology": [
+        "radar 3D",
+        "radar chiến thuật"
+      ],
+      "Organization": [],
+      "Person": [],
+      "Datetime": []
+    }
+  },
+  {
+    "sentence": "Chúng có thể cung cấp thông tin về cự ly, phương vị, độ cao và vận tốc; nhắm đến mục tiêu như máy bay hàng không dân dụng, máy bay chiến đấu, máy bay trực thăng, máy bay trực thăng treo.",
+    "entities": {
+      "Organization": [
+        "Hàng không dân dụng",
+        "Chiến đấu"
+      ],
+      "Technology": [
+        "Máy bay",
+        "Máy bay trực thăng",
+        "Máy bay trực thăng treo"
+      ],
+      "Datetime": []
+    }
+  },
+  {
+    "sentence": "Trước đây, radar thế hệ cũ 2D cung cấp được thông tin hai chiều là khoảng cách và phương vị, cho phép theo dõi mục tiêu di chuyển trên một mặt phẳng.",
+    "entities": {
+      "technology": [
+        "radar"
+      ],
+      "Organization": []
+    }
+  },
+  {
+    "sentence": "Ngoài ra, tốc độ quét chậm khiến loại radar này gặp khó khăn khi theo dõi các vũ khí mới.",
+    "entities": {
+      "technology": [
+        "radar"
+      ]
+    }
+  },
+  {
+    "sentence": "Tại Triển lãm Quốc phòng năm nay, hàng loạt radar 3D được trình diễn, bao gồm đài radar cảnh giới tầm trung băng tần S để phát hiện, định vị các mục tiêu bay ở độ cao tầm trung, cự ly tầm trung; radar chiến thuật 3D băng S tầm gần; đài radar 3D chiến thuật băng L...",
+    "entities": {
+      "Organization": [
+        "Triển lãm Quốc phòng"
+      ],
+      "Technology": [
+        "radar 3D",
+        "radar cảnh giới tầm trung băng tần S",
+        "radar chiến thuật 3D băng S",
+        "radar 3D chiến thuật băng L"
+      ]
+    }
+  },
+  {
+    "sentence": "Khi chính thức hoạt động dịch vụ tại Việt Nam từ ngày 23/12, Công ty Netflix đã cam kết chỉ phổ biến phim, thông báo của Cục nêu.",
+    "entities": {
+      "Organization": [
+        "Công ty Netflix",
+        "Cục"
+      ],
+      "Datetime": [
+        "23/12"
+      ]
+    }
+  },
+  {
+    "sentence": "Khi phủ quy định một cách bình đẳng, đã có một số doanh nghiệp chọn không hoạt động ở Việt Nam nữa.",
+    "entities": {
+      "Organization": [
+        "doanh nghiệp"
+      ],
+      "Location": [
+        "Việt Nam"
+      ]
+    }
+  },
+  {
+    "sentence": "Việc tuân thủ pháp luật dẫn tới thay đổi mô hình kinh doanh cũng là điều bình thường của doanh nghiệp, Cục trưởng Lê Quang Tự Do nói khi đó.",
+    "entities": {
+      "Person": [
+        "Lê Quang Tự Do"
+      ]
+    }
+  },
+  {
+    "sentence": "Đến hiện tại, Công ty Netflix đã chấp hành yêu cầu của cơ quan quản lý về điều chỉnh nội dung dịch vụ, thông báo của Cục nêu.",
+    "entities": {
+      "Organization": [
+        "Cục"
+      ]
+    }
+  },
+  {
+    "sentence": "Sau khi Nghị định 71 có hiệu lực đầu 2023, nhiều dịch vụ OTT đã chọn phim và xóa chương trình truyền hình.",
+    "entities": {
+      "Organization": [
+        "OTT"
+      ],
+      "Datetime": [
+        "2023"
+      ]
+    }
+  },
+  {
+    "sentence": "Khi đó, từng có thông tin Netflix sẽ chọn hoạt động theo cả hai mô hình.",
+    "entities": {
+      "Organization": [
+        "Netflix"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên với thông báo mới từ Cục, dịch vụ OTT này quyết định chọn nhánh phim.",
+    "entities": {
+      "Organization": [
+        "Cục"
+      ]
+    }
+  },
+  {
+    "sentence": "Sau khi Nghị định 71 có hiệu lực, một số dịch vụ như Amazon Prime đã rút khỏi Việt Nam vì thị trường nhỏ, mô hình kinh doanh chưa phù hợp.",
+    "entities": {
+      "Organization": [
+        "Amazon Prime"
+      ]
+    }
+  },
+  {
+    "sentence": "Iqiyi hồi tháng 10 cũng bị tuýt còi do đăng ký mô hình phổ biến phim, nhưng xuất hiện một số nội dung truyền hình.",
+    "entities": {
+      "Organization": [
+        "Iqiyi"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo Cục Phát thanh, truyền hình và Thông tin điện tử, hoạt động của Netflix tại Việt Nam là phát phim trên môi trường mạng.",
+    "entities": {
+      "Organization": [
+        "Netflix"
+      ],
+      "Government Agency": [
+        "Cục Phát thanh, truyền hình và Thông tin điện tử"
+      ]
+    }
+  },
+  {
+    "sentence": "Họ có thể cung cấp phim đã thực hiện phân loại và có thông báo đến cơ quan quản lý.",
+    "entities": {
+      "Organization": [
+        "cơ quan quản lý"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, do không đăng ký cung cấp dịch vụ truyền hình, Netflix sẽ không được đăng các chương trình truyền hình khi hoạt động trong nước.",
+    "entities": {
+      "Organization": [
+        "Netflix"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước đó, Cục Phát thanh, truyền hình và Thông tin điện tử cho biết phát hiện nhiều nội dung được phân loại là truyền hình xuất hiện trên nền tảng Netflix, như Love on the Spectrum, Longest Third Date, Down For Love.",
+    "entities": {
+      "Organization": [
+        "Cục Phát thanh, truyền hình và Thông tin điện tử"
+      ],
+      "Person": [],
+      "technology": [
+        "Netflix"
+      ],
+      "Datetime": []
+    }
+  },
+  {
+    "sentence": "Hiện một số vẫn tồn tại khi người dùng tại Việt Nam tìm và xem.",
+    "entities": {
+      "Person": [
+        "người dùng"
+      ],
+      "Location": [
+        "Việt Nam"
+      ]
+    }
+  },
+  {
+    "sentence": "Ngày 12/12, Cục đã có văn bản yêu cầu công ty gỡ bỏ trên dịch vụ của mình, đồng thời tổ chức họp, phổ biến pháp luật về dịch vụ phát thanh, truyền hình với Netflix.",
+    "entities": {
+      "Organization": [
+        "Cục",
+        "Netflix"
+      ],
+      "Datetime": [
+        "12/12"
+      ]
+    }
+  },
+  {
+    "sentence": "Trả lời báo chí vào năm ngoái, Cục Phát thanh, truyền hình và Thông tin điện tử cho biết việc yêu cầu tuân thủ là nhằm đảm bảo công bằng cho doanh nghiệp truyền hình trong nước và nước ngoài.",
+    "entities": {
+      "Organization": [
+        "Cục Phát thanh, truyền hình và Thông tin điện tử"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước đây, nền tảng nước ngoài được hưởng lợi vì quy định chưa phủ đến.",
+    "entities": {
+      "Organization": [
+        "nền tảng nước ngoài"
+      ]
+    }
+  },
+  {
+    "sentence": "Một số dịch vụ có hành vi vi phạm như không đóng thuế, phát hành nội dung bị cấm.",
+    "entities": {
+      "Organization": [
+        "dịch vụ"
+      ]
+    }
+  },
+  {
+    "sentence": "Tại Việt Nam, các dịch vụ giải trí từ Netflix, Apple, Amazon, Tencent, Iqiyi...",
+    "entities": {
+      "Organization": [
+        "Netflix",
+        "Apple",
+        "Amazon",
+        "Tencent",
+        "Iqiyi"
+      ]
+    }
+  },
+  {
+    "sentence": "Netflix is a popular streaming service that offers a wide range of TV shows and movies.",
+    "entities": {
+      "Organization": [
+        "Netflix"
+      ],
+      "technology": [
+        "streaming service"
+      ]
+    }
+  },
+  {
+    "sentence": "Nếu chỉ là phim, họ phải tuân thủ luật Điện ảnh sửa đổi và phải gỡ nội dung truyền hình.",
+    "entities": {
+      "Organization": [
+        "Điện ảnh"
+      ]
+    }
+  },
+  {
+    "sentence": "Nếu cung cấp truyền hình, các dịch vụ phải làm thủ tục theo Nghị định 71 về quản lý, cung cấp và sử dụng dịch vụ phát thanh, truyền hình, trong đó có yêu cầu phải mở công ty tại Việt Nam.",
+    "entities": {
+      "Organization": [
+        "Việt Nam"
+      ],
+      "Datetime": [],
+      "Person": [],
+      "technology": []
+    }
+  },
+  {
+    "sentence": "Bị cho là chậm chân nhưng Google vẫn kịp phản ứng khi giới thiệu các tính năng AI tạo sinh vào công nghệ tìm kiếm cũng như tung ra loạt mô hình AI mới.",
+    "entities": {
+      "Organization": [
+        "Google"
+      ],
+      "Person": [
+        "không có"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong đó, Lumiere có khả năng tạo video được cho là tốt hơn Sora của OpenAI trong giai đoạn thử nghiệm cũng như phiên bản Gemini mới với khả năng lý luận.",
+    "entities": {
+      "Technology": [
+        "Lumiere",
+        "Sora",
+        "Gemini"
+      ]
+    }
+  },
+  {
+    "sentence": "Chiến dịch tinh giản bộ máy được Google thực hiện từ tháng 9/2022 khi Pichai cho biết ông muốn Google phải tăng hiệu quả công việc lên 20%",
+    "entities": {
+      "Person": [
+        "Pichai"
+      ],
+      "Organization": [
+        "Google"
+      ],
+      "Datetime": [
+        "tháng 9/2022"
+      ]
+    }
+  },
+  {
+    "sentence": "Tháng 1/2023, công ty có đợt sa thải lớn nhất trong lịch sử phát triển với 12.000 nhân viên mất việc.",
+    "entities": {
+      "Organization": [
+        "công ty"
+      ],
+      "Datetime": [
+        "Tháng 1/2023"
+      ],
+      "Person": [],
+      "technology": []
+    }
+  },
+  {
+    "sentence": "Thông tin trên được chính CEO Sundar Pichai công bố trong một cuộc họp với toàn thể nhân viên hôm 18/12.",
+    "entities": {
+      "Person": [
+        "Sundar Pichai"
+      ],
+      "Datetime": [
+        "18/12"
+      ]
+    }
+  },
+  {
+    "sentence": "Businessinsider dẫn nguồn tin nội bộ cho biết động thái là một phần trong nỗ lực kéo dài hơn hai năm của Google nhằm đơn giản hóa cơ cấu hoạt động, hướng tới bộ máy hiệu quả hơn.",
+    "entities": {
+      "Organization": [
+        "Google"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong cuộc họp với toàn thể nhân viên, Pichai cho rằng mọi người cần cập nhật bản thân cho một Google hiện đại.",
+    "entities": {
+      "Person": [
+        "Pichai"
+      ]
+    }
+  },
+  {
+    "sentence": "Ông gọi nhân viên đáp ứng đủ yêu cầu là Googleyness, những người có khả năng phát triển và thích ứng trong môi trường hay thay đổi, nhịp độ cao, có khả năng giải quyết vấn đề trong những tình huống không rõ ràng, người luôn thách thức hiện trạng.",
+    "entities": {
+      "Person": [
+        "Googleyness"
+      ]
+    }
+  },
+  {
+    "sentence": "Đại diện Google cho biết một số quản lý cấp cao trong diện bị cắt giảm chuyển sang vị trí làm việc mới không còn là quản lý hoặc bị cho nghỉ hẳn.",
+    "entities": {
+      "Person": [
+        "Đại diện Google"
+      ]
+    }
+  },
+  {
+    "sentence": "Động thái mạnh tay gần đây của Google được cho là để đối phó với sự lớn mạnh của các đối thủ tiềm năng như OpenAI.",
+    "entities": {
+      "Organization": [
+        "Google",
+        "OpenAI"
+      ]
+    }
+  },
+  {
+    "sentence": "Các sản phẩm mới của công ty này như ChatGPT đang đe dọa mạnh mẽ đến mảng kinh doanh hoạt động tìm kiếm của Google.",
+    "entities": {
+      "Organization": [
+        "Google"
+      ],
+      "Person": [
+        "ChatGPT"
+      ]
+    }
+  },
+  {
+    "sentence": "Chúng tôi hài lòng với quyết định.",
+    "entities": {
+      "Person": [
+        "chúng tôi"
+      ]
+    }
+  },
+  {
+    "sentence": "Bồi thẩm đoàn đã bảo vệ quyền sáng tạo của Qualcomm và khẳng định tất cả sản phẩm liên quan đến vụ kiện đều được bảo vệ bởi hợp đồng giữa Qualcomm và Arm.",
+    "entities": {
+      "Organization": [
+        "Qualcomm",
+        "Arm"
+      ]
+    }
+  },
+  {
+    "sentence": "Chúng tôi sẽ tiếp tục phát triển sản phẩm dẫn đầu về hiệu suất, phục vụ lợi ích người tiêu dùng toàn cầu với CPU tùy chỉnh Oryon, thông báo của Qualcomm có đoạn.",
+    "entities": {
+      "Organization": [
+        "Qualcomm"
+      ],
+      "Technology": [
+        "CPU",
+        "Oryon"
+      ]
+    }
+  },
+  {
+    "sentence": "Bồi thẩm đoàn tại Delaware đứng về phía Qualcomm và kết luận các bộ xử lý Snapdragon X không vi phạm thỏa thuận, đảm bảo hãng có thể tiếp tục bán sản phẩm mà không phải thay đổi bản thiết kế.",
+    "entities": {
+      "Organization": [
+        "Qualcomm"
+      ],
+      "technology": [
+        "Snapdragon X"
+      ]
+    }
+  },
+  {
+    "sentence": "Gerard Williams III, một trong những nhà phát triển chính đứng sau Oryon, cho biết thiết kế cuối cùng do Nuvia phát triển chứa chưa đến 1% công nghệ của Arm.",
+    "entities": {
+      "Person": [
+        "Gerard Williams III"
+      ],
+      "Organization": [
+        "Arm",
+        "Nuvia"
+      ],
+      "technology": [
+        "Oryon"
+      ]
+    }
+  },
+  {
+    "sentence": "Huy Đức (theo Reuters, Tom's Hardware)",
+    "entities": {
+      "Person": [
+        "Huy Đức"
+      ]
+    }
+  },
+  {
+    "sentence": "Hồi tháng 10, Arm đệ đơn kiện Qualcomm với cáo buộc vi phạm các điều khoản của thỏa thuận cấp phép kiến trúc (ALA) và công nghệ (TLA) khi mua lại Nuvia và sử dụng tài sản trí tuệ công ty này trong bộ xử lý Snapdragon X cho máy tính cá nhân của mình.",
+    "entities": {
+      "Organization": [
+        "Arm",
+        "Qualcomm",
+        "Nuvia"
+      ],
+      "Person": [],
+      "technology": [
+        "Snapdragon X",
+        "ALa",
+        "TLA"
+      ],
+      "Datetime": [
+        "tháng 10"
+      ]
+    }
+  },
+  {
+    "sentence": "Bồi thẩm đoàn xác nhận các bộ vi xử lý trung tâm của Qualcomm được cấp phép hợp lệ theo thỏa thuận với Arm, nhưng theo Bloomberg, họ không thể thống nhất về việc Nuvia có vi phạm điều khoản với Arm hay không.",
+    "entities": {
+      "Organization": [
+        "Qualcomm",
+        "Arm",
+        "Bloomberg"
+      ],
+      "Person": [],
+      "technology": [
+        "Nuvia"
+      ]
+    }
+  },
+  {
+    "sentence": "Do đó, có thể cần thêm phiên tòa mới hoặc Qualcomm sẽ thỏa thuận lại với Arm.",
+    "entities": {
+      "Organization": [
+        "Qualcomm",
+        "Arm"
+      ]
+    }
+  },
+  {
+    "sentence": "When Qualcomm developed the Snapdragon X processor with the Oryon core, Arm demanded that the US chip maker cancel the design because it violated the licensing terms related to Nuvia technology from Arm.",
+    "entities": {
+      "Organization": [
+        "Qualcomm",
+        "Arm"
+      ],
+      "Technology": [
+        "Snapdragon X",
+        "Oryon",
+        "Nuvia"
+      ]
+    }
+  },
+  {
+    "sentence": "Qualcomm phản biện rằng ALA hiện tại của họ với cấu trúc lệnh Arm (ISA) bao quát hết các sản phẩm được các công ty mà họ sở hữu thiết kế, trong trường hợp này là Nuvia.",
+    "entities": {
+      "Organization": [
+        "Qualcomm"
+      ],
+      "Technology": [
+        "Arm",
+        "ISA",
+        "ALA"
+      ],
+      "Person": [],
+      "Datetime": []
+    }
+  },
+  {
+    "sentence": "Mâu thuẫn nảy sinh từ việc Qualcomm sử dụng lõi Oryon dựa trên kiến trúc Armv8 do Nuvia thiết kế.",
+    "entities": {
+      "Organization": [
+        "Qualcomm",
+        "Nuvia"
+      ],
+      "technology": [
+        "Oryon",
+        "Armv8"
+      ]
+    }
+  },
+  {
+    "sentence": "Arm cho rằng cần tái đàm phán giấy phép sau khi Nuvia được Qualcomm mua lại.",
+    "entities": {
+      "Organization": [
+        "Arm",
+        "Qualcomm",
+        "Nuvia"
+      ]
+    }
+  },
+  {
+    "sentence": "Mặt khác, 10% doanh thu của Arm, tương đương hơn 300 triệu USD năm 2023, đến từ Qualcomm.",
+    "entities": {
+      "Organization": [
+        "Arm",
+        "Qualcomm"
+      ],
+      "Datetime": [
+        "2023"
+      ],
+      "Money": [
+        "300 triệu USD"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước khi sử dụng lõi Oryon tùy chỉnh, Qualcomm dựa vào lõi Cortex được chỉnh sửa do Arm thiết kế.",
+    "entities": {
+      "technology": [
+        "Oryon",
+        "Cortex"
+      ],
+      "Organization": [
+        "Qualcomm",
+        "Arm"
+      ]
+    }
+  },
+  {
+    "sentence": "Qualcomm cần các lõi Oryon thuộc sở hữu của Nuvia mà họ mua lại vào năm 2021 trong thương vụ 1,4 tỷ USD.",
+    "entities": {
+      "Organization": [
+        "Qualcomm",
+        "Nuvia"
+      ],
+      "Technology": [
+        "lõi Oryon"
+      ],
+      "Person": [],
+      "Datetime": [
+        "2021"
+      ]
+    }
+  },
+  {
+    "sentence": "Các lõi đa năng này cạnh tranh với thiết kế dựa trên Arm do Apple phát triển và bộ xử lý x86 từ AMD và Intel.",
+    "entities": {
+      "technology": [
+        "lõi đa năng",
+        "Arm",
+        "x86"
+      ]
+    }
+  },
+  {
+    "sentence": "With Oryon and its successors, Qualcomm can gain more market share in the PC market, as the company currently only occupies 0.8%.",
+    "entities": {
+      "Organization": [
+        "Qualcomm"
+      ],
+      "Technology": [
+        "Oryon"
+      ]
+    }
+  },
+  {
+    "sentence": "Thẩm phán Maryellen Noreika, chủ tọa phiên tòa tại Delaware, khuyến khích Arm và Qualcomm hòa giải.",
+    "entities": {
+      "Person": [
+        "Maryellen Noreika"
+      ],
+      "Organization": [
+        "Arm",
+        "Qualcomm"
+      ],
+      "Location": [
+        "Delaware"
+      ]
+    }
+  },
+  {
+    "sentence": "Tôi không nghĩ bất kỳ bên nào có chiến thắng rõ ràng hoặc sẽ có chiến thắng rõ ràng nếu vụ này được xét xử lại, bà nói.",
+    "entities": {
+      "Person": [
+        "bà"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, Arm tuyên bố sẽ yêu cầu xét xử lại, do bồi thẩm đoàn không thể nhất trí về việc Nuvia có vi phạm hợp đồng với Arm hay không, khi hợp đồng này yêu cầu Nuvia xây dựng bộ xử lý dành cho máy chủ.",
+    "entities": {
+      "Organization": [
+        "Arm",
+        "Nuvia"
+      ]
+    }
+  },
+  {
+    "sentence": "Chúng ta cần cỗ máy hiểu thế giới, có thể ghi nhớ mọi thứ, có trực giác, có ý thức chung - thứ có thể suy luận và lập kế hoạch ở cùng mức độ con người, LeCun nói.",
+    "entities": {
+      "Person": [
+        "LeCun"
+      ]
+    }
+  },
+  {
+    "sentence": "Các hệ thống AI hiện tại không có khả năng làm bất kỳ điều nào trong số đó.",
+    "entities": {
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Có thể một thập kỷ nữa, chúng mới xuất hiện.",
+    "entities": {
+      "technology": [
+        "thập kỷ"
+      ]
+    }
+  },
+  {
+    "sentence": "Hình ảnh thế giới xung quanh được chúng ta giữ trong đầu chỉ là các mô hình.",
+    "entities": {
+      "technology": [
+        "mô hình"
+      ]
+    }
+  },
+  {
+    "sentence": "Không ai trong đầu có thể tưởng tượng toàn bộ thế giới, chính phủ hay đất nước.",
+    "entities": {
+      "Organization": [
+        "chính phủ"
+      ],
+      "Location": [
+        "đất nước"
+      ]
+    }
+  },
+  {
+    "sentence": "Người ta chỉ chọn các khái niệm và mối quan hệ giữa chúng, và sử dụng để đại diện cho hệ thống thực sự, theo định nghĩa về Mô hình tinh thần (Mental Model) nêu trong cuốn Hành vi phản trực giác của các hệ thống xã hội do Jay Wright Forrester, một kỹ sư máy tính, nhà lý thuyết quản lý và nhà khoa học hệ thống người Mỹ, viết năm 1971.",
+    "entities": []
+  },
+  {
+    "sentence": "Người xem mong đợi những gì họ nhìn thấy sẽ hoạt động giống như trên thực tế, Alex Mashrabov, cựu giám đốc AI của Snap và CEO công ty tạo mô hình thế giới Higgsfield, nói với TechCrunch.",
+    "entities": {
+      "Person": [
+        "Alex Mashrabov"
+      ],
+      "Organization": [
+        "Snap",
+        "Higgsfield",
+        "TechCrunch"
+      ]
+    }
+  },
+  {
+    "sentence": "Công cụ chạy World Model đủ mạnh mẽ sẽ hiểu được vật thể chuyển động thế nào thay vì phải đợi người sáng tạo 'vẽ đường' cho nó di chuyển.",
+    "entities": {
+      "technology": [
+        "World Model"
+      ]
+    }
+  },
+  {
+    "sentence": "Robot ngày nay hạn chế về khả năng thực hiện công việc vì chúng không nhận thức được xung quanh.",
+    "entities": {
+      "technology": [
+        "Robot"
+      ]
+    }
+  },
+  {
+    "sentence": "World Model có thể cung cấp cho chúng khả năng đó, ông nói.",
+    "entities": {
+      "Person": [
+        "ông"
+      ]
+    }
+  },
+  {
+    "sentence": "Với một mô hình tiên tiến, AI có thể phát triển sự hiểu biết cá nhân về bất kỳ kịch bản nào mà nó được đặt vào và bắt đầu suy luận các giải pháp khả thi.",
+    "entities": {
+      "Organization": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Đây là khía cạnh để AI đạt đến cấp độ con người nếu áp dụng World Model, Ha và Schmidhuber viết trong báo cáo chung đăng trên Github.",
+    "entities": {
+      "Technology": [
+        "World Model",
+        "Ha",
+        "Schmidhuber"
+      ],
+      "Person": [
+        "Ha",
+        "Schmidhuber"
+      ],
+      "Organization": [
+        "Github"
+      ]
+    }
+  },
+  {
+    "sentence": "Bên cạnh đó, lượng dữ liệu đầu vào cho World Model cũng lớn gấp nhiều lần so với các mô hình ngôn ngữ lớn (large language model) đang có.",
+    "entities": {
+      "technology": [
+        "World Model",
+        "large language model"
+      ]
+    }
+  },
+  {
+    "sentence": "Mashrabov của Higgsfield bình luận.",
+    "entities": {
+      "Person": [
+        "Mashrabov"
+      ],
+      "Organization": [
+        "Higgsfield"
+      ]
+    }
+  },
+  {
+    "sentence": "Việc thiếu dữ liệu đang khiến các bước tiến chậm lại.",
+    "entities": {
+      "": [
+        "dữ liệu"
+      ]
+    }
+  },
+  {
+    "sentence": "Cristóbal Valenzuela, CEO của Runway AI, cũng cho rằng dữ liệu là rào cản lớn nhất trên con đường xây dựng World Model.",
+    "entities": {
+      "Person": [
+        "Cristóbal Valenzuela"
+      ],
+      "Organization": [
+        "Runway AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Các mô hình cần nhiều dữ liệu và kỹ thuật để tạo ra bản đồ nhất quán về môi trường, khả năng điều hướng và tương tác trong môi trường đó, Valenzuela viết trên blog.",
+    "entities": {
+      "Person": [
+        "Valenzuela"
+      ],
+      "Technology": [
+        "bản đồ nhất quán",
+        "kỹ thuật",
+        "bản đồ"
+      ]
+    }
+  },
+  {
+    "sentence": "Dù tiềm năng lớn, việc xây dựng World Model tốn nhiều chi phí, do đòi hỏi sức mạnh tính toán khổng lồ so với hiện tại.",
+    "entities": {
+      "technology": [
+        "World Model"
+      ]
+    }
+  },
+  {
+    "sentence": "Ước tính, một công cụ cỡ nhỏ cũng có thể ngốn hàng nghìn GPU mạnh nhất để huấn luyện.",
+    "entities": {
+      "technology": [
+        "GPU"
+      ]
+    }
+  },
+  {
+    "sentence": "Hai nhà nghiên cứu David Ha và Jürgen Schmidhuber lấy ví dụ về cách cầu thủ bóng chày thi đấu.",
+    "entities": {
+      "Person": [
+        "David Ha",
+        "Jürgen Schmidhuber"
+      ]
+    }
+  },
+  {
+    "sentence": "Những người này chỉ có một phần nghìn giây để quyết định cách vung gậy và thông số này ngắn hơn thời gian cần thiết để đưa tín hiệu từ thị giác đến não.",
+    "entities": {
+      "Person": [
+        "những người này"
+      ]
+    }
+  },
+  {
+    "sentence": "Để làm được, họ cần dự đoán cách ném bóng và hướng bóng trước khi bóng tới.",
+    "entities": {
+      "technology": [
+        "predictive_model"
+      ],
+      "Person": [
+        "họ"
+      ]
+    }
+  },
+  {
+    "sentence": "Một số công ty hoặc phòng thí nghiệm đang thúc đẩy khả năng mô hình hóa thế giới cho AI.",
+    "entities": {
+      "Organization": [
+        "công ty",
+        "phòng thí nghiệm"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong đó, phòng thí nghiệm World Labs của giáo sư Fei-Fei Li, một trong những người tiên phong về AI, huy động được 230 triệu USD để xây dựng mô hình thế giới lớn.",
+    "entities": {
+      "Person": [
+        "Fei-Fei Li"
+      ],
+      "Organization": [
+        "World Labs"
+      ]
+    }
+  },
+  {
+    "sentence": "Google DeepMind cũng thuê Tim Brooks, người đứng đầu nhóm Sora, và một chuyên gia khác là William Peebles, để phát triển trình mô phỏng thế giới.",
+    "entities": {
+      "Person": [
+        "Tim Brooks",
+        "William Peebles"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhưng tạo ra video tốt hơn chỉ là một phần trong ứng dụng của World Model.",
+    "entities": {
+      "technology": [
+        "World Model"
+      ]
+    }
+  },
+  {
+    "sentence": "Các nhà nghiên cứu AI hàng đầu, như Yann LeCun, Giám đốc AI của Meta, dự đoán đến một ngày nào đó, chúng có thể được sử dụng để dự báo, lập kế hoạch tinh vi trong cả lĩnh vực kỹ thuật số lẫn vật lý.",
+    "entities": {
+      "Person": [
+        "Yann LeCun"
+      ],
+      "Organization": [
+        "Meta"
+      ]
+    }
+  },
+  {
+    "sentence": "OpenAI cho biết Sora có thể được coi là một World Model sơ khai khi mô phỏng các hành động, chẳng hạn một họa sĩ để lại nét cọ trên vải.",
+    "entities": {
+      "Technology": [
+        "OpenAI"
+      ],
+      "Person": [
+        "Sora"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy vậy, công ty cũng thừa nhận cần một thời gian dài nữa mới có thể hoàn thiện tính năng.",
+    "entities": {
+      "Organization": [
+        "Công ty"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo TechCrunch, các công cụ AI tạo video hiện có thể dự đoán chính xác một quả bóng rổ nảy lên, nhưng thực tế nó không biết lý do tại sao.",
+    "entities": {
+      "Person": [
+        "TechCrunch"
+      ],
+      "Organization": [
+        "TechCrunch"
+      ]
+    }
+  },
+  {
+    "sentence": "Tương tự, các mô hình ngôn ngữ cũng không thực sự hiểu khái niệm đằng sau từ và cụm từ.",
+    "entities": {
+      "technology": [
+        "mô hình ngôn ngữ"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo giới chuyên gia, các AI tạo video từ văn bản, như Sora, đều rơi vào cái gọi là thung lũng kỳ lạ.",
+    "entities": {
+      "Organization": [
+        "Sora"
+      ]
+    }
+  },
+  {
+    "sentence": "Có nghĩa, video do AI tạo ra còn nhiều sai sót, nhất là với chuyển động nhanh, một phần do thuật toán không thể dự đoán được mô hình tiếp theo, như cách não người thực hiện.",
+    "entities": {
+      "technology": [
+        "AI"
+      ],
+      "datetime": [],
+      "organization": [],
+      "person": []
+    }
+  },
+  {
+    "sentence": "Mashrabov tin nếu vượt qua được tất cả rào cản này, World Model sẽ mạnh mẽ hơn trong việc kết nối AI với thế giới thực, nhất là khi kết hợp với robot.",
+    "entities": {
+      "Person": [
+        "Mashrabov"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, World Model giúp AI thông minh thực sự bằng cách hiểu lý do quả bóng nảy lên.",
+    "entities": {
+      "technology": [
+        "World Model"
+      ],
+      "Person": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Để có được hiểu biết sâu sắc đó, World Model cần được đào tạo trên nhiều loại dữ liệu như ảnh, âm thanh, video và văn bản, với mục đích tạo ra các suy luận nội tại về cách thế giới vận hành và khả năng lý giải về kết quả của các hành động.",
+    "entities": {
+      "technology": [
+        "World Model"
+      ],
+      "Organization": [
+        "World"
+      ]
+    }
+  },
+  {
+    "sentence": "World Model được xem là sự kế thừa từ Mental Model, đều lấy cảm hứng từ bộ não người.",
+    "entities": {
+      "technology": [
+        "World Model",
+        "Mental Model"
+      ],
+      "Person": [
+        "người"
+      ]
+    }
+  },
+  {
+    "sentence": "Não bộ lấy biểu diễn trừu tượng từ các giác quan, qua đó hình thành sự hiểu biết cụ thể về thế giới xung quanh.",
+    "entities": {
+      "technology": [
+        "Não bộ"
+      ]
+    }
+  },
+  {
+    "sentence": "Những dự đoán mà bộ não đưa ra dựa trên các mô hình ảnh hưởng đến cách một người nhận thức thế giới.",
+    "entities": {
+      "technology": [
+        "bộ não",
+        "mô hình"
+      ]
+    }
+  },
+  {
+    "sentence": "Đầu năm nay, LeCun mô tả cách World Model có thể giúp một hệ thống AI đạt mục tiêu mong muốn thông qua suy luận.",
+    "entities": {
+      "Person": [
+        "LeCun"
+      ]
+    }
+  },
+  {
+    "sentence": "A messy room is shown in a video, with the goal of transforming it into a clean room, and a sequence of actions to achieve this goal, such as deploying a vacuum cleaner to sweep, washing dishes, and disposing of trash.",
+    "entities": {
+      "technology": [
+        "vacuum cleaner"
+      ],
+      "Datetime": [],
+      "Organization": [],
+      "Person": []
+    }
+  },
+  {
+    "sentence": "Trong quá trình này, AI không chỉ nhận diện qua camera và cảm biến, mà còn biết ở cấp độ sâu hơn cách chuyển từ bẩn sang sạch.",
+    "entities": {
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Ngày 19/12, Wright bị Tòa án Tối cao Anh ở London kết án 5 tội danh về việc coi thường tòa án, phạt tù 12 tháng nhưng hoãn thi hành án trong hai năm.",
+    "entities": {
+      "Person": [
+        "Wright"
+      ],
+      "Organization": [
+        "Tòa án Tối cao Anh"
+      ]
+    }
+  },
+  {
+    "sentence": "Người này cũng phải trả 145.000 bảng (180.000 USD) án phí.",
+    "entities": {
+      "Person": [
+        "Người này"
+      ],
+      "Money": [
+        "145.000 bảng",
+        "180.000 USD"
+      ]
+    }
+  },
+  {
+    "sentence": "Năm 2016, Wright tuyên bố là người tạo ra Bitcoin.",
+    "entities": {
+      "Person": [
+        "Wright"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo Fortune, thông tin sau đó được tin tưởng khi nhà phát triển Bitcoin Gavin Andresen nói Wright chắc chắn 98% đã tạo tiền số này.",
+    "entities": {
+      "Person": [
+        "Gavin Andresen",
+        "Wright"
+      ],
+      "Organization": [
+        "Fortune"
+      ]
+    }
+  },
+  {
+    "sentence": "Điều này nhanh chóng thu hút sự quan tâm của cộng đồng, thậm chí cả FBI.",
+    "entities": {
+      "Organization": [
+        "FBI"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, Wright sau đó lên tiếng xin lỗi.",
+    "entities": {
+      "Person": [
+        "Wright"
+      ]
+    }
+  },
+  {
+    "sentence": "Năm 2020, ông một lần nữa lại nói mình là cha đẻ Bitcoin, nhưng không còn gây chú ý.",
+    "entities": {
+      "Person": [
+        "ông"
+      ]
+    }
+  },
+  {
+    "sentence": "Ông cũng nhiều lần bị tố lừa đảo và thua kiện.",
+    "entities": {
+      "Person": [
+        "Ông"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo Forbes, phiên tòa xuất phát từ việc Wright kiện nhà phát triển Bitcoin Core và Square Up Europe Limited, đòi bồi thường 911 tỷ bảng (1.145 tỷ USD).",
+    "entities": {
+      "Person": [
+        "Wright"
+      ],
+      "Organization": [
+        "Forbes",
+        "Bitcoin Core",
+        "Square Up Europe Limited"
+      ]
+    }
+  },
+  {
+    "sentence": "Crypto Open Patent Alliance (COPA), do Jonathan Hough KC của tổ chức Bird & Bird LLP đại diện, đã khởi xướng việc chống lại đơn kiện và thu hút hàng loạt tên tuổi trong lĩnh vực tiền số như Coinbase, Kraken và MicroStrategy tham gia.",
+    "entities": {
+      "Organization": [
+        "Crypto Open Patent Alliance",
+        "Bird & Bird LLP",
+        "Coinbase",
+        "Kraken",
+        "MicroStrategy"
+      ],
+      "Person": [
+        "Jonathan Hough KC"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong khi đó, danh tính của cha đẻ Bitcoin vẫn là ẩn số.",
+    "entities": {
+      "Person": [
+        "cha đẻ"
+      ]
+    }
+  },
+  {
+    "sentence": "Hồi tháng 10, bộ phim tài liệu Money Electric: The Bitcoin Mystery (Tiền điện tử: Bí ẩn Bitcoin) được chiếu trên HBO, trong đó đạo diễn Cullen Hoback kết luận Peter Todd, nhà phát triển người Canada, là Satoshi Nakamoto - biệt danh của cha đẻ Bitcoin.",
+    "entities": {
+      "Person": [
+        "Cullen Hoback",
+        "Peter Todd",
+        "Satoshi Nakamoto"
+      ]
+    }
+  },
+  {
+    "sentence": "Dù vậy, thông tin này bị đánh giá chưa đủ thuyết phục.",
+    "entities": {
+      "technology": []
+    }
+  },
+  {
+    "sentence": "Trong phiên xử tuần này, Wright vắng mặt, nhưng xuất hiện qua video và tự bào chữa.",
+    "entities": {
+      "Person": [
+        "Wright"
+      ]
+    }
+  },
+  {
+    "sentence": "Khi thẩm phán hỏi ông đang ở nước nào, Wright từ chối với vẻ gay gắt, chỉ nói đang ở châu Á.",
+    "entities": {
+      "Person": [
+        "Wright"
+      ],
+      "Location": [
+        "châu Á"
+      ]
+    }
+  },
+  {
+    "sentence": "Cuối cùng, sau khi nêu ra các chứng cứ, thẩm phán tuyên án Wright 12 tháng tù, đồng thời yêu cầu chấp hành các bản án đã tuyên trước đó.",
+    "entities": {
+      "Person": [
+        "Wright"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước đó, vào tháng 3, Wright bị thẩm phán của Tòa án Tối cao Anh ra phán quyết rằng ông không phải là Satoshi Nakamoto, cha đẻ của Bitcoin.",
+    "entities": {
+      "Person": [
+        "Wright",
+        "Satoshi Nakamoto"
+      ]
+    }
+  },
+  {
+    "sentence": "Wright cũng bị tòa kết luận nói dối nhiều lần và làm giả nhiều tài liệu để thể hiện mình là Nakamoto, lạm dụng hệ thống tòa án, do đó không được tham gia kiện hoặc theo đuổi khiếu nại pháp lý tiếp theo.",
+    "entities": {
+      "Person": [
+        "Wright",
+        "Nakamoto"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, chưa đầy 6 tháng sau lệnh cấm, Wright tiếp tục đệ đơn kiện, ban đầu là 26 cá nhân và tổ chức liên quan đến Bitcoin, sau đó tăng lên 100.",
+    "entities": {
+      "Person": [
+        "Wright"
+      ],
+      "Organization": [
+        "Bitcoin"
+      ]
+    }
+  },
+  {
+    "sentence": "Đội ngũ pháp lý của COPA mô tả hành vi của Wright là một phần của chiến dịch quấy rối liên tục và sự bóp méo thực tế.",
+    "entities": {
+      "Person": [
+        "Wright"
+      ]
+    }
+  },
+  {
+    "sentence": "Arc Prize, một sáng kiến phi lợi nhuận cho thúc đẩy nghiên cứu AGI, cũng đánh giá o3 là bước tiến lớn nếu khả năng của nó mạnh hơn o1.",
+    "entities": {
+      "technology": [
+        "AGI"
+      ],
+      "Organization": [
+        "Arc Prize"
+      ]
+    }
+  },
+  {
+    "sentence": "Đây có thể bước tiến đáng ngạc nhiên và quan trọng của AI, cho thấy khả năng thích ứng với nhiệm vụ mới chưa từng thấy trước đây trong mô hình họ GPT, tổ chức này viết trên blog.",
+    "entities": {
+      "Organization": [
+        "GPT"
+      ],
+      "Person": [
+        "tổ chức này"
+      ]
+    }
+  },
+  {
+    "sentence": "Fortune đánh giá o3 chưa phải là AGI, nhưng mô hình mới nhiều khả năng sẽ giúp ChatGPT xử lý các truy vấn phức tạp hơn và giải quyết vấn đề từng bước.",
+    "entities": {
+      "Organization": [
+        "Fortune"
+      ],
+      "Person": [
+        "ChatGPT"
+      ]
+    }
+  },
+  {
+    "sentence": "Đặc biệt, tìm kiếm AI có thể phát triển với sự hiểu biết ngữ nghĩa được cải thiện, do chúng tìm thông tin không chỉ dựa trên từ khóa, mà còn trên ý nghĩa sâu sắc và mối quan hệ giữa các khái niệm.",
+    "entities": {
+      "technology": [
+        "AI"
+      ],
+      "Person": []
+    }
+  },
+  {
+    "sentence": "Các mô hình cũng có thể tạo ra câu chuyện và bài luận mạch lạc hơn, giải quyết vấn đề theo thời gian thực, trang này bình luận.",
+    "entities": {
+      "technology": [
+        "mô hình"
+      ],
+      "Person": [
+        "trang"
+      ]
+    }
+  },
+  {
+    "sentence": "OpenAI khẳng định mô hình mới mạnh hơn mô hình o1 ra mắt trước đó và là bước nhảy vọt ấn tượng về hiệu suất.",
+    "entities": {
+      "Organization": [
+        "OpenAI"
+      ]
+    }
+  },
+  {
+    "sentence": "CEO Sam Altman khiêm tốn hơn khi nói đây là khởi đầu cho giai đoạn tiếp theo của AI.",
+    "entities": {
+      "Person": [
+        "Sam Altman"
+      ]
+    }
+  },
+  {
+    "sentence": "OpenAI o1 ra mắt hồi tháng 9.",
+    "entities": {
+      "technology": [
+        "OpenAI",
+        "o1"
+      ]
+    }
+  },
+  {
+    "sentence": "When that company said it had the ability to reason through complex tasks and solve problems that are harder than before in science, coding, and math.",
+    "entities": {
+      "Organization": [
+        "company"
+      ]
+    }
+  },
+  {
+    "sentence": "When Business Insider evaluated, the emergence of o1 made the boundary between human intelligence and artificial intelligence increasingly narrow.",
+    "entities": {
+      "Organization": [
+        "Business Insider"
+      ]
+    }
+  },
+  {
+    "sentence": "OpenAI đang mở quy trình nộp đơn cho các nhà nghiên cứu bên ngoài, cho phép họ thử nghiệm mô hình o3 trước khi phát hành công khai.",
+    "entities": {
+      "Organization": [
+        "OpenAI"
+      ]
+    }
+  },
+  {
+    "sentence": "Chương trình dự kiến kết thúc ngày 10/1/2025.",
+    "entities": {
+      "Datetime": [
+        "10/1/2025"
+      ]
+    }
+  },
+  {
+    "sentence": "Sau thông báo của công ty đứng sau ChatGPT, Francois Chollet, chuyên gia của ARC Challenge và vừa rời Google Research, đánh giá mô hình mới rất ấn tượng và là cột mốc lớn trên con đường hướng tới AGI, dù còn một số lượng khá lớn nhiệm vụ đơn giản mà o3 chưa thể giải quyết.",
+    "entities": {
+      "Organization": [
+        "Google Research",
+        "ARC Challenge"
+      ],
+      "Person": [
+        "Francois Chollet"
+      ]
+    }
+  },
+  {
+    "sentence": "Chollet nói thêm rằng những khả năng này là thuộc về lĩnh vực mới, đòi hỏi sự quan tâm về khoa học một cách nghiêm túc.",
+    "entities": {
+      "Person": [
+        "Chollet"
+      ],
+      "technology": [
+        "khả năng"
+      ],
+      "Datetime": [],
+      "Organization": []
+    }
+  },
+  {
+    "sentence": "Theo Reuters, việc OpenAI thử nghiệm o3 mạnh hơn o1 chỉ sau vài tháng cho thấy công ty đang đẩy nhanh quá trình tiến đến siêu trí tuệ AGI - cột mốc đột phá trong lĩnh vực trí tuệ nhân tạo, với viễn cảnh AI thông minh hơn con người.",
+    "entities": {
+      "Organization": [
+        "OpenAI"
+      ],
+      "Person": [
+        "Reuters"
+      ],
+      "technology": [
+        "AI",
+        "AGI"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước đó, o1 được một số chuyên gia nhận định có thể tiệm cận AGI.",
+    "entities": {
+      "Person": [
+        "chuyên gia"
+      ]
+    }
+  },
+  {
+    "sentence": "Trên blog ngày 20/12, OpenAI cho biết o3 và o3 mini đang trong quá trình thử nghiệm an toàn ở quy mô nội bộ, nhưng đã đạt điểm số cao đột phá trong bài kiểm tra lý luận AI có tên ARC Challenge.",
+    "entities": {
+      "Organization": [
+        "OpenAI"
+      ],
+      "Datetime": [
+        "20/12"
+      ],
+      "Technology": [
+        "o3",
+        "o3 mini",
+        "ARC Challenge"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong đó, mô hình đạt 87,5% ở bài ARC-AGI, vượt trình độ con người cũng như có tính năng chuỗi suy nghĩ riêng tư, giúp tự suy nghĩ trước khi đưa ra câu trả lời.",
+    "entities": {
+      "technology": [
+        "ARC-AGI"
+      ]
+    }
+  },
+  {
+    "sentence": "Hiện tại là tôi",
+    "entities": {
+      "Person": [
+        "tôi"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước đó là Jeff Bezos, Bill Gates, Mark Zuckerberg và rất nhiều người khác.",
+    "entities": {
+      "Person": [
+        "Jeff Bezos",
+        "Bill Gates",
+        "Mark Zuckerberg"
+      ]
+    }
+  },
+  {
+    "sentence": "Tôi nghĩ nguyên nhân cơ bản là OpenAI đang làm rất tốt.",
+    "entities": {
+      "Organization": [
+        "OpenAI"
+      ]
+    }
+  },
+  {
+    "sentence": "Còn Elon quan tâm đến việc đạt thành công lớn, Altman cho hay.",
+    "entities": {
+      "Person": [
+        "Altman"
+      ]
+    }
+  },
+  {
+    "sentence": "Những lời nói và hành động của ông ấy nói lên tất cả.",
+    "entities": {
+      "Person": [
+        "ông ấy"
+      ]
+    }
+  },
+  {
+    "sentence": "Hồi năm 2017, Elon không chỉ thể hiện mong muốn, mà thực sự tạo ra tổ chức vì lợi nhuận.",
+    "entities": {
+      "Person": [
+        "Elon"
+      ],
+      "Organization": [
+        "tổ chức"
+      ]
+    }
+  },
+  {
+    "sentence": "Khi không giành được quyền sở hữu đa số cổ phần và toàn quyền kiểm soát, ông ấy rời đi và nói chúng tôi sẽ thất bại, OpenAI cho biết trong bài viết đăng ngày 13/12.",
+    "entities": {
+      "Person": [
+        "ông ấy"
+      ],
+      "Organization": [
+        "OpenAI"
+      ],
+      "Datetime": [
+        "13/12"
+      ]
+    }
+  },
+  {
+    "sentence": "Dù đối đầu nhau, Sam Altman cho rằng Elon Musk sẽ không lạm dụng vị trí của ông để trừng phạt OpenAI, khi người giàu nhất thế giới ngày càng thân cận với Tổng thống đắc cử Mỹ Donald Trump và được bổ nhiệm làm lãnh đạo Ban Hiệu suất Chính phủ (DOGE).",
+    "entities": {
+      "Person": [
+        "Sam Altman",
+        "Elon Musk",
+        "Donald Trump"
+      ],
+      "Organization": [
+        "OpenAI",
+        "Ban Hiệu suất Chính phủ"
+      ]
+    }
+  },
+  {
+    "sentence": "Elon Musk đang kiện OpenAI, cho rằng tổ chức phi lợi nhuận mà ông hỗ trợ thành lập không thể chuyển đổi thành công ty vì lợi nhuận vì vi phạm mục đích ban đầu, đó là mang lại lợi ích cho toàn nhân loại bằng cách phát triển siêu trí tuệ nhân tạo AGI.",
+    "entities": {
+      "Person": [
+        "Elon Musk"
+      ],
+      "Organization": [
+        "OpenAI"
+      ]
+    }
+  },
+  {
+    "sentence": "Musk chưa bình luận về phát biểu này.",
+    "entities": {
+      "Person": [
+        "Musk"
+      ]
+    }
+  },
+  {
+    "sentence": "Musk cũng tuyên bố Altman và Greg Brockman, hai người đồng sáng lập OpenAI, thao túng, cố ý dụ dỗ, lừa dối, lợi dụng mối quan tâm của ông để thúc đẩy quá trình mở công ty.",
+    "entities": {
+      "Person": [
+        "Elon Musk",
+        "Altman",
+        "Greg Brockman"
+      ],
+      "Organization": [
+        "OpenAI"
+      ]
+    }
+  },
+  {
+    "sentence": "Mâu thuẫn giữa hai tỷ phú bắt nguồn từ những bất đồng liên quan đến cấu trúc và quyền kiểm soát OpenAI, công ty đứng sau ChatGPT.",
+    "entities": {
+      "Organization": [
+        "OpenAI"
+      ]
+    }
+  },
+  {
+    "sentence": "OpenAI sau đó chuyển từ hình thức phi lợi nhuận sang cơ cấu lợi nhuận giới hạn, thêm một chi nhánh vì lợi nhuận vào năm 2019 với khoản đầu tư một tỷ USD từ Microsoft.",
+    "entities": {
+      "Organization": [
+        "OpenAI",
+        "Microsoft"
+      ],
+      "Datetime": [
+        "2019"
+      ]
+    }
+  },
+  {
+    "sentence": "Công ty hiện được định giá 157 tỷ USD.",
+    "entities": {
+      "Organization": [
+        "Công ty"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong khi đó, công ty xAI của Elon Musk cũng tăng giá trị gấp đôi kể từ lần gây quỹ gần nhất vào tháng 5, lên 50 tỷ USD.",
+    "entities": {
+      "Person": [
+        "Elon Musk"
+      ],
+      "Organization": [
+        "xAI"
+      ],
+      "Datetime": [
+        "tháng 5"
+      ],
+      "technology": [
+        "xAI"
+      ],
+      "Money": [
+        "50 tỷ USD"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong cuộc phỏng vấn ngày 19/12, Sam Altman thừa nhận Musk đã làm rất nhiều để giúp đỡ OpenAI những ngày đầu, nhưng chỉ trích người giàu nhất thế giới vì luôn thích gây chuyện với các tỷ phú khác.",
+    "entities": {
+      "Person": [
+        "Sam Altman",
+        "Musk"
+      ],
+      "Datetime": [
+        "19/12"
+      ],
+      "Organization": [
+        "OpenAI"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, OpenAI đáp trả rằng chính Musk ngay từ đầu muốn họ trở thành công ty vì lợi nhuận.",
+    "entities": {
+      "Person": [
+        "Musk"
+      ],
+      "Organization": [
+        "OpenAI"
+      ]
+    }
+  },
+  {
+    "sentence": "Ông cũng được cho là muốn OpenAI trở thành một phần của Tesla.",
+    "entities": {
+      "Person": [
+        "Ông"
+      ],
+      "Organization": [
+        "Tesla",
+        "OpenAI"
+      ]
+    }
+  },
+  {
+    "sentence": "Điệp Anh (Theo Fortune)",
+    "entities": {
+      "Person": [
+        "Điệp Anh"
+      ]
+    }
+  },
+  {
+    "sentence": "Con số này cho thấy sự phổ biến cao và xu hướng mạnh mẽ hướng tới tự động cũng như tối ưu hóa trong quy trình làm việc thông thường, TopCV bình luận.",
+    "entities": {
+      "Person": [
+        "TopCV"
+      ]
+    }
+  },
+  {
+    "sentence": "Miễn là không lạm dụng, AI đang giúp chúng tôi tăng tiến độ công việc lên rất nhiều, Võ Thạnh nói.",
+    "entities": {
+      "Person": [
+        "Võ Thạnh"
+      ]
+    }
+  },
+  {
+    "sentence": "Món ăn của tôi có thể khác món ăn của bạn, thậm chí trong một bữa trưa, món ăn của chúng ta cũng có thể không giống nhau, ông lấy ví dụ.",
+    "entities": {
+      "Person": [
+        "ông"
+      ]
+    }
+  },
+  {
+    "sentence": "Để tạo sự khác biệt đó, bạn cần làm chủ AI, hiểu cách thức hoạt động của nó và biết cách thích nghi với những thay đổi mới.",
+    "entities": {
+      "Person": [
+        "bạn"
+      ]
+    }
+  },
+  {
+    "sentence": "Vì thế, kỹ năng về AI và hiểu biết về công nghệ thông tin là yếu tố quyết định mỗi người sẽ có công việc trong tương lai.",
+    "entities": {
+      "technology": [
+        "AI"
+      ],
+      "Organization": [
+        "Công nghệ thông tin"
+      ]
+    }
+  },
+  {
+    "sentence": "Những ai thiếu đi kỹ năng đó, tôi nghĩ sẽ gặp khó khăn trong việc theo kịp xu thế.",
+    "entities": {
+      "Person": [
+        "tôi"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước tôi chỉ nghe về chatbot AI qua báo chí, mạng xã hội chứ không có ý định sử dụng, anh Dũng, một nhà sáng tạo nội dung tại TP HCM, cho biết.",
+    "entities": {
+      "Person": [
+        "Dũng"
+      ],
+      "Location": [
+        "TP HCM"
+      ]
+    }
+  },
+  {
+    "sentence": "Còn hiện tôi thường xuyên sử dụng AI để gợi mở ý tưởng, tạo hình ảnh, video ngắn hoặc lên kịch bản cho một số bài viết.",
+    "entities": {
+      "Person": [
+        "Tôi"
+      ]
+    }
+  },
+  {
+    "sentence": "Chatbot và trợ lý ảo là công cụ được dùng phổ biến nhất, nhưng với tỷ lệ sử dụng ở nhóm IT - Phần mềm và Non-IT lần lượt là 59,24% và 47,62%",
+    "entities": {
+      "technology": [
+        "Chatbot",
+        "trợ lý ảo"
+      ],
+      "Organization": [
+        "IT",
+        "Phần mềm"
+      ],
+      "Datetime": []
+    }
+  },
+  {
+    "sentence": "Không chỉ cá nhân, doanh nghiệp cũng ưu tiên người biết AI, thậm chí triển khai các khóa đào tạo AI cho nhân viên.",
+    "entities": {
+      "Person": [
+        "cá nhân"
+      ],
+      "Organization": [
+        "doanh nghiệp"
+      ],
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, việc sử dụng cũng tồn tại nhược điểm.",
+    "entities": {
+      "technology": [],
+      "Datetime": [],
+      "Organization": [],
+      "Person": []
+    }
+  },
+  {
+    "sentence": "Theo Võ Thạnh, khả năng tư duy, sáng tạo của nhân viên có thể giảm sút nếu quá phụ thuộc vào chatbot, đồng thời có thể làm giảm giá trị, vai trò của mỗi cá nhân.",
+    "entities": {
+      "Person": [
+        "Võ Thạnh"
+      ]
+    }
+  },
+  {
+    "sentence": "Khảo sát cũng cho thấy AI cải thiện đáng kể hiệu suất công việc đối với phần lớn người lao động.",
+    "entities": {
+      "Person": [
+        "người lao động"
+      ]
+    }
+  },
+  {
+    "sentence": "49,7% đánh giá trí tuệ nhân tạo giúp tăng hơn 31% hiệu suất, cho thấy tiềm năng của việc ứng dụng AI vào quy trình làm việc.",
+    "entities": {
+      "technology": [
+        "AI"
+      ],
+      "percentage": [
+        "31%"
+      ],
+      "datetime": [],
+      "organization": [],
+      "person": []
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, vẫn còn 20,9% cho rằng tác động của AI chưa rõ ràng hoặc không có ảnh hưởng.",
+    "entities": {
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Nguyễn Ngọc Duy Luân, nhà sáng tạo nội dung nổi tiếng và đang quản lý công ty riêng về xử lý dữ liệu, cho biết mọi người ngày càng ứng dụng AI nhiều, nhất là với tác vụ mang tính lặp đi lặp lại, tốn thời gian, nhàm chán.",
+    "entities": {
+      "Person": [
+        "Nguyễn Ngọc Duy Luân"
+      ]
+    }
+  },
+  {
+    "sentence": "Khi áp dụng AI, khối lượng công việc giảm đáng kể, từ đó giải phóng thời gian để nghỉ ngơi hoặc làm việc mang giá trị cao hơn, ảnh hưởng nhiều hơn tới kết quả đầu ra cho công ty, anh Luân giải thích.",
+    "entities": {
+      "Person": [
+        "anh Luân"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo TopCV, thay vì xem AI là mối đe dọa, người lao động cần được định hướng để coi công nghệ như một đồng minh giúp cải thiện hiệu quả.",
+    "entities": {
+      "Organization": [
+        "TopCV"
+      ],
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Việc chủ động học hỏi, làm quen và áp dụng AI sẽ giúp họ tránh bị tụt hậu, mở ra cơ hội tạo dựng giá trị mới trong môi trường lao động hiện đại.",
+    "entities": {
+      "Person": [
+        "họ"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo anh, AI có thể giúp bất cứ ai tăng năng suất nếu áp dụng đúng, nên cả nhân viên và người quản lý đều có xu hướng thích dùng AI.",
+    "entities": {
+      "Person": [
+        "anh"
+      ],
+      "Organization": [
+        "nhân viên",
+        "người quản lý"
+      ]
+    }
+  },
+  {
+    "sentence": "Các công cụ AI phổ biến như OpenAI ChatGPT, Google Gemini, Microsoft Copilot đều hoạt động tại thị trường Việt Nam, hỗ trợ tiếng Việt, nên mức độ tiếp cận cũng cao hơn.",
+    "entities": {
+      "Organization": [
+        "OpenAI",
+        "Google",
+        "Microsoft"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo thống kê mới của nền tảng tuyển dụng TopCV dựa trên 300.000 tin tuyển dụng và khảo sát gần 3.000 doanh nghiệp, có 82,6% người lao động không thuộc nhóm công nghệ thông tin (Non-IT) nói đang sử dụng AI trong công việc.",
+    "entities": {
+      "Organization": [
+        "TopCV"
+      ],
+      "Person": [
+        "người lao động"
+      ],
+      "Technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong khi đó, tỷ lệ này ở nhóm công nghệ thông tin (IT) như lập trình viên, kỹ sư phần mềm...",
+    "entities": {
+      "Organization": [
+        "công nghệ thông tin (IT)"
+      ],
+      "Person": [
+        "lập trình viên",
+        "kỹ sư phần mềm"
+      ]
+    }
+  },
+  {
+    "sentence": "Duy Luân cho rằng nếu doanh nghiệp lạm dụng AI, kết quả đôi khi rất tệ và mất thêm thời gian khắc phục.",
+    "entities": {
+      "Person": [
+        "Duy Luân"
+      ]
+    }
+  },
+  {
+    "sentence": "Bên cạnh đó, một số nhân viên đang làm những nhiệm vụ mà AI có thể thay thế, nên cần kế hoạch phân bổ, luân chuyển phù hợp để tránh gây bất mãn hoặc lãng phí.",
+    "entities": {
+      "Person": [
+        "nhân viên"
+      ],
+      "Technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhân viên cũng có thể vô tình làm rò rỉ dữ liệu mật của công ty ra ngoài qua các công cụ AI.",
+    "entities": {
+      "Organization": [
+        "công ty"
+      ],
+      "Person": [
+        "Nhân viên"
+      ]
+    }
+  },
+  {
+    "sentence": "Trên mạng xã hội, nhiều hội nhóm chia sẻ kinh nghiệm sử dụng AI cho công việc cũng được lập ra.",
+    "entities": {
+      "Organization": [
+        "mạng xã hội"
+      ]
+    }
+  },
+  {
+    "sentence": "Anh Bằng, quản trị viên một nhóm liên quan đến ChatGPT với 122.000 thành viên, cho biết mỗi ngày nhóm nhận được 10-15 bài hỏi đáp về vấn đề đang gặp hoặc cách tối ưu hóa trải nghiệm.",
+    "entities": {
+      "Person": [
+        "Anh Bằng"
+      ],
+      "Organization": [
+        "ChatGPT"
+      ],
+      "Number": [
+        "122.000",
+        "10-15"
+      ]
+    }
+  },
+  {
+    "sentence": "Vũ Thiên, quản trị viên một nhóm liên quan đến công cụ tạo video như Midjourney với hơn 50.000 thành viên, cũng cho biết nhóm hoạt động sôi nổi kể từ khi thành lập đầu năm nay.",
+    "entities": {
+      "Person": [
+        "Vũ Thiên"
+      ],
+      "Organization": [
+        "Midjourney"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước đó, khi đối thoại với giáo sư Yoshua Bengio ngày 5/12, ông Trương Gia Bình cũng cho rằng AI cần được xem là đồng minh chứ không phải mối đe dọa giành việc của con người.",
+    "entities": {
+      "Person": [
+        "Yoshua Bengio",
+        "Trương Gia Bình"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên thay vì đứng yên, mỗi người cần học hỏi và thích nghi để duy trì tính cạnh tranh trên thị trường lao động, như cần hiểu cơ bản về AI, học máy, khoa học dữ liệu, cũng như kỹ năng giải quyết vấn đề và phân tích để làm việc hiệu quả với các hệ thống AI.",
+    "entities": {
+      "technology": [
+        "AI",
+        "machine learning",
+        "data science"
+      ],
+      "Person": []
+    }
+  },
+  {
+    "sentence": "Võ Thạnh, giám đốc một công ty phần mềm tại Huế, cho biết đã đưa yếu tố biết sử dụng các công cụ AI vào danh mục tuyển dụng bên cạnh yêu cầu về chuyên môn cho từng vị trí.",
+    "entities": {
+      "Person": [
+        "Võ Thạnh"
+      ],
+      "Organization": [
+        "công ty phần mềm"
+      ],
+      "Location": [
+        "Huế"
+      ]
+    }
+  },
+  {
+    "sentence": "Xét về mức độ sử dụng, nhóm IT - phần mềm có tỷ lệ cao hơn đáng kể.",
+    "entities": {
+      "technology": [
+        "IT",
+        "phần mềm"
+      ]
+    }
+  },
+  {
+    "sentence": "52,11% người làm lập trình, kỹ sư kiểm thử, chuyên gia máy học đang sử dụng AI nhiều hơn do yêu cầu kỹ thuật và tính chất công việc.",
+    "entities": {
+      "Person": [
+        "lập trình",
+        "kiểm thử",
+        "chuyên gia máy học"
+      ],
+      "Technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Ngược lại, nhóm Non-IT sử dụng AI thường xuyên khoảng 33,6%",
+    "entities": {
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Đinh Long, một lập trình viên ở Đà Nẵng, cũng cho biết: 70% công việc của tôi đang được hỗ trợ bởi các công cụ AI chuyên biệt, chủ yếu soạn thảo câu lệnh hay 'nhờ' chatbot đưa ra ý tưởng mới, giúp tôi hoàn thành dự án nhanh hơn nửa thời gian so với trước, anh Long kể và cho biết được cấp trên ủng hộ.",
+    "entities": {
+      "Person": [
+        "Đinh Long"
+      ],
+      "Location": [
+        "Đà Nẵng"
+      ],
+      "Technology": [
+        "AI",
+        "chatbot"
+      ]
+    }
+  },
+  {
+    "sentence": "Australia thông qua luật truyền thông xã hội mới cuối tháng 11, trong đó cấm trẻ dưới 16 tuổi sử dụng các nền tảng như TikTok, Facebook, Instagram, Snapchat, Reddit và X, với thời gian chuẩn bị 12 tháng trước khi có hiệu lực.",
+    "entities": {
+      "Organization": [
+        "Australia",
+        "TikTok",
+        "Facebook",
+        "Instagram",
+        "Snapchat",
+        "Reddit",
+        "X"
+      ]
+    }
+  },
+  {
+    "sentence": "Chính phủ cho biết việc xác thực là căn cứ để chặn truy cập mạng xã hội với trẻ dưới 16 tuổi và chặn xem nội dung khiêu dâm với người dưới 18 tuổi.",
+    "entities": {
+      "Organization": [
+        "Chính phủ"
+      ],
+      "Datetime": [],
+      "Person": [],
+      "technology": [
+        "mạng xã hội"
+      ]
+    }
+  },
+  {
+    "sentence": "Quá trình thử nghiệm được cho là đã bắt đầu và sẽ trình bày kết quả trước Quốc hội trong năm 2025.",
+    "entities": {
+      "Organization": [
+        "Quốc hội"
+      ],
+      "Datetime": [
+        "2025"
+      ]
+    }
+  },
+  {
+    "sentence": "Ella Woods-Joyce, Giám đốc chính sách công của TikTok tại Australia, cho rằng luật có thể tạo ra một cơ chế mà trong đó người Australia cần phải có giấy phép mới được trực tuyến.",
+    "entities": {
+      "Person": [
+        "Ella Woods-Joyce"
+      ],
+      "Organization": [
+        "TikTok"
+      ],
+      "Location": [
+        "Australia"
+      ]
+    }
+  },
+  {
+    "sentence": "Bà cũng thúc giục chính phủ xem xét tác động tiêu cực, rủi ro khi bắt buộc mọi người dân phải xác minh độ tuổi.",
+    "entities": {
+      "Person": [
+        "bà"
+      ],
+      "Organization": [
+        "chính phủ"
+      ]
+    }
+  },
+  {
+    "sentence": "Hiện một số mạng xã hội nằm trong danh sách cấm trẻ dưới 16 tuổi nhưng được cho là không ảnh hưởng nhiều.",
+    "entities": {
+      "Organization": [
+        "mạng xã hội"
+      ]
+    }
+  },
+  {
+    "sentence": "LinkedIn, mạng xã hội nghề nghiệp thuộc sở hữu của Microsoft, cho biết nền tảng không phổ biến với trẻ vị thành niên và không có nội dung được coi là thú vị đối với người dưới 16 tuổi.",
+    "entities": {
+      "Organization": [
+        "LinkedIn",
+        "Microsoft"
+      ]
+    }
+  },
+  {
+    "sentence": "Khi còn là dự luật, Alphabet, công ty sở hữu Google và YouTube, đã đề nghị chính phủ Australia hoãn thông qua cho đến khi việc thử nghiệm công nghệ xác định độ tuổi kết thúc.",
+    "entities": {
+      "Organization": [
+        "Alphabet",
+        "Google",
+        "YouTube"
+      ],
+      "Person": [],
+      "technology": [
+        "công nghệ xác định độ tuổi"
+      ]
+    }
+  },
+  {
+    "sentence": "Điều này sẽ đánh giá tính khả thi của công nghệ trong việc đảm bảo độ tuổi được xác định đúng, đại diện Google nói.",
+    "entities": {
+      "Organization": [
+        "Google"
+      ]
+    }
+  },
+  {
+    "sentence": "Chúng tôi lo ngại chính phủ đang vội vàng thông qua luật mà không có sự tham vấn hay bằng chứng đầy đủ và vẫn còn nhiều điều chưa rõ về việc triển khai.",
+    "entities": {
+      "Organization": [
+        "chính phủ"
+      ]
+    }
+  },
+  {
+    "sentence": "Luật truyền thông xã hội của Australia yêu cầu không thu thập thông tin người dùng qua giấy tờ tùy thân, bất kể là ảnh chụp bản cứng, quét chip hay ứng dụng điện tử myGov.",
+    "entities": {
+      "Organization": [
+        "Australia"
+      ]
+    }
+  },
+  {
+    "sentence": "Thay vào đó, mạng xã hội phải triển khai phương thức xác thực tuổi riêng, ví dụ nhận diện được độ tuổi qua khuôn mặt, hoặc liên kết thẻ tín dụng để chứng minh số tuổi hợp lệ.",
+    "entities": {
+      "technology": [
+        "mạng xã hội"
+      ],
+      "datetime": [],
+      "organization": [],
+      "person": []
+    }
+  },
+  {
+    "sentence": "Meta, công ty mẹ của Facebook và Instagram, khi đó cũng nói dự luật không nhất quán và không hiệu quả, đồng thời ủng hộ lời kêu gọi của Google.",
+    "entities": {
+      "Organization": [
+        "Meta",
+        "Facebook",
+        "Instagram",
+        "Google"
+      ]
+    }
+  },
+  {
+    "sentence": "Mạng xã hội nói gì?",
+    "entities": {
+      "technology": [
+        "mạng xã hội"
+      ]
+    }
+  },
+  {
+    "sentence": "Mạng xã hội xác thực độ tuổi thế nào",
+    "entities": {
+      "technology": [
+        "social media"
+      ],
+      "datetime": []
+    }
+  },
+  {
+    "sentence": "Ngoài ra, chính phủ Australia cho biết đã ký hợp đồng với một tổ chức có trụ sở tại Anh nhằm thử nghiệm những công nghệ xác thực tuổi khác nhau.",
+    "entities": {
+      "Organization": [
+        "Australia",
+        "Anh"
+      ],
+      "technology": [
+        "công nghệ xác thực tuổi"
+      ]
+    }
+  },
+  {
+    "sentence": "Chương trình có tên Chứng nhận Kiểm tra Tuổi (ACCS) sẽ đóng vai trò phê duyệt các phương pháp phát hiện tuổi khác nhau bằng sinh trắc học, tra cứu cơ sở dữ liệu và dựa trên AI.",
+    "entities": {
+      "Organization": [
+        "Chứng nhận Kiểm tra Tuổi (ACCS)"
+      ]
+    }
+  },
+  {
+    "sentence": "Nếu không thực hiện, các nền tảng kể trên đối diện mức án phạt đến 50 triệu AUD (32 triệu USD).",
+    "entities": {
+      "technology": [
+        "nền tảng"
+      ],
+      "money": [
+        "50 triệu AUD",
+        "32 triệu USD"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, việc thực hiện như thế nào vẫn đang gây tranh cãi.",
+    "entities": {
+      "technology": [],
+      "Datetime": [],
+      "Organization": [],
+      "Person": []
+    }
+  },
+  {
+    "sentence": "Theo 9News, luật truyền thông xã hội không áp dụng giới hạn độ tuổi cho một số loại nền tảng cụ thể, như Facebook Messenger Kids, WhatsApp, PeerChat, Kids Helpline MyCircle, Google Classroom và YouTube.",
+    "entities": {
+      "Organization": [
+        "9News",
+        "Facebook",
+        "WhatsApp",
+        "PeerChat",
+        "Kids Helpline",
+        "MyCircle",
+        "Google",
+        "YouTube"
+      ]
+    }
+  },
+  {
+    "sentence": "Ngoài ra, trò chơi điện tử và một số dịch vụ nhắn tin cũng trong diện miễn trừ.",
+    "entities": []
+  },
+  {
+    "sentence": "Theo CNN, hồi tháng 10, hơn 140 chuyên gia nước này đã gửi thư ngỏ tới chính phủ, tỏ lo ngại rằng luật cấm là phản ứng vội vàng, thiếu sắc bén, khi loại bỏ động lực tìm kiếm cách quản lý an toàn mới cho trẻ em của các nền tảng mạng xã hội.",
+    "entities": {
+      "Organization": [
+        "CNN"
+      ],
+      "Person": []
+    }
+  },
+  {
+    "sentence": "Theo Michelle Rowland, Bộ trưởng Truyền thông Australia, các nền tảng sẽ nằm trong diện miễn trừ nếu giúp người trẻ tuổi có được sự hỗ trợ về giáo dục và sức khỏe họ cần.",
+    "entities": {
+      "Person": [
+        "Michelle Rowland"
+      ],
+      "Organization": [
+        "Bộ trưởng Truyền thông Australia"
+      ]
+    }
+  },
+  {
+    "sentence": "Việc này không hoàn toàn phụ thuộc vào quyết định của chính phủ, mà còn cần thêm lời khuyên từ eSafety - cơ quan quản lý độc lập của Australia về an toàn trực tuyến.",
+    "entities": {
+      "Organization": [
+        "eSafety"
+      ],
+      "Location": [
+        "Australia"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước đó, Elon Musk của mạng xã hội X cũng gọi đây là cách kiểm soát quyền truy cập Internet của tất cả người dân Australia.",
+    "entities": {
+      "Person": [
+        "Elon Musk"
+      ],
+      "Organization": [
+        "mạng xã hội X"
+      ]
+    }
+  },
+  {
+    "sentence": "Một số nhóm tội phạm mạng đang dựa vào AI để nâng cấp CaaS khiến chúng tôi lo ngại xu hướng sẽ phát triển mạnh.",
+    "entities": {
+      "Organization": [
+        "CaaS"
+      ],
+      "Person": [
+        "chúng tôi"
+      ]
+    }
+  },
+  {
+    "sentence": "Chúng tôi dự đoán kẻ tấn công sẽ dùng kết quả đầu ra tự động từ mô hình ngôn ngữ lớn LLM để nâng cấp CaaS và phát triển thị trường, ví dụ trinh sát phương tiện truyền thông xã hội và tự động hóa thông tin đó thành các gói công cụ lừa đảo hoàn chỉnh, đại diện hãng bảo mật cho hay.",
+    "entities": {
+      "Organization": [
+        "LLM",
+        "CaaS"
+      ],
+      "Person": [
+        "đại diện hãng bảo mật"
+      ]
+    }
+  },
+  {
+    "sentence": "Công ty bảo mật Fortinet (Mỹ) vừa công bố dự báo về các mối đe dọa mạng năm 2025.",
+    "entities": {
+      "Organization": [
+        "Fortinet"
+      ],
+      "Location": [
+        "Mỹ"
+      ]
+    }
+  },
+  {
+    "sentence": "Bên cạnh chiến thuật cổ điển tồn tại trong nhiều thập kỷ, báo cáo nhấn mạnh sự thay đổi trong chiến lược tấn công đầy tham vọng, tinh vi và mang tính hủy diệt hơn của tin tặc nhờ sự tiếp sức của AI.",
+    "entities": {
+      "technology": [
+        "AI"
+      ],
+      "Organization": [
+        "tín tặc"
+      ]
+    }
+  },
+  {
+    "sentence": "Ngoài ra, các nhóm tội phạm ngày càng trở nên chuyên biệt hóa, kết hợp giữa mối đe dọa vật lý và kỹ thuật số để nhắm mục tiêu hiệu quả, gây tác động mạnh mẽ hơn.",
+    "entities": {
+      "technology": [
+        "kỹ thuật số"
+      ],
+      "Person": [
+        "tội phạm"
+      ]
+    }
+  },
+  {
+    "sentence": "Hãng cũng ghi nhận sự nở rộ của các công cụ hack tự động trên thị trường web đen.",
+    "entities": {
+      "Organization": [
+        "Hãng"
+      ],
+      "technology": [
+        "công cụ hack tự động"
+      ]
+    }
+  },
+  {
+    "sentence": "Một lượng lớn phương pháp và mã tấn công được rao bán tràn lan trên thị trường CaaS (dịch vụ tấn công), chẳng hạn bộ công cụ lừa đảo, Ransomware-as-a-Service (RaaS - cung cấp dịch vụ phát tán mã độc tống tiền), DDoS-as-a-Service (cung cấp dịch vụ tấn công DDoS).",
+    "entities": {
+      "technology": [
+        "Ransomware-as-a-Service",
+        "DDoS-as-a-Service"
+      ],
+      "Organization": [
+        "CaaS"
+      ]
+    }
+  },
+  {
+    "sentence": "Một thống kê hồi tháng 10 cũng cho thấy thị trường mua bán công cụ exploit diễn ra nhộn nhịp, có mã được rao ở mức hai triệu USD.",
+    "entities": {
+      "Organization": [
+        "thị trường"
+      ],
+      "technology": [
+        "công cụ exploit"
+      ],
+      "Datetime": [
+        "tháng 10"
+      ]
+    }
+  },
+  {
+    "sentence": "Exploit chỉ các công cụ được sử dụng để khai thác lỗ hổng phần mềm, được tội phạm mạng mua bán để thực hiện hành vi bất hợp pháp như truy cập trái phép, đánh cắp dữ liệu.",
+    "entities": {
+      "technology": [
+        "Exploit",
+        "phần mềm",
+        "công cụ"
+      ],
+      "Organization": [
+        "tội phạm mạng"
+      ]
+    }
+  },
+  {
+    "sentence": "Chúng được rao trên nhiều diễn đàn web đen và các kênh ẩn danh của Telegram.",
+    "entities": {
+      "Organization": [
+        "Telegram"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo Fortinet, những năm gần đây, tội phạm mạng đã tập trung nhiều hơn vào các giai đoạn trinh sát, từ đó thực hiện tấn công có chủ đích một cách nhanh chóng và chính xác hơn.",
+    "entities": {
+      "Organization": [
+        "Fortinet"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước đó, các chuyên gia cho biết tình trạng nở rộ các cuộc tấn công mã hóa tống tiền thời gian qua là do sự phát triển của RaaS.",
+    "entities": {
+      "Organization": [
+        "RaaS"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong đó, nhóm hacker khét tiếng với dịch vụ này là Lockbit.",
+    "entities": {
+      "Organization": [
+        "Lockbit"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhóm đóng vai trò cung cấp và vận hành hạ tầng mã độc, còn gọi là Operator.",
+    "entities": {
+      "Organization": [
+        "Operator"
+      ]
+    }
+  },
+  {
+    "sentence": "Chúng chấp nhận chỉ lấy 20% số tiền thu được trong mỗi vụ tống tiền.",
+    "entities": {
+      "Organization": [
+        "Chúng"
+      ]
+    }
+  },
+  {
+    "sentence": "80% còn lại được chia cho các chi nhánh (Affiliate), là những nhóm chuyên thực hiện việc xâm nhập để phát tán mã độc.",
+    "entities": {
+      "Organization": [
+        "Affiliate"
+      ]
+    }
+  },
+  {
+    "sentence": "Ông Nguyễn Gia Đức, Giám đốc Quốc gia Fortinet Việt Nam, nhận định tội phạm mạng luôn tìm ra phương thức mới để tấn công các tổ chức.",
+    "entities": {
+      "Person": [
+        "Ông Nguyễn Gia Đức"
+      ],
+      "Organization": [
+        "Fortinet",
+        "Việt Nam"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, có nhiều cơ hội để cộng đồng an ninh mạng cộng tác, chia sẻ dự báo về động thái tiếp theo của hacker và lên kế hoạch gián đoạn hoạt động của chúng hiệu quả.",
+    "entities": {
+      "Organization": [
+        "cộng đồng an ninh mạng"
+      ]
+    }
+  },
+  {
+    "sentence": "Không một tổ chức hay nhóm bảo mật nào có thể một mình ngăn chặn tội phạm mạng.",
+    "entities": {
+      "Organization": [
+        "tổ chức",
+        "nhóm bảo mật"
+      ]
+    }
+  },
+  {
+    "sentence": "Bằng cách làm việc cùng nhau và chia sẻ thông tin trong toàn ngành, chúng ta có thể xây dựng vị thế tốt hơn để chống lại kẻ thù trên mạng, ông nói.",
+    "entities": {
+      "Person": [
+        "ông"
+      ]
+    }
+  },
+  {
+    "sentence": "Aqua cũng là hãng tiên phong về chế độ bảo hành khi có chính sách bảo hành vĩnh viễn với các bộ phận quan trọng như động cơ DD Inverter của máy giặt, 10 năm cho máy nén Inverter trên tủ lạnh, máy lạnh.",
+    "entities": {
+      "Organization": [
+        "Aqua"
+      ],
+      "Technology": [
+        "DD Inverter",
+        "Inverter"
+      ]
+    }
+  },
+  {
+    "sentence": "Chính sách bảo hành này nhằm khặng định sự bền bỉ của các thiết bị trong quá trình đồng hành cùng người dùng Việt.",
+    "entities": {
+      "Organization": [
+        "Việt"
+      ]
+    }
+  },
+  {
+    "sentence": "Aqua cũng thường xuyên đưa những công nghệ, tiện ích hiện đại lên sản phẩm.",
+    "entities": {
+      "technology": [
+        "công nghệ"
+      ]
+    }
+  },
+  {
+    "sentence": "Những công nghệ này góp phần đơn giản hóa quá trình sử dụng, tạo trải nghiệm tiện lợi cho người dùng.",
+    "entities": {
+      "technology": [
+        "công nghệ"
+      ]
+    }
+  },
+  {
+    "sentence": "đơn cử là dòng máy giặt Color AI với bảng điều khiển đa sắc",
+    "entities": {
+      "technology": [
+        "Color AI"
+      ],
+      "organization": [
+        "Color"
+      ]
+    }
+  },
+  {
+    "sentence": "Bảng điều khiển này hiển thị trực quan mọi chức năng với hình minh họa và chú thích tiếng Việt để người dùng chọn lựa chế độ giặt phù hợp.",
+    "entities": {
+      "Organization": [
+        "Bảng điều khiển"
+      ],
+      "Technology": [
+        "hình minh họa"
+      ]
+    }
+  },
+  {
+    "sentence": "Máy giặt Aqua AI Pro có vòng đệm ABT được làm từ chất liệu đặc biệt, có khả năng chống vi khuẩn, nấm mốc, giúp khu vực cửa luôn sạch sẽ, hạn chế vi khuẩn bám vào quần áo.",
+    "entities": {
+      "technology": [
+        "Máy giặt Aqua AI Pro",
+        "vòng đệm ABT"
+      ],
+      "Organization": []
+    }
+  },
+  {
+    "sentence": "Thiết bị cũng có nhiều công nghệ để đáp ứng nhu cầu giặt giũ, chăm sóc quần áo chuyên sâu.",
+    "entities": {
+      "technology": [
+        "công nghệ"
+      ]
+    }
+  },
+  {
+    "sentence": "Có mặt tại thị trường Việt Nam 28 năm, Aqua đặt triết lý khơi nguồn cảm hứng sống cho người tiêu dùng Việt thông qua dải sản phẩm gia dụng.",
+    "entities": {
+      "Organization": [
+        "Aqua"
+      ],
+      "Datetime": [
+        "28 năm"
+      ]
+    }
+  },
+  {
+    "sentence": "Mỗi năm, hãng đều giới thiệu ra thị trường hàng chục mẫu mới, trải dài ở nhiều ngành hàng như điều hòa, máy giặt, TV, tủ lạnh...",
+    "entities": {
+      "Organization": [
+        "hãng"
+      ]
+    }
+  },
+  {
+    "sentence": "Hay như dòng máy lạnh UV Series có tích hợp tính năng diệt khuẩn thông minh, trang bị màng lọc PM2.5 có tác dụng giữ lại bụi mịn có kích thước siêu nhỏ (chỉ khoảng 0,3 micromet).",
+    "entities": {
+      "technology": [
+        "màng lọc PM2.5"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhờ đó, các tác nhân gây dị ứng đều được loại bỏ hiệu quả khỏi không gian phòng, trả lại môi trường trong lành cho người dùng sinh hoạt.",
+    "entities": {
+      "Organization": [
+        "không gian phòng"
+      ]
+    }
+  },
+  {
+    "sentence": "Máy còn có tính năng Refresh- giặt hơi nước, được phát triển riêng cho nhu cầu chăm sóc các loại quần áo cần bảo vệ đặc biệt, như của trẻ sơ sinh, nhung, lụa, len, các chất liệu cao cấp, đắt tiền.",
+    "entities": {
+      "Organization": [
+        "Máy"
+      ],
+      "Technology": [
+        "Refresh- giặt hơi nước"
+      ]
+    }
+  },
+  {
+    "sentence": "Công nghệ này dùng hơi nước ấm để làm mềm, sau đó len lỏi vào từng sợi vải để loại bỏ chất bẩn, mùi hôi, vi khuẩn hay các chất gây kích ứng.",
+    "entities": {
+      "technology": [
+        "Công nghệ"
+      ]
+    }
+  },
+  {
+    "sentence": "Ưu điểm là quần áo được chăm sóc dịu nhẹ, loại bỏ được tác động mạnh từ lực xoay, vắt, giúp vải trở nên mềm mại, phẳng phiu vì hơi nước đã loại bỏ nếp nhăn.",
+    "entities": {
+      "technology": [
+        "hơi nước"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo Aqua, những giá trị cốt lõi từ nhu cầu người dùng, công nghệ, AI hay sự bền bỉ thúc đẩy đổi mới liên tục, tạo ra những sản phẩm ngày càng thông minh và đáp ứng đa dạng nhu cầu người dùng Việt.",
+    "entities": {
+      "Organization": [
+        "Aqua"
+      ],
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo báo cáo xu hướng người tiêu dùng 2024, thế hệ người tiêu dùng trẻ hiện nay đang nhạy cảm hơn về giá cả, quan tâm nhiều đến chăm sóc sức khỏe và giá trị mang lại của một sản phẩm.",
+    "entities": {
+      "Person": [
+        "thế hệ người tiêu dùng trẻ"
+      ],
+      "Organization": [
+        "báo cáo xu hướng người tiêu dùng 2024"
+      ]
+    }
+  },
+  {
+    "sentence": "Aqua đang đẩy mạnh các sản phẩm đáp ứng đồng thời cả ba yếu tố trên.",
+    "entities": {
+      "Organization": [
+        "Aqua"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo đại diện Aqua, với từng sản phẩm, đơn vị đều nghiên cứu, phát triển dựa trên những giá trị cốt lõi để phục vụ người dùng tại Việt Nam.",
+    "entities": {
+      "Organization": [
+        "Aqua"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong đó, những yếu tố bắt buộc là sản phẩm phải đáp ứng được nhu cầu thực, xu hướng thị trường, sử dụng công nghệ linh hoạt, tiên phong ứng dụng AI và phải bền bỉ theo thời gian.",
+    "entities": {
+      "Organization": [
+        "sản phẩm"
+      ],
+      "Person": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Thương hiệu cũng không nằm ngoài cuộc đua về AI.",
+    "entities": {
+      "Organization": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "AI được Aqua nghiên cứu tích hợp trong mọi khâu, từ quá trình sản xuất trong nhà máy cho đến thành phẩm đến tay người dùng.",
+    "entities": {
+      "Organization": [
+        "Aqua"
+      ]
+    }
+  },
+  {
+    "sentence": "AI giúp đơn vị phân tích dữ liệu lớn, hiểu sâu hơn về các mô hình, xu hướng cũng như dự đoán tương lai.",
+    "entities": {
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "The company Apple announced that it will release a new iPhone on January 15, 2023.",
+    "entities": {
+      "Organization": [
+        "Apple"
+      ],
+      "Datetime": [
+        "January 15, 2023"
+      ]
+    }
+  },
+  {
+    "sentence": "Hiện AI là công cụ đắc lực, ứng dụng trong giám sát toàn bộ quy trình.",
+    "entities": {
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Với các sản phẩm gia dụng, trí tuệ nhân tạo được ứng dụng để giảm bớt những thao tác phức tạp, hỗ trợ người dùng tiết kiệm thời gian, công sức.",
+    "entities": {
+      "technology": [
+        "trí tuệ nhân tạo"
+      ]
+    }
+  },
+  {
+    "sentence": "Đơn cử, với máy giặt, Aqua dùng AI để tự động phân tích chất liệu, độ bẩn để đưa ra chu trình, lượng nước giặt, xả, lực vắt tối ưu.",
+    "entities": {
+      "technology": [
+        "AI",
+        "máy giặt"
+      ],
+      "Organization": [
+        "Aqua"
+      ]
+    }
+  },
+  {
+    "sentence": "Người dùng chỉ cần một nút nhấn thay vì tự chỉnh thủ công.",
+    "entities": {
+      "Person": [
+        "Người dùng"
+      ]
+    }
+  },
+  {
+    "sentence": "Với tủ lạnh Aqua ViewFresh, nhà sản xuất tích hợp công nghệ trữ đông Fresher Shield giúp giảm 40% sự dao động nhiệt độ, tránh sốc nhiệt cho thực phẩm.",
+    "entities": {
+      "Organization": [
+        "Aqua ViewFresh"
+      ],
+      "technology": [
+        "Fresher Shield"
+      ]
+    }
+  },
+  {
+    "sentence": "Công nghệ này hạn chế đọng sương và ngăn ngừa tình trạng mất nước khi rã đông, kéo dài thời gian lưu trữ và giữ nguyên hương vị thực phẩm.",
+    "entities": {
+      "technology": [
+        "Công nghệ"
+      ]
+    }
+  },
+  {
+    "sentence": "Màng lọc HCS giữ độ ẩm ở mức 90% sẽ giúp rau củ tươi ngon lâu hơn.",
+    "entities": {
+      "technology": [
+        "Màng lọc HCS"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhờ sử dụng tài nguyên phần cứng và thư viện NeMo, chúng tôi đã xử lý cùng lúc hơn 500GB dữ liệu text, tương đương 120 triệu văn bản, 135 tỷ tokens.",
+    "entities": {
+      "Organization": [
+        "NeMo"
+      ]
+    }
+  },
+  {
+    "sentence": "Những thành tựu này mở ra nhiều tiềm năng phát triển cho cộng đồng AI Việt Nam, đại diện Viettel Solutions nói thêm.",
+    "entities": {
+      "Organization": [
+        "Viettel Solutions"
+      ]
+    }
+  },
+  {
+    "sentence": "Bộ dữ liệu lớn phục vụ huấn luyện trợ lý AI tiếng Việt cũng góp phần khẳng định tầm nhìn chiến lược chung của cả Viettel Solutions và Nvidia: Đưa Việt Nam trở thành một AI Hub, nơi các trí tuệ nhân tạo tiên tiến nhất được nghiên cứu phát triển và ứng dụng rộng rãi.",
+    "entities": {
+      "Organization": [
+        "Viettel Solutions",
+        "Nvidia"
+      ],
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Bộ dữ liệu được công bố trên trang chia sẻ công nghệ của Nvidia nhằm tạo nền tảng cho sự phát triển mạnh mẽ của các mô hình ngôn ngữ lớn (Large Language Models - LLM) Tiếng Việt.",
+    "entities": {
+      "Organization": [
+        "Nvidia"
+      ]
+    }
+  },
+  {
+    "sentence": "Hiện nay, các trợ lý AI được phát triển dựa trên các mô hình LLM nhưng chủ yếu được huấn luyện trên các bộ dữ liệu tiếng Anh.",
+    "entities": {
+      "technology": [
+        "AI",
+        "LLM"
+      ]
+    }
+  },
+  {
+    "sentence": "Do đó, bộ dữ liệu của Viettel Solutions và Nvidia có thể giúp các ứng dụng AI phù hợp hơn với người Việt và mở ra nhiều tiềm năng phát triển cho cộng đồng trí tuệ nhân tạo Việt Nam.",
+    "entities": {
+      "Organization": [
+        "Viettel Solutions",
+        "Nvidia"
+      ]
+    }
+  },
+  {
+    "sentence": "Ngoài ra, Viettel Solutions và Nvidia cũng hướng đến việc xây dựng các bộ dữ liệu chuyên biệt phục vụ phát triển trợ lý AI trong các lĩnh vực quan trọng như y tế, giáo dục, thương mại, hành chính công, đồng thời, tiếp tục hợp tác phát triển các công cụ, công nghệ AI theo hướng mở, thúc đẩy sự phát triển của cộng đồng nghiên cứu AI tại Việt Nam.",
+    "entities": {
+      "Organization": [
+        "Viettel Solutions",
+        "Nvidia"
+      ],
+      "Person": [],
+      "Datetime": [],
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Sản phẩm là thành quả hợp tác đầu tiên giữa Viettel Solutions và Nvidia.",
+    "entities": {
+      "Organization": [
+        "Viettel Solutions",
+        "Nvidia"
+      ]
+    }
+  },
+  {
+    "sentence": "Các kỹ của Viettel Solution trực tiếp thu thập, xử lý dữ liệu từ các nguồn khác nhau, chuẩn hóa, phân loại, làm sạch và tổng hợp.",
+    "entities": {
+      "Organization": [
+        "Viettel Solution"
+      ]
+    }
+  },
+  {
+    "sentence": "Quá trình này có sự hỗ trợ của nền tảng NeMo Framework và hạ tầng tính toán GPU do Nvidia cung cấp.",
+    "entities": {
+      "technology": [
+        "NeMo Framework",
+        "GPU"
+      ],
+      "Organization": [
+        "Nvidia"
+      ]
+    }
+  },
+  {
+    "sentence": "Thành quả giữa Viettel Solutions và Nvidia là bộ dữ liệu lớn phục vụ huấn luyện trợ lý AI tiếng Việt chất lượng cao đầu tiên được công bố, công khai toàn bộ mã nguồn xử lý, đóng góp cho cộng đồng nghiên cứu, phát triển và huấn luyện AI.",
+    "entities": {
+      "Organization": [
+        "Viettel Solutions",
+        "Nvidia"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong tương lai, hai đơn vị sẽ tiếp tục bổ sung thêm các nguồn dữ liệu mới, đảm bảo bộ dữ liệu Tiếng Việt đa dạng hơn về chủ đề và chuẩn xác, sâu sắc hơn về nội dung.",
+    "entities": {
+      "Organization": [
+        "đơn vị"
+      ],
+      "Datetime": [
+        "tương lai"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước đó, Viettel và Nvidia đã thiết lập mối quan hệ hợp tác chiến lược về AI, mở đầu cho các hoạt động nghiên cứu, ứng dụng tại Việt Nam từ năm 2022.",
+    "entities": {
+      "Organization": [
+        "Viettel",
+        "Nvidia"
+      ],
+      "Datetime": [
+        "2022"
+      ]
+    }
+  },
+  {
+    "sentence": "Mới đây, ngày 5/12, Chính phủ Việt Nam và Nvidia tiếp tục ký kết thành lập Trung tâm Nghiên cứu và Phát triển AI của Nvidia và Trung tâm Dữ liệu AI của Viettel.",
+    "entities": {
+      "Organization": [
+        "Nvidia",
+        "Việt Nam",
+        "Viettel"
+      ],
+      "Datetime": [
+        "5/12"
+      ]
+    }
+  },
+  {
+    "sentence": "Đại diện Viettel cho biết, quá trình hợp tác với Nvidia giúp doanh nghiệp xây dựng dữ liệu sạch hơn, mô hình tốt hơn khi loại bỏ dữ liệu trùng lặp và không phù hợp.",
+    "entities": {
+      "Organization": [
+        "Viettel",
+        "Nvidia"
+      ]
+    }
+  },
+  {
+    "sentence": "Dữ liệu tinh gọn hơn cũng giúp quá trình huấn luyện nhanh gấp 4 lần.",
+    "entities": {
+      "technology": [
+        "huấn luyện"
+      ]
+    }
+  },
+  {
+    "sentence": "Đội ngũ phát triển của Viettel Solutions cũng sử dụng công cụ NeMo Curator, thư viện được thiết kế riêng cho việc xử lý dữ liệu cho AI tạo sinh như tiền huấn luyện mô hình ngôn ngữ nền tảng, tiền huấn luyện thích ứng miền (DAPT), tinh chỉnh có giám sát (SFT) và tinh chỉnh hiệu quả tham số (PEFT).",
+    "entities": {
+      "Organization": [
+        "Viettel Solutions"
+      ],
+      "Technology": [
+        "NeMo Curator",
+        "AI",
+        "DAPT",
+        "SFT",
+        "PEFT"
+      ]
+    }
+  },
+  {
+    "sentence": "Công cụ này hỗ trợ tăng tốc quản lý dữ liệu bằng cách tận dụng GPU với Dask và RAPIDS, giúp tiết kiệm thời gian đáng kể.",
+    "entities": {
+      "technology": [
+        "Dask",
+        "RAPIDS",
+        "GPU"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước sự gia tăng của các mối đe dọa an ninh mạng, việc trang bị giải pháp bảo mật giúp người dùng bảo vệ an toàn thông tin cá nhân và là lựa chọn tiên quyết giúp đảm bảo an toàn dữ liệu và duy trì hoạt động ổn định cho doanh nghiệp, đại diện MobiFone cho biết.",
+    "entities": {
+      "Organization": [
+        "MobiFone"
+      ]
+    }
+  },
+  {
+    "sentence": "Các tính năng chính của dịch vụ MobiSafe gồm: bảo vệ trẻ em trên không gian mạng; ngăn chặn virus, mã độc; bảo vệ truy cập web; phòng chống lừa đảo; cảnh báo lộ dữ liệu; tạo - quản lý mật khẩu.",
+    "entities": {
+      "Organization": [
+        "MobiSafe"
+      ]
+    }
+  },
+  {
+    "sentence": "With the feature of protecting children online, MobiSafe limits device usage by the hour, blocks nighttime usage, and blocks inappropriate websites for their age group.",
+    "entities": {
+      "Organization": [
+        "MobiSafe"
+      ]
+    }
+  },
+  {
+    "sentence": "Dịch vụ này do MobiFone hợp tác cùng tập đoàn bảo mật F-Secure (Phần Lan) thực hiện.",
+    "entities": {
+      "Organization": [
+        "MobiFone",
+        "F-Secure"
+      ]
+    }
+  },
+  {
+    "sentence": "MobiSafe có thể phát hiện và ngăn chặn các hình thức lừa đảo trực tuyến qua đường link giả mạo đánh cắp thông tin và tài khoản của người dùng.",
+    "entities": {
+      "Organization": [
+        "MobiSafe"
+      ]
+    }
+  },
+  {
+    "sentence": "Phần mềm được chứng nhận bảo mật bởi AV-Test.Org, có khả năng bảo vệ hơn 30 triệu người dùng khỏi các rủi ro tấn công mạng, ngăn chặn các mã độc đòi tiền chuộc hoặc lấy cắp tiền trong tài khoản ngân hàng.",
+    "entities": {
+      "Organization": [
+        "AV-Test.Org"
+      ],
+      "Person": [],
+      "technology": [
+        "mã độc"
+      ],
+      "Datetime": []
+    }
+  },
+  {
+    "sentence": "Người dùng có thể sử dụng trên mọi thiết bị cá nhân (điện thoại, máy tính, máy tính bảng) với các hệ điều hành khác nhau (Android, iOS, Windows, macOS) hoặc có thể tích hợp vào ứng dụng My MobiFone.",
+    "entities": {
+      "technology": [
+        "thiết bị cá nhân",
+        "điện thoại",
+        "máy tính",
+        "máy tính bảng",
+        "Android",
+        "iOS",
+        "Windows",
+        "macOS",
+        "ứng dụng My MobiFone"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo thống kê của Trung tâm ứng cứu và Bảo mật An ninh mạng Việt Nam và châu Á - VnetWork, năm 2024, Việt Nam ghi nhận thiệt hại 9,5 nghìn tỷ USD do tấn công mạng, dự báo lên tới 17,9 nghìn tỷ USD vào năm 2030.",
+    "entities": {
+      "Organization": [
+        "Trung tâm ứng cứu và Bảo mật An ninh mạng Việt Nam và châu Á - VnetWork"
+      ],
+      "Datetime": [
+        "2024",
+        "2030"
+      ]
+    }
+  },
+  {
+    "sentence": "Tại Việt Nam, tin tặc đã áp dụng nhiều phương thức tấn công khác nhau như: bằng phần mềm độc hại; tấn công mạng xã hội, giả mạo - social, phising; tấn công doanh nghiệp cung cấp ứng dụng, phần mềm; tấn công mã hóa đòi tiền chuộc - ransomware; tấn công từ chối dịch vụ - DdoS; khai thác lỗ hổng bảo mật 0-day; tấn công ứng dụng; tấn công bằng AI - machine learning.",
+    "entities": {
+      "technology": [
+        "phần mềm độc hại",
+        "mạng xã hội",
+        "phần mềm",
+        "ransomware",
+        "AI",
+        "machine learning"
+      ],
+      "Datetime": [],
+      "Organization": [],
+      "Person": []
+    }
+  },
+  {
+    "sentence": "Trong đó, phần mềm độc hại (malware) là mối đe dọa phổ biến nhất.",
+    "entities": {
+      "malware": [
+        "phần mềm độc hại"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong nửa đầu năm 2024, các mối đe dọa dựa trên phần mềm độc hại tăng 30% so với cùng kỳ 2023, đỉnh điểm tăng 92% trong tháng 5 (CIS).",
+    "entities": {
+      "Organization": [
+        "CIS"
+      ]
+    }
+  },
+  {
+    "sentence": "Việt Nam là nước đầu tiên hợp tác cùng Google triển khai sáng kiến mới này, Cục cho biết.",
+    "entities": {
+      "Organization": [
+        "Google",
+        "Cục"
+      ]
+    }
+  },
+  {
+    "sentence": "Cách làm mới được đánh giá mang lại nhiều giá trị tại Việt Nam, khi số lượng ứng dụng của chính phủ trên nền tảng đang tăng nhanh.",
+    "entities": {
+      "Organization": [
+        "chính phủ"
+      ],
+      "technology": [
+        "nền tảng"
+      ]
+    }
+  },
+  {
+    "sentence": "Những ứng dụng như VneID, VssID, i-SPEED, Hóa Đơn Điện Tử TCT, Dịch Vụ Công Bộ Y Tế khi truy cập trên Google Play sẽ có thêm biểu tượng Chính phủ.",
+    "entities": {
+      "Organization": [
+        "Google Play"
+      ],
+      "Government": [
+        "Chính phủ"
+      ]
+    }
+  },
+  {
+    "sentence": "Sáng 20/12, Cục An toàn thông tin - Bộ Thông tin và Truyền thông cho biết đã hợp tác với Google và các cơ quan liên quan, cấp nhận diện cho ứng dụng chính phủ.",
+    "entities": {
+      "Organization": [
+        "Cục An toàn thông tin",
+        "Bộ Thông tin và Truyền thông",
+        "Google"
+      ],
+      "Datetime": [
+        "20/12"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo Cục An toàn thông tin, hiện có 86 ứng dụng được cấp dấu xác minh, giúp người dùng dễ nhận diện ứng dụng chính thức do cơ quan nhà nước, tăng cường bảo vệ người dùng trước các hành vi lừa đảo và đảm bảo an toàn trực tuyến tại Việt Nam.",
+    "entities": {
+      "Organization": [
+        "Cục An toàn thông tin"
+      ],
+      "Person": []
+    }
+  },
+  {
+    "sentence": "Theo ông Trần Quang Hưng, Quyền Cục trưởng An toàn thông tin, tính năng nhận diện trên Google Play là bước tiến quan trọng trong việc hỗ trợ người dân Việt Nam tiếp cận các ứng dụng đáng tin cậy.",
+    "entities": {
+      "Person": [
+        "Trần Quang Hưng"
+      ],
+      "Organization": [
+        "Google Play"
+      ],
+      "technology": [
+        "tính năng nhận diện"
+      ]
+    }
+  },
+  {
+    "sentence": "Điều này không chỉ giúp dễ dàng biết và sử dụng dịch vụ công chính thức, mà còn góp phần nâng cao nhận thức và niềm tin vào dịch vụ số của Nhà nước, ông nói.",
+    "entities": {
+      "Person": [
+        "ông"
+      ]
+    }
+  },
+  {
+    "sentence": "Wilson White, Phó chủ tịch Bộ phận Chính sách công và Quan hệ chính phủ khu vực châu Á - Thái Bình Dương của Google, cho biết sẽ liên tục bổ sung tính năng mới để giúp người dùng tìm thấy ứng dụng mong muốn, và việc cấp nhận diện ứng dụng chính phủ là một phần trong quyết tâm đó.",
+    "entities": {
+      "Person": [
+        "Wilson White"
+      ],
+      "Organization": [
+        "Google"
+      ]
+    }
+  },
+  {
+    "sentence": "Cùng với 5G cho người dùng cuối, VinaPhone cho biết sẽ triển khai giải pháp mạng riêng Private 5G Network cho nhóm ngành như sản xuất, y tế, giáo dục; cá thể hóa mạng theo nhu cầu bằng Network Slicing; đồng thời thiết kế sẵn mô hình ứng dụng để tối ưu hóa nhu cầu của từng nhóm ngành.",
+    "entities": {
+      "Organization": [
+        "VinaPhone"
+      ],
+      "Technology": [
+        "5G",
+        "Private 5G Network",
+        "Network Slicing"
+      ]
+    }
+  },
+  {
+    "sentence": "Khác với mạng 5G của Viettel triển khai hồi tháng 10 trên băng tần 2.500-2.600 MHz, 5G của VinaPhone dùng băng tần 3.700-3.800 Mhz, về lý thuyết có độ phủ trên một trạm nhỏ hơn, nhưng tốc độ cao hơn.",
+    "entities": {
+      "Organization": [
+        "Viettel",
+        "VinaPhone"
+      ]
+    }
+  },
+  {
+    "sentence": "VinaPhone cho biết mạng có thể đạt 1,5 Gbps, gấp 10-20 lần 4G và người dùng ngay lập tức cảm nhận tốc độ vượt trội, đặc biệt với dịch vụ đòi hỏi băng thông lớn, độ trễ thấp như chơi game trên đám mây, livestream, xem video 4K/8K/360, đồng thời có thể phát qua wifi để chia sẻ cho các thiết bị khác.",
+    "entities": {
+      "Organization": [
+        "VinaPhone"
+      ],
+      "Technology": [
+        "4G",
+        "1,5 Gbps",
+        "4K",
+        "8K",
+        "360",
+        "Wifi"
+      ]
+    }
+  },
+  {
+    "sentence": "Người dùng các gói cước 4G của VinaPhone hiện tại có thể được tự động nâng lên 5G, với điều kiện sử dụng thiết bị có hỗ trợ công nghệ mới và trong khu vực phủ sóng.",
+    "entities": {
+      "Organization": [
+        "VinaPhone"
+      ],
+      "Technology": [
+        "4G",
+        "5G"
+      ]
+    }
+  },
+  {
+    "sentence": "Ngoài ra, nhà mạng cũng đưa ra các gói cước dung lượng lớn dành riêng cho người dùng 5G, giá 199.000-349.000 nghìn đồng, được sử dụng 240-300 GB mỗi tháng, tương đương 8-10 GB mỗi ngày, cùng một số ưu đãi về gọi điện, tin nhắn, và miễn phí xem một số dịch vụ mạng xã hội phổ biến.",
+    "entities": {
+      "Organization": [
+        "nhà mạng"
+      ],
+      "Datetime": [],
+      "Person": [],
+      "technology": [
+        "5G"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhà mạng cho biết sẽ tiếp tục mở rộng phủ sóng trong năm 2025, đặt mục tiêu sớm phủ 85% dân số thời gian tới.",
+    "entities": {
+      "Organization": [
+        "Nhà mạng"
+      ],
+      "Datetime": [
+        "2025"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo yêu cầu về đấu giá tần số, doanh nghiệp trúng thầu phải triển khai dịch vụ trong vòng 12 tháng kể từ ngày được cấp phép và sau hai năm phải có tối thiểu 3.000 trạm phát sóng 5G.",
+    "entities": {
+      "technology": [
+        "5G"
+      ],
+      "Organization": [
+        "doanh nghiệp"
+      ],
+      "Datetime": [
+        "12 tháng",
+        "hai năm"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhà mạng cho biết triển khai 5G theo chuẩn mới nhất của thế giới là 64T64R Massive MIMO & Beamforming, sử dụng chipset 5 nm.",
+    "entities": {
+      "technology": [
+        "5G",
+        "MIMO",
+        "Beamforming"
+      ],
+      "Organization": [
+        "Nhà mạng"
+      ]
+    }
+  },
+  {
+    "sentence": "Mạng này sử dụng nền tảng kiến trúc kết hợp 5G SA và 5G NSA (5G độc lập và không độc lập).",
+    "entities": {
+      "technology": [
+        "5G SA",
+        "5G NSA"
+      ]
+    }
+  },
+  {
+    "sentence": "Vị trí triển khai ban đầu tập trung vào khu vực trọng điểm về kinh tế xã hội như trung tâm hành chính quận, huyện, khu công nghiệp, cảng biển, sân bay, trường học, bệnh viện, khu du lịch.",
+    "entities": {
+      "Organization": [
+        "trung tâm hành chính quận",
+        "huyện",
+        "khu công nghiệp",
+        "cảng biển",
+        "sân bay",
+        "trường học",
+        "bệnh viện",
+        "khu du lịch"
+      ]
+    }
+  },
+  {
+    "sentence": "Sáng 20/12, tập đoàn VNPT công bố thương mại hóa mạng 5G cho người dùng VinaPhone trên cả nước, 8 tháng sau khi nhận giấy phép.",
+    "entities": {
+      "Organization": [
+        "VNPT",
+        "VinaPhone"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước đây khi kiểm tra một văn bằng, có thể phải gửi về trường nhờ xác minh.",
+    "entities": {
+      "Organization": [
+        "trường"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, giải pháp mới cho phép thực hiện chỉ qua smartphone từ bất cứ đâu, ông Huy nói.",
+    "entities": {
+      "Person": [
+        "Ông Huy"
+      ]
+    }
+  },
+  {
+    "sentence": "Bên cạnh mã định danh (UID), mỗi chip NFC có chứa thông tin định danh của chính chip đó, bao gồm chữ ký mã hóa và thông tin nhà sản xuất, giúp xác định đơn vị sản xuất và cung cấp văn bằng.",
+    "entities": {
+      "technology": [
+        "NFC"
+      ],
+      "Organization": [
+        "nhà sản xuất"
+      ]
+    }
+  },
+  {
+    "sentence": "Thông tin này là duy nhất cho mỗi chip, không thể thay đổi hay làm giả, đại diện Phygital Labs nói, so sánh với một hình thức khác là QR code vốn có thể bị sao chép dễ dàng.",
+    "entities": {
+      "Organization": [
+        "Phygital Labs"
+      ]
+    }
+  },
+  {
+    "sentence": "Dẫn thống kê ngành chống hàng giả toàn cầu với nhu cầu tem NFC/RFID tăng 25%, đại diện Phygital Labs cho biết đây cũng là xu hướng chung trên thế giới, được nhiều thương hiệu hàng xa xỉ sử dụng nhằm giúp người dùng tránh mua phải hàng giả.",
+    "entities": {
+      "Organization": [
+        "Phygital Labs"
+      ],
+      "Person": [],
+      "Technology": [
+        "NFC/RFID"
+      ],
+      "Datetime": []
+    }
+  },
+  {
+    "sentence": "Giải pháp hỗ trợ thực hiện hai chức năng chính, gồm: Truy xuất thông tin giấy tờ, đảm bảo thông tin đang kiểm tra là chính xác liên quan đến giấy tờ; và xác minh tính thật giả để đảm bảo rằng phiên bản vật lý đang cần kiểm tra là bản gốc đã được chứng thực.",
+    "entities": {
+      "technology": [
+        "Giải pháp",
+        "Truy xuất thông tin giấy tờ",
+        "xác minh tính thật giả"
+      ],
+      "Organization": []
+    }
+  },
+  {
+    "sentence": "Ngoài tính tiện lợi, ông Huy cho biết chip NFC là loại dán hoặc gắn bên trong phôi giấy tờ, được mã hóa, đồng thời có tính năng chống giả mạo.",
+    "entities": {
+      "Organization": [
+        "Huy"
+      ],
+      "technology": [
+        "NFC"
+      ]
+    }
+  },
+  {
+    "sentence": "Chip NFC được sử dụng là NTAG 424, có độ mã hóa bảo mật cao, chịu được thay đổi nhiệt độ lớn và độ bền có thể lên tới hàng chục năm.",
+    "entities": {
+      "technology": [
+        "NTAG 424",
+        "NFC"
+      ],
+      "Organization": []
+    }
+  },
+  {
+    "sentence": "Khi bị tác động vật lý, như ai đó cố tình bóc ra, chip sẽ bị vô hiệu hóa.",
+    "entities": {
+      "Person": [
+        "ai đó"
+      ]
+    }
+  },
+  {
+    "sentence": "Thông tin cũng được đưa lên blockchain để đảm bảo minh bạch, truy xuất thông tin dễ dàng và an toàn.",
+    "entities": {
+      "technology": [
+        "blockchain"
+      ]
+    }
+  },
+  {
+    "sentence": "Sau sự gợi mở từ chuyên gia cùng nhiều tháng phối hợp làm việc, trường chọn phương án hai.",
+    "entities": {
+      "Person": [
+        "chuyên gia"
+      ]
+    }
+  },
+  {
+    "sentence": "Các văn bằng được cấp sẽ đính kèm một chip NFC/RFID phục vụ xác thực.",
+    "entities": {
+      "technology": [
+        "NFC",
+        "RFID"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo ông Huy Nguyễn, nhà đồng sáng lập Phygital Labs, đơn vị chuyên thực hiện định danh số bằng chip NFC, giải pháp này giúp truy xuất thông tin giấy tờ và xác minh tính thật giả.",
+    "entities": {
+      "Person": [
+        "Huy Nguyễn"
+      ],
+      "Organization": [
+        "Phygital Labs"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhờ đó, cơ quan, doanh nghiệp, tổ chức, người lao động có thể tra cứu và xác thực văn bằng, chứng chỉ với điện thoại thông minh hay máy tính có kết nối Internet.",
+    "entities": {
+      "Organization": [
+        "cơ quan",
+        "doanh nghiệp",
+        "tổ chức"
+      ],
+      "Person": [
+        "người lao động"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo đó, khi dùng thiết bị có tính năng quét NFC như smartphone, một bản sao của giấy tờ sẽ được hiển thị trên điện thoại kèm chứng nhận từ đơn vị phát hành.",
+    "entities": {
+      "technology": [
+        "smartphone",
+        "NFC"
+      ],
+      "Organization": [
+        "đơn vị phát hành"
+      ]
+    }
+  },
+  {
+    "sentence": "Để xác minh tính thật giả, người sử dụng có thể dùng app chuyên dụng Nomion và ứng dụng sẽ hiển thị giấy tờ đó có phải bản gốc đã được xác thực hay chưa.",
+    "entities": {
+      "technology": [
+        "Nomion"
+      ],
+      "Person": [
+        "người sử dụng"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước đó, đơn vị này cũng kết hợp với Trung tâm Bảo tồn Di tích Cố đô Huế ứng dụng giải pháp xác thực lên đồ lưu niệm.",
+    "entities": {
+      "Organization": [
+        "Trung tâm Bảo tồn Di tích Cố đô Huế"
+      ],
+      "Location": [
+        "Huế"
+      ]
+    }
+  },
+  {
+    "sentence": "Từ đó, trung tâm có thể đưa vật phẩm lên môi trường số, đảm bảo bản quyền, đồng thời mở ra tiềm năng phát triển trên môi trường số mà không ảnh hưởng đến vật thể thực tế.",
+    "entities": {
+      "technology": [
+        "môi trường số"
+      ],
+      "Organization": [
+        "trung tâm"
+      ]
+    }
+  },
+  {
+    "sentence": "Tại lễ công bố quyền tác giả Phần mềm tự xác thực giấy tờ tại Trường Cao đẳng Huế ngày 19/12, Hiệu trưởng Hoàng Bảo Hùng cho biết nhu cầu sử dụng phiên bản số của giấy tờ, như văn bằng là nhu cầu lớn khi sinh viên tốt nghiệp và đi làm.",
+    "entities": {
+      "Person": [
+        "Hoàng Bảo Hùng"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, trường từng gặp khó khăn khi chọn hướng triển khai.",
+    "entities": {
+      "Organization": [
+        "trường"
+      ]
+    }
+  },
+  {
+    "sentence": "Chúng tôi trăn trở làm văn bằng số bằng cách nào.",
+    "entities": {
+      "technology": [
+        "văn bằng số"
+      ]
+    }
+  },
+  {
+    "sentence": "Đó là file điện tử được ký số, hay một bản sao của giấy tờ được định danh số trên không gian mạng, ông Hùng nói.",
+    "entities": {
+      "Person": [
+        "ông Hùng"
+      ]
+    }
+  },
+  {
+    "sentence": "Hiện Indonesia yêu cầu sản phẩm từ công ty điện tử nước ngoài phải có 35-40% thành phần xuất xứ trong nước trở lên nếu muốn bán tại đây.",
+    "entities": {
+      "Organization": [
+        "Indonesia"
+      ],
+      "Person": []
+    }
+  },
+  {
+    "sentence": "Tại khu vực Đông Nam Á, Apple không có cơ sở sản xuất ở Indonesia, thay vào đó, công ty vận hành các học viện phát triển tại Jakarta và Batam, chủ yếu đào tạo tài năng và nghiên cứu đổi mới.",
+    "entities": {
+      "Organization": [
+        "Apple"
+      ]
+    }
+  },
+  {
+    "sentence": "Một phần của khoản đầu tư một tỷ USD cũng sẽ được dùng để thành lập một nhà máy ở Bandung, phía đông nam Jakarta.",
+    "entities": {
+      "Location": [
+        "Bandung",
+        "Jakarta"
+      ]
+    }
+  },
+  {
+    "sentence": "Nơi đây sẽ sản xuất phụ kiện, tài trợ cho các học viện mà Apple đang có sự hiện diện.",
+    "entities": {
+      "Organization": [
+        "Apple"
+      ]
+    }
+  },
+  {
+    "sentence": "Nguồn tin cũng cho biết nhà máy AirTags tại Batam sẽ tuyển dụng khoảng 1.000 công nhân trong giai đoạn đầu.",
+    "entities": {
+      "Organization": [
+        "AirTags"
+      ],
+      "Location": [
+        "Batam"
+      ],
+      "Person": [],
+      "Datetime": [],
+      "technology": []
+    }
+  },
+  {
+    "sentence": "Khi hoàn tất xây dựng, nơi đây đảm nhiệm 20% sản lượng AirTags toàn cầu.",
+    "entities": {
+      "technology": [
+        "AirTags"
+      ]
+    }
+  },
+  {
+    "sentence": "Indonesia sẽ bỏ lệnh cấm kinh doanh iPhone 16 sau khi Tổng thống Prabowo Subianto chấp thuận khoản đầu tư một tỷ USD từ Apple.",
+    "entities": {
+      "Person": [
+        "Prabowo Subianto"
+      ],
+      "Organization": [
+        "Apple"
+      ]
+    }
+  },
+  {
+    "sentence": "Nguồn tin nhấn mạnh ông Subianto đã nồng nhiệt với đề xuất của công ty Mỹ trong cuộc họp diễn ra cuối tuần trước, dù giữa cả hai bên đã có sự giằng co.",
+    "entities": {
+      "Person": [
+        "Subianto"
+      ],
+      "Organization": [
+        "Mỹ"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo Reuters, nếu thỏa thuận thành công, đây sẽ là chiến thắng lớn cho Tổng thống Subianto, người đang tìm cách thu hút nhiều khoản đầu tư nước ngoài hơn nhằm tài trợ cho các cam kết chính sách của mình.",
+    "entities": {
+      "Person": [
+        "Subianto"
+      ]
+    }
+  },
+  {
+    "sentence": "Điều này cũng báo hiệu chiến thuật cứng rắn, buộc các tập đoàn lớn nước ngoài đầu tư vào Indonesia một cách hiệu quả.",
+    "entities": {
+      "Organization": [
+        "Indonesia"
+      ]
+    }
+  },
+  {
+    "sentence": "Dù vậy, việc này cũng có nguy cơ khiến các công ty khác lo ngại đến một ngày nào đó, họ cũng có thể bị chính phủ ép mở rộng hoạt động hoặc đối mặt với lệnh cấm bán hàng.",
+    "entities": {
+      "Organization": [
+        "chính phủ"
+      ]
+    }
+  },
+  {
+    "sentence": "Việt Nam đứng đầu khu vực và đứng thứ tư thế giới về số lượng cơ sở sản xuất cho Apple.",
+    "entities": {
+      "Organization": [
+        "Apple"
+      ],
+      "Location": [
+        "Việt Nam",
+        "khu vực",
+        "thế giới"
+      ]
+    }
+  },
+  {
+    "sentence": "Hãng không trực tiếp xây dựng và sở hữu nhà máy, mà thông qua đối tác đặt 35 cơ sở ở Việt Nam, 24 ở Thái Lan, 23 ở Singapore, 19 ở Malaysia và 17 tại Philippines.",
+    "entities": {
+      "Organization": [
+        "Hãng"
+      ],
+      "Location": [
+        "Việt Nam",
+        "Thái Lan",
+        "Singapore",
+        "Malaysia",
+        "Philippines"
+      ]
+    }
+  },
+  {
+    "sentence": "Tại cuộc họp, Subianto bật đèn xanh cho cơ quan chức năng chấp nhận đề xuất của Apple và thúc giục nội các tìm kiếm thêm các khoản đầu tư tương tự trong tương lai.",
+    "entities": {
+      "Person": [
+        "Subianto"
+      ],
+      "Organization": [
+        "Apple"
+      ]
+    }
+  },
+  {
+    "sentence": "Phía công ty Mỹ cũng gửi văn bản đề xuất kế hoạch mở rộng tại quốc gia này, trước mắt sẽ thông qua đối tác xây dựng một nhà máy sản xuất AirTags trên đảo Batam - cách Singapore 45 phút đi phà.",
+    "entities": {
+      "Organization": [
+        "Phía công ty Mỹ"
+      ],
+      "Location": [
+        "Singapore",
+        "đảo Batam"
+      ],
+      "Technology": [
+        "AirTags"
+      ]
+    }
+  },
+  {
+    "sentence": "Apple chọn nơi này vì là khu thương mại tự do, miễn các loại thuế gồm thuế giá trị gia tăng, thuế hàng xa xỉ cũng như thuế nhập khẩu.",
+    "entities": {
+      "Organization": [
+        "Apple"
+      ]
+    }
+  },
+  {
+    "sentence": "Từ giữa tháng 10, Indonesia cấm bán iPhone 16 vì không đáp ứng điều kiện tỷ lệ nội địa hóa của địa phương.",
+    "entities": {
+      "Organization": [
+        "Indonesia"
+      ],
+      "technology": [
+        "iPhone 16"
+      ]
+    }
+  },
+  {
+    "sentence": "Ban đầu, Apple đề xuất chi 10 triệu USD, sau đó nâng lên 100 triệu USD để thông qua đối tác mở một nhà máy phụ kiện và linh kiện tại quốc gia lớn nhất Đông Nam Á với hy vọng gỡ bỏ lệnh cấm.",
+    "entities": {
+      "Organization": [
+        "Apple"
+      ],
+      "Datetime": [
+        "không có"
+      ],
+      "Person": [
+        "không có"
+      ],
+      "technology": [
+        "không có"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, chính phủ Indonesia từ chối, cho rằng con số này không đáp ứng nguyên tắc công bằng về đầu tư, đồng thời chờ đợi Apple cam kết một tỷ USD.",
+    "entities": {
+      "Organization": [
+        "Apple",
+        "chính phủ Indonesia"
+      ]
+    }
+  },
+  {
+    "sentence": "Văn phòng Tổng thống Indonesia, Apple và Bộ Điều phối Kinh tế Indonesia chưa đưa ra bình luận.",
+    "entities": {
+      "Organization": [
+        "Văn phòng Tổng thống Indonesia",
+        "Apple",
+        "Bộ Điều phối Kinh tế Indonesia"
+      ]
+    }
+  },
+  {
+    "sentence": "Ông Subianto được cho là đã chỉ đạo Bộ Điều phối Kinh tế Indonesia đẩy nhanh quá trình hoàn tất thỏa thuận.",
+    "entities": {
+      "Person": [
+        "Ông Subianto"
+      ],
+      "Organization": [
+        "Bộ Điều phối Kinh tế Indonesia"
+      ]
+    }
+  },
+  {
+    "sentence": "Apple announced the new iPhone 16 and AirPods Pro 2 at the annual Worldwide Developers Conference (WWDC) in San Jose, California, on June 7, 2023.",
+    "entities": {
+      "Organization": [
+        "Apple"
+      ],
+      "Datetime": [
+        "June 7, 2023"
+      ],
+      "Location": [
+        "San Jose, California"
+      ]
+    }
+  },
+  {
+    "sentence": "Ba sản phẩm trong bộ sưu tập Bespoke AI trong nhà bếp của Samsung.",
+    "entities": {
+      "Organization": [
+        "Samsung"
+      ],
+      "Product": [
+        "Ba sản phẩm"
+      ]
+    }
+  },
+  {
+    "sentence": "Ở bên trái, phía trên là lò nướng Samsung tích hợp AI, có camera theo dõi thực phẩm bên trong và cảnh báo nướng cháy.",
+    "entities": {
+      "Organization": [
+        "Samsung"
+      ],
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Camera này sẽ đưa hình ảnh đến ứng dụng Smartthings để theo dõi quá trình nướng.",
+    "entities": {
+      "technology": [
+        "Smartthings",
+        "camera"
+      ]
+    }
+  },
+  {
+    "sentence": "Lò nướng này cũng nhận biết được 80 món ăn và nguyên liệu khác nhau để gợi ý chế biến đến người dùng.",
+    "entities": {
+      "Organization": [
+        "Lò nướng"
+      ],
+      "Person": [
+        "người dùng"
+      ]
+    }
+  },
+  {
+    "sentence": "Bình chọn thương hiệu máy rửa bát xuất sắc 2024 tại đây.",
+    "entities": {
+      "Organization": [
+        "Bình chọn"
+      ]
+    }
+  },
+  {
+    "sentence": "Bếp từ Samsung có công suất 7.400 W kèm chức năng gia nhiệt nhanh.",
+    "entities": {
+      "technology": [
+        "Samsung",
+        "bếp từ"
+      ],
+      "Organization": [
+        "Samsung"
+      ]
+    }
+  },
+  {
+    "sentence": "Nằm trong bộ sưu tập Bespoke AI, người dùng có thể điều khiển bếp thông qua ứng dụng SmartThings, hoặc theo dõi hàng ngàn công thức nấu ăn có trên ứng dụng.",
+    "entities": {
+      "Organization": [
+        "Bespoke AI",
+        "SmartThings"
+      ]
+    }
+  },
+  {
+    "sentence": "Với chức năng tự động kết nối, người dùng có thể điều khiển máy hút mùi (phía trên) bằng nút bấm ngay trên bếp.",
+    "entities": {
+      "technology": [
+        "máy hút mùi"
+      ],
+      "organization": [
+        "phía trên"
+      ]
+    }
+  },
+  {
+    "sentence": "Các sản phẩm trong bộ sưu tập Bespoke AI của Samsung.",
+    "entities": {
+      "Organization": [
+        "Samsung"
+      ]
+    }
+  },
+  {
+    "sentence": "Bếp từ (bên phải) có vùng nấu linh hoạt (Dual Flex Zone) giúp người dùng có thể kết hợp nấu nhiều món khác nhau cùng lúc, đáp ứng đa dạng kích thước nồi, chảo.",
+    "entities": {
+      "technology": [
+        "Bếp từ"
+      ],
+      "Organization": [
+        "Dual Flex Zone"
+      ]
+    }
+  },
+  {
+    "sentence": "Người dùng cũng có thể kết hợp hai vùng nấu thành một",
+    "entities": {
+      "Person": [
+        "Người dùng"
+      ]
+    }
+  },
+  {
+    "sentence": "Máy giặt sấy bơm nhiệt Bespoke AI Heatpump tại một sự kiện.",
+    "entities": {
+      "Organization": [
+        "Bespoke AI"
+      ],
+      "Technology": [
+        "Heatpump"
+      ]
+    }
+  },
+  {
+    "sentence": "Đây là dòng sản phẩm tiên phong tại Việt Nam ứng dụng công nghệ sấy bơm nhiệt AI Heatpump, chu trình giặt sấy nhanh 98 phút, cảm biến AI Wash & Dry và các cảm biến khác giúp tối ưu hiệu quả.",
+    "entities": {
+      "technology": [
+        "AI Heatpump",
+        "Wash & Dry"
+      ],
+      "Organization": [
+        "Việt Nam"
+      ]
+    }
+  },
+  {
+    "sentence": "Sản phẩm có thiết kế “All in one” tích hợp cả giặt và sấy, sử dụng qua màn hình điều khiển LCD cảm ứng 7 inch.",
+    "entities": {
+      "technology": [
+        "LCD"
+      ]
+    }
+  },
+  {
+    "sentence": "Người dùng có thể kết nối sản phẩm với smartphone để thay đổi nhiệt độ, nhận thông báo khi quên đóng tủ… Tủ lạnh Bespoke tích hợp máy nén Digital Inverter và chế độ AI Energy có khả năng giảm đến 7% lượng điện năng tiêu thụ.",
+    "entities": {
+      "Organization": [
+        "Bespoke"
+      ],
+      "Technology": [
+        "Digital Inverter",
+        "AI Energy"
+      ]
+    }
+  },
+  {
+    "sentence": "Bình chọn thương hiệu tủ lạnh xuất sắc 2024 tại đây.",
+    "entities": {
+      "Organization": [
+        "LG",
+        "Samsung",
+        "Whirlpool",
+        "Panasonic",
+        "Frigidaire"
+      ]
+    }
+  },
+  {
+    "sentence": "Người dùng có thể điều khiển máy giặt, các thiết bị khác trong hệ sinh thái SmartThings của Samsung.",
+    "entities": {
+      "Organization": [
+        "Samsung"
+      ],
+      "Technology": [
+        "SmartThings"
+      ]
+    }
+  },
+  {
+    "sentence": "Cửa lồng giặt thông minh có thể tự động mở khi bật máy hoặc sau khi kết thúc chu trình giặt, sấy.",
+    "entities": {
+      "technology": [
+        "cửa lồng giặt thông minh"
+      ],
+      "Organization": [
+        "máy"
+      ]
+    }
+  },
+  {
+    "sentence": "Bình chọn thương hiệu máy giặt xuất sắc 2024 tại đây.",
+    "entities": {
+      "Organization": [
+        "LG",
+        "Samsung"
+      ]
+    }
+  },
+  {
+    "sentence": "Người dùng sử dụng máy rửa bát trong bộ sưu tập Bespoke AI của Samsung.",
+    "entities": {
+      "Organization": [
+        "Samsung"
+      ],
+      "Technology": [
+        "máy rửa bát"
+      ]
+    }
+  },
+  {
+    "sentence": "Sản phẩm này có hệ thống WaterJet Clean 2 cánh quạt kép xoay từ, tăng gấp đôi lực nước, tích hợp chế độ diệt khuẩn Hygiene Care.",
+    "entities": {
+      "technology": [
+        "WaterJet Clean"
+      ],
+      "Organization": []
+    }
+  },
+  {
+    "sentence": "Cửa máy rửa bát sẽ tự động mở khi chu trình rửa được hoàn thành, giúp hơi nước thoát ra ngoài, hạn chế tình trạng đọng nước và tích tụ vi khuẩn và ám mùi.",
+    "entities": {
+      "technology": [
+        "máy rửa bát"
+      ]
+    }
+  },
+  {
+    "sentence": "Người dùng có thể dễ dàng cài đặt chế độ rửa, theo dõi chu trình rửa thông qua smartphone với ứng dụng SmartThings.",
+    "entities": {
+      "Organization": [
+        "SmartThings"
+      ]
+    }
+  },
+  {
+    "sentence": "Robot có lực hút là 6.000 Pa, hệ thống cảm biến LDS quét bản đồ dạng 3D, nhận diện vật thể, đồ nội thất trong nhà.",
+    "entities": {
+      "technology": [
+        "robot"
+      ],
+      "Organization": [
+        "LDS"
+      ]
+    }
+  },
+  {
+    "sentence": "Trạm sạc có thể giặt giẻ bằng nước nóng 50-60 độ C, hơi nước nóng 100 độ C và sấy khô bằng khí nóng 55 độ C.",
+    "entities": {
+      "technology": [
+        "trạm sạc"
+      ]
+    }
+  },
+  {
+    "sentence": "Dung tích túi chứa bụi là 2,5 lít, đủ để dùng trong khoảng 2-3 tháng.",
+    "entities": {
+      "technology": [
+        "túi chứa bụi"
+      ],
+      "datetime": [
+        "2-3 tháng"
+      ]
+    }
+  },
+  {
+    "sentence": "Robot hút bụi Samsung Bespoke Jet Bot có đầy đủ tính năng lau, hút, dock sạc tự động gom rác và giặt giẻ thông minh.",
+    "entities": {
+      "Organization": [
+        "Samsung"
+      ],
+      "Technology": [
+        "Robot hút bụi",
+        "Bespoke Jet Bot",
+        "dock sạc tự động",
+        "giặt giẻ thông minh"
+      ]
+    }
+  },
+  {
+    "sentence": "Sản phẩm có thiết kế tối giản, đúng triết lý dòng gia dụng Bespoke của Samsung như với tủ lạnh, máy giặt, máy rửa bát.",
+    "entities": {
+      "Organization": [
+        "Samsung"
+      ]
+    }
+  },
+  {
+    "sentence": "Samsung ra mắt dòng sản phẩm gia dụng Bespoke lần đầu vào năm 2021.",
+    "entities": {
+      "Organization": [
+        "Samsung"
+      ],
+      "Datetime": [
+        "2021"
+      ]
+    }
+  },
+  {
+    "sentence": "Đến năm nay, hãng này tiếp tục đổi mới hệ sinh thái gia dụng bằng việc ứng dụng AI giúp tối ưu trải nghiệm, nâng cao cuộc sống tiện nghi cho người dùng.",
+    "entities": {
+      "Organization": [
+        "hãng này"
+      ]
+    }
+  },
+  {
+    "sentence": "Sản phẩm thiết kế dạng âm, mặt kính với hai màu sắc tùy chọn trắng hoặc nâu beige.",
+    "entities": {
+      "technology": [
+        "sản phẩm"
+      ],
+      "material": [
+        "âm",
+        "kính"
+      ]
+    }
+  },
+  {
+    "sentence": "Kích thước dài, rộng và cao tương ứng 590 x 44 x 520 (mm), trọng lượng 11,3 kg.",
+    "entities": {
+      "technology": [
+        "mm"
+      ]
+    }
+  },
+  {
+    "sentence": "Tủ lạnh Bespoke có ngăn đông mềm linh hoạt Optimal Fresh+, bốn chế độ linh hoạt, phù hợp nhu cầu lưu trữ đối với nhiều loại thực phẩm khác nhau.",
+    "entities": {
+      "Organization": [
+        "Bespoke"
+      ]
+    }
+  },
+  {
+    "sentence": "Sản phẩm có hệ thống lọc giúp loại bỏ 99,99% vi khuẩn (Active Fresh Filter), công nghệ SpaceMax giúp tối ưu vật liệu cách nhiệt bên trong, cho phép tăng 20 lít dung tích so với thông thường.",
+    "entities": {
+      "technology": [
+        "Active Fresh Filter",
+        "SpaceMax"
+      ]
+    }
+  },
+  {
+    "sentence": "Đại diện Samsung Vina cho biết, hãng phát triển dòng sản phẩm Bespoke AI nhằm đơn giản hóa việc nhà, giúp người dùng có thêm thời gian để tận hưởng cuộc sống.",
+    "entities": {
+      "Organization": [
+        "Samsung Vina"
+      ],
+      "Person": [
+        "Đại diện"
+      ],
+      "Technology": [
+        "Bespoke AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Samsung kỳ vọng Bespoke AI sẽ trở thành trung tâm của cuộc cách mạng nhà thông minh, mang lại trải nghiệm cá nhân hóa toàn diện và cải thiện chất lượng sống của người dùng trên toàn cầu”, đại diện hãng nói.",
+    "entities": {
+      "Organization": [
+        "Samsung"
+      ],
+      "Person": [
+        "đại diện hãng"
+      ]
+    }
+  },
+  {
+    "sentence": "Điều này khẳng định tầm nhìn tạo ra một thế giới kết nối, bền vững và tiện nghi hơn cho tất cả mọi người.",
+    "entities": {
+      "Organization": [
+        "mọi người"
+      ]
+    }
+  },
+  {
+    "sentence": "Triển khai dịch vụ công hướng tới các mục tiêu này là nhiệm vụ và trách nhiệm của Viettel với Bộ Quốc phòng, Đại tá Nguyễn Mạnh Hổ khẳng định.",
+    "entities": {
+      "Person": [
+        "Đại tá Nguyễn Mạnh Hổ"
+      ],
+      "Organization": [
+        "Viettel",
+        "Bộ Quốc phòng"
+      ]
+    }
+  },
+  {
+    "sentence": "Còn theo Bộ Thông tin và Truyền thông, hệ thống này đạt 77,5 điểm, đứng thứ nhất trong số các bộ ngành tham gia đánh giá chất lượng hệ thống thông tin giải quyết thủ tục hành chính cấp bộ, tỉnh năm 2024.",
+    "entities": {
+      "Organization": [
+        "Bộ Thông tin và Truyền thông"
+      ],
+      "Person": [],
+      "technology": [],
+      "Datetime": [
+        "2024"
+      ]
+    }
+  },
+  {
+    "sentence": "Đây là năm thứ hai liên tiếp Bộ Quốc phòng đứng vị trí số một.",
+    "entities": {
+      "Organization": [
+        "Bộ Quốc phòng"
+      ]
+    }
+  },
+  {
+    "sentence": "Cổng dịch vụ công Bộ Quốc phòng ra đời muộn hơn so với các cổng dịch vụ công của nhiều bộ khác, do yêu cầu cao về bảo mật.",
+    "entities": {
+      "Organization": [
+        "Bộ Quốc phòng"
+      ]
+    }
+  },
+  {
+    "sentence": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel) xây dựng giải pháp phù hợp với nhu cầu đặc thù.",
+    "entities": {
+      "Organization": [
+        "Viettel"
+      ]
+    }
+  },
+  {
+    "sentence": "Cổng dịch vụ công Bộ Quốc phòng đã kết nối với hệ thống cổng dịch vụ công quốc gia, hệ thống cơ sở dữ liệu quốc gia về dân cư của Bộ Công an và hệ thống xác thực chữ ký số của Bộ Thông tin và Truyền thông, tích hợp thông tin và xác thực dữ liệu, nâng cao hiệu quả giải quyết thủ tục hành chính.",
+    "entities": {
+      "Organization": [
+        "Bộ Quốc phòng",
+        "Bộ Công an",
+        "Bộ Thông tin và Truyền thông"
+      ]
+    }
+  },
+  {
+    "sentence": "Hệ thống hiện cung cấp toàn bộ 241 thủ tục hành chính của Bộ Quốc phòng lên cổng dịch vụ công.",
+    "entities": {
+      "Organization": [
+        "Bộ Quốc phòng"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong đó, có 59 thủ tục đạt mức độ toàn trình và 182 thủ tục đạt mức độ một phần.",
+    "entities": {
+      "technology": [
+        "thủ tục"
+      ]
+    }
+  },
+  {
+    "sentence": "Đến 22/10 hệ thống tiếp nhận và xử lý 90.213 hồ sơ, đạt tỷ lệ 99% hồ sơ được giải quyết sớm và đúng hạn.",
+    "entities": {
+      "technology": [
+        "hệ thống"
+      ],
+      "Datetime": [
+        "22/10"
+      ],
+      "Organization": []
+    }
+  },
+  {
+    "sentence": "Ghi nhận có 867 tài khoản công dân, doanh nghiệp và 865 tài khoản cán bộ các đơn vị trong quân đội",
+    "entities": {
+      "Organization": [
+        "quân đội"
+      ],
+      "Person": [
+        "cán bộ"
+      ],
+      "technology": [
+        "tài khoản"
+      ]
+    }
+  },
+  {
+    "sentence": "Khai trương năm 2021, cổng dịch vụ công trực tuyến của Bộ Quốc phòng được thiết kế để tái cấu trúc và tối ưu hóa quy trình thủ tục hành chính, hướng tới năng lực thực hiện dịch vụ mọi lúc, mọi nơi trên các phương tiện khác nhau, qua đó tiết kiệm thời gian, công sức, chi phí.",
+    "entities": {
+      "Organization": [
+        "Bộ Quốc phòng"
+      ],
+      "Datetime": [
+        "2021"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo bộ chỉ số chỉ đạo, điều hành và đánh giá chất lượng phục vụ người dân, doanh nghiệp trong thực hiện thủ tục hành chính, dịch vụ công theo thời gian thực trên môi trường điện tử, Bộ Quốc phòng đạt 70,95 điểm, xếp thứ 2/20 bộ, ngành được đánh giá.",
+    "entities": {
+      "Organization": [
+        "Bộ Quốc phòng"
+      ]
+    }
+  },
+  {
+    "sentence": "Thời gian tới, tập đoàn Công nghiệp - Viễn thông Quân đội tiếp tục hoàn thiện giải pháp để cung cấp dịch vụ tốt hơn.",
+    "entities": {
+      "Organization": [
+        "Tập đoàn Công nghiệp - Viễn thông Quân đội"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong đó, công ty sẽ ứng dụng trí tuệ nhân tạo để xây dựng chatbot và callbot tự động trả lời thắc mắc.",
+    "entities": {
+      "Organization": [
+        "công ty"
+      ]
+    }
+  },
+  {
+    "sentence": "Hệ thống OCA tự động nhận dạng văn bản, hệ thống EKYC giúp tự định danh và hệ thống phân tích dữ liệu lớn giúp quản lý theo dõi và vận hành hiệu quả.",
+    "entities": {
+      "Organization": [
+        "OCA",
+        "EKYC"
+      ]
+    }
+  },
+  {
+    "sentence": "Đại tá Nguyễn Mạnh Hổ nhấn mạnh cổng dịch vụ này mang lại lợi ích to lớn cho xã hội bằng cách tạo điều kiện cho người dân thực hiện dịch vụ công online tại nhà với quy trình minh bạch và dễ dàng theo dõi.",
+    "entities": {
+      "Person": [
+        "Đại tá Nguyễn Mạnh Hổ"
+      ]
+    }
+  },
+  {
+    "sentence": "Đại tá Nguyễn Mạnh Hổ, Tổng giám đốc Tổng công ty Giải pháp Doanh nghiệp Viettel, cho biết Viettel đã áp dụng những công nghệ tiên tiến nhất để xây dựng giải pháp này.",
+    "entities": {
+      "Person": [
+        "Đại tá Nguyễn Mạnh Hổ"
+      ],
+      "Organization": [
+        "Tổng công ty Giải pháp Doanh nghiệp Viettel"
+      ]
+    }
+  },
+  {
+    "sentence": "Bao gồm công nghệ tạo quy trình động và điện toán đám mây nhằm mở rộng dịch vụ khi cần thiết.",
+    "entities": {
+      "technology": [
+        "công nghệ",
+        "điện toán đám mây"
+      ]
+    }
+  },
+  {
+    "sentence": "Các chuẩn bảo mật quốc tế do Viettel phát triển được áp dụng để đảm bảo an toàn thông tin.",
+    "entities": {
+      "Organization": [
+        "Viettel"
+      ]
+    }
+  },
+  {
+    "sentence": "Để tăng cường khả năng quản lý, dữ liệu được trình bày trên dashboard theo thời gian thực.",
+    "entities": {
+      "Organization": [
+        "dashboard"
+      ],
+      "technology": [
+        "data"
+      ]
+    }
+  },
+  {
+    "sentence": "Tìm kiếm dữ liệu lớn cũng được triển khai để tăng tiện ích, giảm thời gian chờ đợi.",
+    "entities": {
+      "technology": [
+        "Tìm kiếm dữ liệu lớn"
+      ]
+    }
+  },
+  {
+    "sentence": "AI cũng tham gia vào quá trình trải nghiệm chụp ảnh khi có thể phân tích, tăng cường độ nét cho những chi tiết bị nhòe.",
+    "entities": {
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Tính năng này hữu ích khi người dùng chụp lại những bức ảnh vội vàng hay vô tình làm mất nét những chi tiết quan trọng.",
+    "entities": {
+      "technology": [
+        "ảnh"
+      ],
+      "Person": [
+        "người dùng"
+      ]
+    }
+  },
+  {
+    "sentence": "AI hỗ trợ xử lý, loại bỏ những ánh sáng lóa trong bức hình như ánh đèn phản chiếu trên kính để bức ảnh trở nên tự nhiên hơn.",
+    "entities": {
+      "technology": [
+        "AI"
+      ],
+      "Datetime": [],
+      "Organization": [],
+      "Person": []
+    }
+  },
+  {
+    "sentence": "Ngoài ra, các tính năng như xóa vật thể AI, tự động biến hóa bức ảnh đa phong cách bằng AI vẫn có trên sản phẩm.",
+    "entities": {
+      "technology": [
+        "AI"
+      ],
+      "Organization": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Người dùng có thể tự tin khi chụp những bức ảnh ở nơi đông người, sau đó dùng công cụ hỗ trợ xóa và tự động tái tạo chi tiết cho phần còn thiếu.",
+    "entities": {
+      "technology": [
+        "công cụ hỗ trợ"
+      ]
+    }
+  },
+  {
+    "sentence": "Những người yêu sáng tạo có thể biến tấu những bức ảnh đã chụp theo nhiều phong cách khác nhau nhờ trợ giúp AI Studio.",
+    "entities": {
+      "Person": [
+        "sáng tạo"
+      ],
+      "Organization": [
+        "AI Studio"
+      ]
+    }
+  },
+  {
+    "sentence": "Bên cạnh khả năng chụp ảnh, Oppo Find X8 cung cấp bộ công cụ AI để hỗ trợ công việc như phiên dịch, tóm tắt văn bản, tóm tắt ghi âm, trợ lý chỉnh sửa văn bản...",
+    "entities": {
+      "technology": [
+        "Oppo Find X8"
+      ]
+    }
+  },
+  {
+    "sentence": "Find X8 series cũng là thế hệ smartphone đầu tiên của Oppo được trang bị chip Dimensity 9400 có hệ thống làm mát mới với lớp graphite, buồng hơi và keo dẫn nhiệt gắn trực tiếp trên bo mạch.",
+    "entities": {
+      "Organization": [
+        "Oppo"
+      ],
+      "Technology": [
+        "Dimensity 9400"
+      ]
+    }
+  },
+  {
+    "sentence": "Kết hợp cùng RAM LPDDR5X lên đến 16GB và bộ nhớ trong UFS 4.0, thiết bị có thể chạy nhiều ứng dụng nặng với thời gian phản hồi ổn định.",
+    "entities": {
+      "technology": [
+        "RAM LPDDR5X",
+        "UFS 4.0"
+      ],
+      "Organization": []
+    }
+  },
+  {
+    "sentence": "Camera chụp xa ấn tượng",
+    "entities": {
+      "technology": [
+        "camera"
+      ]
+    }
+  },
+  {
+    "sentence": "Dẫu vậy, camera tiềm vọng trên máy vẫn có điểm yếu, nằm ở khả năng tái tạo các chi tiết phức tạp, cần độ chính xác cao như chữ viết.",
+    "entities": {
+      "technology": [
+        "camera tiềm vọng",
+        "máy"
+      ]
+    }
+  },
+  {
+    "sentence": "Điểm yếu này bộc lộ khi zoom ở mức cao, thường là trên 50x vào các biển hiệu quảng cáo từ khoảng cách xa.",
+    "entities": {
+      "technology": [
+        "zoom"
+      ],
+      "datetime": [
+        "50x"
+      ]
+    }
+  },
+  {
+    "sentence": "Màn hình dùng kính Corning Gorilla thế hệ mới, đạt nhiều chứng nhận về chống va đập.",
+    "entities": {
+      "Organization": [
+        "Corning"
+      ],
+      "technology": [
+        "Gorilla"
+      ]
+    }
+  },
+  {
+    "sentence": "Bên cạnh đó, chuẩn kháng nước IP68, IP69 giúp thiết bị bền bỉ, đồng hành người dùng qua nhiều hành trình.",
+    "entities": {
+      "technology": [
+        "IP68",
+        "IP69"
+      ]
+    }
+  },
+  {
+    "sentence": "Máy có nhiều chế độ cho người thích sáng tạo.",
+    "entities": {
+      "technology": [
+        "máy"
+      ]
+    }
+  },
+  {
+    "sentence": "Burst Shot helps record impressive moments in high-speed activities.",
+    "entities": {
+      "technology": [
+        "Burst Shot"
+      ]
+    }
+  },
+  {
+    "sentence": "Tính năng này tự động nhận diện dáng đi, gương mặt, tư thế, ánh mắt của chủ thể, sau đó dùng công nghệ chụp ảnh chồng hình tức thời để ghi lại đến 200 bức ảnh trong vòng 30 giây.",
+    "entities": {
+      "technology": [
+        "chụp ảnh chồng hình tức thời"
+      ],
+      "Person": [
+        "chủ thể"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhờ đó, người dùng gần như không bỏ sót bất kỳ khoảnh khắc nào khi ghi lại những hoạt động có tiết tấu nhanh như chơi thể thao, biểu diễn nghệ thuật, vui đùa cùng thú cưng...",
+    "entities": {
+      "technology": [
+        "ghi lại"
+      ]
+    }
+  },
+  {
+    "sentence": "Máy hỗ trợ sạc có dây Super VOOC 80 W, sạc không dây 50W và sạc ngược 10W.",
+    "entities": {
+      "technology": [
+        "VOOC"
+      ]
+    }
+  },
+  {
+    "sentence": "Pin sử dụng là loại silicon-carbon, dung lượng 5.630 mAh.",
+    "entities": {
+      "technology": [
+        "silicon-carbon"
+      ],
+      "measurement": [
+        "5.630 mAh"
+      ]
+    }
+  },
+  {
+    "sentence": "Màn hình kích thước 6,59 inch, mỏng 7,85 mm và trọng lượng 193 gram.",
+    "entities": {
+      "technology": [
+        "màn hình"
+      ]
+    }
+  },
+  {
+    "sentence": "Đây là một trong những điện thoại có viền màn hình mỏng nhất hiện nay.",
+    "entities": {
+      "technology": [
+        "điện thoại"
+      ]
+    }
+  },
+  {
+    "sentence": "Oppo Find X8 mang đến trải nghiệm nhiếp ảnh thú vị, đáp ứng được phần lớn nhu cầu thường ngày của người dùng.",
+    "entities": {
+      "Organization": [
+        "Oppo"
+      ]
+    }
+  },
+  {
+    "sentence": "Thiết bị phần nào có thể thay thế máy ảnh trong những chuyến đi du lịch với camera tiềm vọng cùng năng lực xử lý AI.",
+    "entities": {
+      "technology": [
+        "camera"
+      ]
+    }
+  },
+  {
+    "sentence": "Oppo Find X8 là flagship mới ra mắt thị trường, tập trung vào khả năng chụp ảnh, hướng đến người trẻ yêu thích sáng tạo.",
+    "entities": {
+      "Organization": [
+        "Oppo"
+      ],
+      "Technology": [
+        "Find X8"
+      ]
+    }
+  },
+  {
+    "sentence": "Do đó, cụm camera trước và sau được hãng nâng cấp cả về thiết kế, phần cứng lẫn phần mềm để tạo trải nghiệm chụp ảnh khác biệt.",
+    "entities": {
+      "technology": [
+        "camera"
+      ]
+    }
+  },
+  {
+    "sentence": "So sánh với các flagship cùng phân khúc, khả năng chụp xa của Oppo Find X8 khác biệt.",
+    "entities": {
+      "technology": [
+        "Oppo Find X8"
+      ]
+    }
+  },
+  {
+    "sentence": "AI của máy giúp bức ảnh trở nên chi tiết, rõ nét, đi kèm màu sắc chân thực.",
+    "entities": {
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Bên cạnh đó, Hasselblad - thương hiệu ống kính hàng đầu thế giới hợp tác với Oppo để tinh chỉnh, mang đến chất ảnh đặc trưng, khả năng cân bằng màu tốt.",
+    "entities": {
+      "Organization": [
+        "Hasselblad",
+        "Oppo"
+      ]
+    }
+  },
+  {
+    "sentence": "Sáng tạo với AI",
+    "entities": {
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Trải nghiệm khả năng chụp xa trên Oppo Find X8 khá ấn tượng.",
+    "entities": {
+      "technology": [
+        "Oppo Find X8"
+      ]
+    }
+  },
+  {
+    "sentence": "Chẳng hạn, máy có thể zoom đến ban công của một tòa nhà cao tầng từ khoảng cách hơn 500 mét, thấy những chi tiết mắt thường khó quan sát được.",
+    "entities": {
+      "technology": [
+        "máy"
+      ]
+    }
+  },
+  {
+    "sentence": "Do zoom từ khoảng cách xa nên ảnh ban đầu sẽ hiển thị chưa sắc nét, nhất là khi giữ máy bằng tay.",
+    "entities": {
+      "technology": [
+        "zoom"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, AI là điểm khác biệt.",
+    "entities": {
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Thuật toán sẽ tự động phân tích, tái tạo lại các chi tiết giúp bức ảnh trở nên rõ nét, chân thật hơn chỉ sau 1-2 giây.",
+    "entities": {
+      "technology": [
+        "thuật toán"
+      ]
+    }
+  },
+  {
+    "sentence": "Trải nghiệm thực tế cho thấy Oppo Find X8 giúp việc chụp ảnh thường ngày trở nên dễ dàng và chất lượng hơn.",
+    "entities": {
+      "Technology": [
+        "Oppo Find X8"
+      ]
+    }
+  },
+  {
+    "sentence": "Gần như người dùng chỉ cần bấm chụp, máy sẽ tự động phân tích các điều kiện về ánh sáng, môi trường và cho ra bức ảnh tối ưu.",
+    "entities": {
+      "technology": [
+        "máy"
+      ]
+    }
+  },
+  {
+    "sentence": "Trải nghiệm độc đáo trên sản phẩm là khả năng tách biệt chủ thể.",
+    "entities": {
+      "Person": []
+    }
+  },
+  {
+    "sentence": "Chẳng hạn, với một bức ảnh bất kỳ, người dùng chỉ cần dùng ngón tay giữ vài giây vào người, vật, thú cưng, AI sẽ nhận diện và tách biệt phần được chọn khỏi nền.",
+    "entities": {
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Người dùng sau đó có thể tự do lưu kéo thả chủ thể vào một bức ảnh với một cảnh hoàn toàn khác.",
+    "entities": {
+      "Person": [
+        "Người dùng"
+      ]
+    }
+  },
+  {
+    "sentence": "Với khả năng chụp người, camera trước vẫn là điểm mạnh của các sản phẩm Oppo khi cho ra các ảnh selfie nịnh mắt.",
+    "entities": {
+      "Organization": [
+        "Oppo"
+      ]
+    }
+  },
+  {
+    "sentence": "Chế độ chân dung trên camera sau xóa phông ấn tượng, tách biệt và nổi bật chủ thể.",
+    "entities": {
+      "technology": [
+        "camera"
+      ],
+      "Person": [
+        "chủ thể"
+      ]
+    }
+  },
+  {
+    "sentence": "Người dùng có thể tùy chọn tiêu cự, khẩu độ theo sở thích.",
+    "entities": {
+      "Person": [
+        "Người dùng"
+      ]
+    }
+  },
+  {
+    "sentence": "Da người cho màu sắc tự nhiên.",
+    "entities": {
+      "Person": [
+        "người"
+      ]
+    }
+  },
+  {
+    "sentence": "Kết hợp cùng các bộ lọc của Hasselblad và tính năng làm đẹp tích hợp sẵn, người dùng dễ dàng có được bức ảnh ưng ý.",
+    "entities": {
+      "Organization": [
+        "Hasselblad"
+      ]
+    }
+  },
+  {
+    "sentence": "Với ảnh ngoại cảnh chụp vào ban ngày, máy tái tạo màu sắc giống mắt thường nhìn thấy và cân bằng ánh sáng vượt trội.",
+    "entities": {
+      "technology": [
+        "máy"
+      ]
+    }
+  },
+  {
+    "sentence": "Những phần có ánh sáng mạnh như bầu trời cho chi tiết tốt, không cháy sáng, trong khi những phần như đường xá, cây cối rõ nét, không nhiễu.",
+    "entities": {
+      "technology": [
+        "ánh sáng",
+        "chi tiết"
+      ],
+      "Datetime": [
+        "bầu trời"
+      ],
+      "Organization": [
+        "đường xá",
+        "cây cối"
+      ]
+    }
+  },
+  {
+    "sentence": "Ảnh ban đêm thu sáng nhiều nhờ khẩu độ f/1.6.",
+    "entities": {
+      "technology": [
+        "khẩu độ f/1.6"
+      ]
+    }
+  },
+  {
+    "sentence": "Chất ảnh cho ra vẫn rõ ràng, ít nhòe, lóe sáng.",
+    "entities": {
+      "technology": [
+        "ảnh"
+      ]
+    }
+  },
+  {
+    "sentence": "Điều này có được là nhờ cảm biến Sony LYT-700, kích thước 1/1.56 inch, khẩu độ f/1.6, hỗ trợ chống rung quang học OIS.",
+    "entities": {
+      "technology": [
+        "cảm biến Sony LYT-700",
+        "OIS"
+      ]
+    }
+  },
+  {
+    "sentence": "Cảm biến giúp smartphone thu sáng tốt, tái hiện mọi chi tiết sắc nét, sống động, ngay cả trong điều kiện ánh sáng yếu.",
+    "entities": {
+      "technology": [
+        "cảm biến"
+      ]
+    }
+  },
+  {
+    "sentence": "Điểm nổi bật trên sản phẩm là camera tiềm vọng 50 megapixel dùng cảm biến Sony IMX882 kích thước lớn 1/1.95 inch.",
+    "entities": {
+      "technology": [
+        "camera",
+        "tiềm vọng",
+        "Sony IMX882"
+      ],
+      "Organization": [
+        "Sony"
+      ]
+    }
+  },
+  {
+    "sentence": "Cảm biến này cho khả năng thu nhận ánh sáng tốt hơn, mang đến hình ảnh rõ ràng và sống động ngay cả trong điều kiện ánh sáng yếu.",
+    "entities": {
+      "technology": [
+        "cảm biến"
+      ]
+    }
+  },
+  {
+    "sentence": "Máy có đa dạng tiêu cự",
+    "entities": {
+      "technology": [
+        "máy"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong đó, mức từ 0,6x đến 10x được hỗ trợ zoom quang học.",
+    "entities": {
+      "technology": [
+        "zoom quang học"
+      ]
+    }
+  },
+  {
+    "sentence": "Từ 10x đến 120x, máy dùng công nghệ AI Telescope Zoom, hỗ trợ bởi thuật toán AI SuperRes để xử lý hình ảnh.",
+    "entities": {
+      "technology": [
+        "AI Telescope Zoom",
+        "AI SuperRes"
+      ]
+    }
+  },
+  {
+    "sentence": "Đơn giản hóa nhiếp ảnh di động",
+    "entities": {
+      "technology": [
+        "nhiếp ảnh di động"
+      ]
+    }
+  },
+  {
+    "sentence": "ADC sẽ mở rộng kết nối giữa Việt Nam và các quốc gia trong khu vực và trên thế giới, mang lại những cơ hội mới trong trao đổi thông tin, giao dịch quốc tế, và phát triển công nghệ, ông Kiên nói.",
+    "entities": {
+      "Organization": [
+        "ADC"
+      ],
+      "Person": [
+        "Kiên"
+      ]
+    }
+  },
+  {
+    "sentence": "Khi đưa vào khai thác, ADC sẽ là tuyến cáp biển có dung lượng lớn nhất tại Việt Nam, gấp hai lần tuyến lớn nhất hiện tại là AAE-1, nhà mạng cho biết.",
+    "entities": {
+      "Organization": [
+        "nhà mạng"
+      ],
+      "Person": [],
+      "technology": [
+        "tuyến cáp biển",
+        "AAE-1"
+      ],
+      "Datetime": []
+    }
+  },
+  {
+    "sentence": "ADC (Asia Direct Cable) dài gần 10.000 km, với trục chính đi theo đường Singapore - Hong Kong- Nhật Bản, ba nơi đặt các trung tâm dữ liệu lớn nhất tại châu Á.",
+    "entities": {
+      "Location": [
+        "Singapore",
+        "Hong Kong",
+        "Nhật Bản",
+        "Asia"
+      ],
+      "Organization": [
+        "ADC"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuyến cáp có cấu hình tám cặp sợi (8FP), sử dụng công nghệ ghép bước sóng mật độ cao với tổng dung lượng ban đầu trên 160 Tbps.",
+    "entities": {
+      "technology": [
+        "8FP",
+        "mật độ cao"
+      ],
+      "Organization": [],
+      "Person": [],
+      "Datetime": []
+    }
+  },
+  {
+    "sentence": "ADC cũng đánh dấu 8 năm kể từ khi AAE-1 đi vào hoạt động, Việt Nam mới có thêm một tuyến cáp quang biển mới.",
+    "entities": {
+      "technology": [
+        "AAE-1"
+      ],
+      "organization": [
+        "Việt Nam"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước đó, người dùng trong nước kết nối với thế giới qua năm tuyến chính là SMW-3, IA, AAG, APG, AAE-1.",
+    "entities": {
+      "Organization": [
+        "SMW-3",
+        "IA",
+        "AAG",
+        "APG",
+        "AAE-1"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong đó SMW-3 dự kiến hết hạn năm nay, các tuyến còn lại cũng thường xuyên đứt.",
+    "entities": {
+      "technology": [
+        "SMW-3"
+      ]
+    }
+  },
+  {
+    "sentence": "Đầu năm 2023, cả năm tuyến cùng gặp sự cố một phần hoặc toàn phần, gây gián đoạn truy cập Internet của nhiều người dùng trong nước.",
+    "entities": {
+      "technology": [
+        "Internet"
+      ],
+      "datetime": [
+        "2023"
+      ],
+      "Organization": []
+    }
+  },
+  {
+    "sentence": "ADC được đầu tư qua liên minh gồm Viettel, Softbank, China Telecom Global, China Telecom Corporation, China Unicom, Singtel, TATA Communications, National Telecom, PLDT và được thực hiện bởi nhà thầu NEC.",
+    "entities": {
+      "Organization": [
+        "Viettel",
+        "Softbank",
+        "China Telecom Global",
+        "China Telecom Corporation",
+        "China Unicom",
+        "Singtel",
+        "TATA Communications",
+        "National Telecom",
+        "PLDT",
+        "NEC"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo ông Phạm Trung Kiên, Phó tổng giám đốc Viettel Solutions, ADC đi vào hoạt động sẽ giúp hỗ trợ san tải với các tuyến khác, từ đó góp phần nâng cao độ an toàn mạng lưới, an toàn thông tin quốc gia cũng như nâng chất lượng dịch vụ viễn thông của nhà mạng.",
+    "entities": {
+      "Person": [
+        "Phạm Trung Kiên"
+      ],
+      "Organization": [
+        "Viettel Solutions"
+      ]
+    }
+  },
+  {
+    "sentence": "Nó cung cấp dung lượng lớn tốc độ cao kết nối từ Việt Nam đi quốc tế, trong bối cảnh các dịch vụ mới yêu cầu tốc độ và băng thông lớn như 5G, AI, IoT, AR/VR.",
+    "entities": {
+      "technology": [
+        "5G",
+        "AI",
+        "IoT",
+        "AR/VR"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong Chiến lược Hạ tầng số được phê duyệt hồi tháng 10, Việt Nam đặt mục tiêu đến 2025 đưa vào khai thác tối thiểu hai tuyến cáp quang biển quốc tế mới.",
+    "entities": {
+      "Organization": [
+        "Việt Nam"
+      ],
+      "Datetime": [
+        "tháng 10",
+        "2025"
+      ]
+    }
+  },
+  {
+    "sentence": "Ngoài ADC, một tuyến khác là SJC-2, dự kiến hoạt động thời gian tới.",
+    "entities": {
+      "technology": [
+        "SJC-2"
+      ],
+      "datetime": [
+        "thời gian tới"
+      ]
+    }
+  },
+  {
+    "sentence": "Đến 2030, Việt Nam sẽ triển khai thêm tối thiểu sáu tuyến mới, nâng tổng dung lượng thiết kế cáp quang trên biển đạt tối thiểu 350 Tbps.",
+    "entities": {
+      "technology": [
+        "cáp quang",
+        "Tbps"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước đó, Viettel Solutions cho biết đã cùng các nhà mạng trong khu vực đầu tư dự án cáp quang biển ALC kết nối các hub lớn trong khu vực châu Á, đồng thời công bố dự án cáp biển VTS nối trực tiếp Việt Nam - Singapore cùng với Singtel.",
+    "entities": {
+      "Organization": [
+        "Viettel Solutions",
+        "Singtel"
+      ],
+      "Location": [
+        "Việt Nam",
+        "Singapore",
+        "châu Á"
+      ]
+    }
+  },
+  {
+    "sentence": "Tại Việt Nam, ADC có trạm cập bờ Quy Nhơn, Bình Định.",
+    "entities": {
+      "Organization": [
+        "ADC"
+      ],
+      "Location": [
+        "Việt Nam",
+        "Quy Nhơn",
+        "Bình Định"
+      ]
+    }
+  },
+  {
+    "sentence": "Viettel, đơn vị duy nhất trong nước tham gia vào liên minh đầu tư tuyến cáp này, cho biết họ sở hữu toàn bộ nhánh cáp biển và trạm cập bờ tại Việt Nam cùng một cặp sợi trên trục chính, với dung lượng thiết kế tối thiểu 20 Tbps.",
+    "entities": {
+      "Organization": [
+        "Viettel"
+      ]
+    }
+  },
+  {
+    "sentence": "Tại Việt Nam các khách hàng có thể sử dụng được dịch vụ vào đầu năm 2025.",
+    "entities": {
+      "Datetime": [
+        "2025"
+      ],
+      "Organization": [
+        "Việt Nam"
+      ],
+      "Person": []
+    }
+  },
+  {
+    "sentence": "5G là công nghệ di động phát triển nhanh nhất hiện nay và sẽ chiếm hơn một nửa tổng lượng dữ liệu toàn cầu năm 2025.",
+    "entities": {
+      "technology": [
+        "5G"
+      ]
+    }
+  },
+  {
+    "sentence": "Các doanh nghiệp cần tận dụng cơ hội từ sự chuyển mình này, ông Minh nhấn mạnh.",
+    "entities": {
+      "Person": [
+        "Ông Minh"
+      ]
+    }
+  },
+  {
+    "sentence": "Bên cạnh đó, các chuyên gia cũng đánh giá sức mạnh của 5G không chỉ ở việc tăng tốc độ truy cập, mà còn mở ra những ứng dụng mới.",
+    "entities": {
+      "Organization": [
+        "chuyên gia"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhờ các đặc tính kỹ thuật, đặc biệt khả năng phân chia mạng logic (Network Slicing), 5G có thể được cá nhân hóa, tối ưu cho riêng nhu cầu sử dụng, ví dụ người chơi game hoặc livestream có thể yêu cầu băng thông cao; các ứng dụng về y tế, IoT yêu cầu độ trễ thấp hoặc khả năng kết nối số lượng thiết bị lớn, đều có thể thực hiện được.",
+    "entities": {
+      "technology": [
+        "5G"
+      ],
+      "Organization": [
+        ""
+      ]
+    }
+  },
+  {
+    "sentence": "Dẫn báo cáo của hãng nghiên cứu thị trường Omdia, ông Phạm Văn Minh, Giám đốc Giải pháp di động của Nokia, cho biết trong năm 2024, lưu lượng dữ liệu qua mạng di động khoảng 1.394 Exabytes, trong đó mạng 5G chiếm 40%",
+    "entities": {
+      "Organization": [
+        "Omdia",
+        "Nokia"
+      ],
+      "Person": [
+        "Phạm Văn Minh"
+      ]
+    }
+  },
+  {
+    "sentence": "Đến 2025, tỷ lệ này được dự báo tăng lên 55%",
+    "entities": {
+      "datetime": [
+        "2025"
+      ]
+    }
+  },
+  {
+    "sentence": "Ngoài ra, khảo sát của Viettel sau hai tháng triển khai 5G cho thấy 20% người dùng có xu hướng sử dụng di động thay cho wifi và tăng thời gian sử dụng kết nối dữ liệu di động.",
+    "entities": {
+      "Organization": [
+        "Viettel"
+      ],
+      "Person": [],
+      "technology": [
+        "5G",
+        "wifi"
+      ],
+      "Datetime": []
+    }
+  },
+  {
+    "sentence": "Riêng tại Việt Nam, mạng 5G sau khi thương mại hóa từ tháng 10 được đánh giá mang tới những thay đổi về thói quen người dùng.",
+    "entities": {
+      "technology": [
+        "5G"
+      ],
+      "Organization": [
+        "Việt Nam"
+      ]
+    }
+  },
+  {
+    "sentence": "Ông Nguyễn Văn Sơn, Giám đốc Trung tâm Dịch vụ di động Viettel Telecom, cho biết tại các khu vực đã triển khai, lưu lượng truy cập qua mạng 5G chiếm 30% lưu lượng chung.",
+    "entities": {
+      "Person": [
+        "Ông Nguyễn Văn Sơn"
+      ],
+      "Organization": [
+        "Viettel Telecom"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo dự báo của Qualcomm, số lượng kết nối di động toàn cầu đang gia tăng nhanh chóng, với 2,1 tỷ điện thoại 5G được bán ra và hơn 300 nhà mạng khai trương dịch vụ 5G.",
+    "entities": {
+      "Organization": [
+        "Qualcomm"
+      ],
+      "Technology": [
+        "5G"
+      ]
+    }
+  },
+  {
+    "sentence": "Công nghệ 5G được dự đoán đóng góp gần 900 tỷ USD cho nền kinh tế toàn cầu năm 2030.",
+    "entities": {
+      "technology": [
+        "5G"
+      ]
+    }
+  },
+  {
+    "sentence": "Thống kê của nhà mạng cũng cho thấy hiện chỉ khoảng 21% thuê bao sở hữu điện thoại hỗ trợ 5G, tập trung ở khu vực thành thị.",
+    "entities": {
+      "technology": [
+        "5G"
+      ],
+      "Organization": [
+        "nhà mạng"
+      ]
+    }
+  },
+  {
+    "sentence": "Đây cũng là lý do nhà mạng phủ sóng tại các khu vực này trước, trong khi người dùng khu vực nông thôn dùng chủ yếu 4G.",
+    "entities": {
+      "Organization": [
+        "nhà mạng"
+      ]
+    }
+  },
+  {
+    "sentence": "Khoảng 70% thuê bao đủ điều kiện đã trải nghiệm thế hệ mạng mới.",
+    "entities": {
+      "technology": [
+        "mạng mới"
+      ]
+    }
+  },
+  {
+    "sentence": "Điều này cho thấy thị trường 5G có sức hút lớn và còn nhiều dư địa phát triển.",
+    "entities": {
+      "technology": [
+        "5G"
+      ]
+    }
+  },
+  {
+    "sentence": "Viettel hiện có khoảng 4 triệu người dùng 5G và dự báo tăng lên 10 triệu sau một năm triển khai.",
+    "entities": {
+      "Organization": [
+        "Viettel"
+      ],
+      "Person": [],
+      "Datetime": [],
+      "technology": [
+        "5G"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, Network Slicing chỉ khả dụng với mạng 5G SA, tức mạng độc lập.",
+    "entities": {
+      "technology": [
+        "5G SA"
+      ],
+      "organization": [
+        "mạng 5G SA"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong khi tại phần lớn thị trường mới triển khai như Việt Nam, các nhà mạng ban đầu sử dụng mạng 5G NSA, tận dụng hạ tầng 4G cũ, trước khi chuyển hoàn toàn sang mạng 5G độc lập.",
+    "entities": {
+      "technology": [
+        "5G",
+        "4G"
+      ],
+      "Organization": [
+        "nhà mạng"
+      ]
+    }
+  },
+  {
+    "sentence": "Tại sự kiện 5G Day ở TP HCM tuần này, các chuyên gia đánh giá mạng 5G đã qua giai đoạn chuẩn bị và bước vào giai đoạn phát triển bùng nổ với nhiều mô hình kinh doanh mới có thể được tạo ra.",
+    "entities": {
+      "Organization": [
+        "TP HCM"
+      ]
+    }
+  },
+  {
+    "sentence": "Điều này nhờ mạng 5G đang được sử dụng phổ biến bởi nhóm người dùng trẻ tại Việt Nam, trong đó 80% tập trung ở các khu vực thành thị, khu công nghiệp và khu du lịch.",
+    "entities": {
+      "technology": [
+        "mạng 5G"
+      ],
+      "Organization": [
+        "Việt Nam"
+      ],
+      "Person": []
+    }
+  },
+  {
+    "sentence": "Nhóm này thường sử dụng 2-3 mạng xã hội, trong đó có những nền tảng video như TikTok, YouTube, Facebook, kéo theo nhu cầu sử dụng dữ liệu gia tăng.",
+    "entities": {
+      "Organization": [
+        "TikTok",
+        "YouTube",
+        "Facebook"
+      ]
+    }
+  },
+  {
+    "sentence": "Android Authority đánh giá việc hủy bỏ thỏa thuận cấp phép thiết kế chip có thể khiến Qualcomm thiệt hại nặng.",
+    "entities": {
+      "Organization": [
+        "Android Authority",
+        "Qualcomm"
+      ]
+    }
+  },
+  {
+    "sentence": "Vấn đề thậm chí ảnh hưởng sâu rộng hơn với thị trường di động.",
+    "entities": {
+      "technology": [
+        "di động"
+      ]
+    }
+  },
+  {
+    "sentence": "Snapdragon của Qualcomm, bộ vi xử lý phổ biến nhất trên thiết bị Android, và một số mẫu chip khác đang sử dụng kiến trúc Arm, tạo ra doanh thu khoảng 39 tỷ USD.",
+    "entities": {
+      "Organization": [
+        "Qualcomm"
+      ],
+      "Technology": [
+        "Snapdragon",
+        "Arm"
+      ]
+    }
+  },
+  {
+    "sentence": "Qualcomm có thể đối mặt với việc dừng bán hàng, đi kèm hàng loạt tranh chấp pháp lý về sau.",
+    "entities": {
+      "Organization": [
+        "Qualcomm"
+      ]
+    }
+  },
+  {
+    "sentence": "Huy Đức (theo Tom's Hardware)",
+    "entities": {
+      "Person": [
+        "Huy Đức"
+      ]
+    }
+  },
+  {
+    "sentence": "Lõi Oryon trong chip xử lý mới của Qualcomm có nguồn gốc từ Nuvia, công ty Gerard Williams III cùng các đối tác sáng lập năm 2019.",
+    "entities": {
+      "Organization": [
+        "Qualcomm",
+        "Nuvia"
+      ],
+      "Person": [
+        "Gerard Williams III"
+      ]
+    }
+  },
+  {
+    "sentence": "Mục tiêu của Nuvia là thiết kế lõi CPU hiệu suất cao và tiết kiệm năng lượng với mã Phoenix cho các trung tâm dữ liệu.",
+    "entities": {
+      "Organization": [
+        "Nuvia"
+      ],
+      "technology": [
+        "CPU",
+        "mã Phoenix"
+      ]
+    }
+  },
+  {
+    "sentence": "Họ mua hai giấy phép không chuyển nhượng từ Arm là Thỏa thuận Giấy phép Công nghệ (TLA) để làm lại các lõi hiện có và Thỏa thuận Giấy phép Kiến trúc (ALA) để thiết kế lõi tùy chỉnh.",
+    "entities": {
+      "Organization": [
+        "Arm"
+      ],
+      "technology": [
+        "Thỏa thuận Giấy phép Công nghệ",
+        "Thỏa thuận Giấy phép Kiến trúc"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong đó, Nuvia đã phát triển các lõi xử lý từ đầu, không sử dụng IP vật lý của Arm hoặc chỉ sử dụng rất ít.",
+    "entities": {
+      "technology": [
+        "lõi xử lý"
+      ],
+      "organization": [
+        "Nuvia"
+      ]
+    }
+  },
+  {
+    "sentence": "Năm 2022, Arm thu hồi giấy phép của Nuvia.",
+    "entities": {
+      "technology": [
+        "Arm"
+      ],
+      "organization": [
+        "Nuvia"
+      ],
+      "datetime": [
+        "2022"
+      ]
+    }
+  },
+  {
+    "sentence": "Đến tháng 10, họ thông báo hủy bỏ Thỏa thuận Giấy phép Kiến trúc với Qualcomm.",
+    "entities": {
+      "Organization": [
+        "Qualcomm"
+      ],
+      "Datetime": [
+        "tháng 10"
+      ]
+    }
+  },
+  {
+    "sentence": "Cuộc tranh chấp giữa hai bên xoay quanh việc liệu giấy phép kiến trúc của Nuvia và các thiết kế tùy chỉnh của công ty này có thể được chuyển giao hay sử dụng bởi Qualcomm sau khi mua lại hay không.",
+    "entities": {
+      "Organization": [
+        "Nuvia",
+        "Qualcomm"
+      ]
+    }
+  },
+  {
+    "sentence": "Luật sư Arm nhắc lại các điều khoản trong thỏa thuận cấp phép, còn luật sư Qualcomm yêu cầu Williams trình bày chi tiết về các đổi mới của Nuvia và vai trò đóng góp hạn chế của Arm vào sự phát triển này.",
+    "entities": {
+      "Organization": [
+        "Arm",
+        "Qualcomm",
+        "Williams",
+        "Nuvia"
+      ]
+    }
+  },
+  {
+    "sentence": "Sau khi mua lại Nuvia năm 2021 với giá 1,4 tỷ USD, Qualcomm tuyên bố lõi của Nuvia sẽ được sử dụng trong máy tính cá nhân thay vì trung tâm dữ liệu.",
+    "entities": {
+      "Organization": [
+        "Qualcomm",
+        "Nuvia"
+      ],
+      "Person": [],
+      "technology": [
+        "lõi"
+      ],
+      "Datetime": [
+        "2021"
+      ]
+    }
+  },
+  {
+    "sentence": "When Arm requires Qualcomm to renegotiate the licensing agreement.",
+    "entities": {
+      "Organization": [
+        "Arm",
+        "Qualcomm"
+      ]
+    }
+  },
+  {
+    "sentence": "Qualcomm từ chối, khẳng định ALA của họ bao gồm cả công ty Nuvia.",
+    "entities": {
+      "Organization": [
+        "Qualcomm",
+        "Nuvia"
+      ],
+      "technology": [
+        "ALA"
+      ]
+    }
+  },
+  {
+    "sentence": "Arm tuyên bố Qualcomm vi phạm thỏa thuận và yêu cầu hủy các thiết kế của Nuvia được phát triển trước khi sáp nhập.",
+    "entities": {
+      "Organization": [
+        "Arm",
+        "Qualcomm",
+        "Nuvia"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo Williams, Oryon sử dụng rất ít công nghệ do Arm phát triển, dù chúng dựa trên kiến trúc tập lệnh Armv8.",
+    "entities": {
+      "Organization": [
+        "Arm"
+      ],
+      "Person": [
+        "Williams"
+      ],
+      "Technology": [
+        "Oryon"
+      ]
+    }
+  },
+  {
+    "sentence": "Thực tế, Williams cho biết kỹ sư của Nuvia tự thiết kế hệ thống đường ống, đơn vị thực thi, hệ thống bộ nhớ cache và các thành phần nội bộ khác của CPU, do đó lõi cuối cùng không tích hợp khối mạch độc quyền hoặc thiết kế sẵn có của Arm.",
+    "entities": {
+      "Organization": [
+        "Nuvia"
+      ],
+      "Person": [
+        "Williams"
+      ]
+    }
+  },
+  {
+    "sentence": "Do đó, dù là lõi Armv8, chúng không sử dụng nhiều công nghệ do Arm thiết kế, ngoài tập lệnh và thông số kỹ thuật cơ bản.",
+    "entities": {
+      "technology": [
+        "Armv8"
+      ],
+      "Organization": [
+        "Arm"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong cuộc chiến tại tòa, nếu chiến thắng, Arm có thể buộc Qualcomm và hơn 20 đối tác, trong đó có Microsoft, dừng bán máy tính Copilot+, chủ yếu là laptop.",
+    "entities": {
+      "Organization": [
+        "Arm",
+        "Qualcomm",
+        "Microsoft"
+      ],
+      "Technology": [
+        "Copilot+"
+      ]
+    }
+  },
+  {
+    "sentence": "Nó cũng có thể khiến thương vụ Qualcomm - Nuvia bị lật ngược.",
+    "entities": {
+      "Organization": [
+        "Qualcomm",
+        "Nuvia"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong khi đó, thị trường di động có thể rơi vào tình thế khó khăn liên quan đến sự gián đoạn sản xuất và khả năng hoạt động liền mạch của thiết bị chạy chip Snapdragon trong tương lai.",
+    "entities": {
+      "technology": [
+        "Snapdragon"
+      ]
+    }
+  },
+  {
+    "sentence": "Nguồn tin cho biết TP-Link bị cáo buộc thường xuyên không giải quyết các lỗi bảo mật trong router khi giao cho khách hàng.",
+    "entities": {
+      "Organization": [
+        "TP-Link"
+      ]
+    }
+  },
+  {
+    "sentence": "Vào tháng 10, Microsoft tiết lộ một mạng lưới thiết bị chủ yếu của TP-Link sản xuất liên quan đến chiến dịch tấn công mạng quy mô lớn.",
+    "entities": {
+      "Organization": [
+        "Microsoft",
+        "TP-Link"
+      ],
+      "Datetime": [
+        "tháng 10"
+      ]
+    }
+  },
+  {
+    "sentence": "Nếu TP-Link không thể đảo ngược tình thế, đây sẽ là lệnh cấm thiết bị viễn thông Trung Quốc lớn nhất kể từ sau trường hợp của Huawei năm 2019.",
+    "entities": {
+      "Organization": [
+        "TP-Link",
+        "Huawei"
+      ]
+    }
+  },
+  {
+    "sentence": "Phát ngôn viên một đơn vị kinh doanh TP-Link tại California cho biết công ty đang đánh giá các rủi bảo mật tiềm ẩn và sẽ sớm có hành động giải quyết triệt để nếu có.",
+    "entities": {
+      "Organization": [
+        "TP-Link"
+      ],
+      "Location": [
+        "California"
+      ]
+    }
+  },
+  {
+    "sentence": "Chúng tôi hoan nghênh mọi cơ hội hợp tác với chính phủ Mỹ để chứng minh các hoạt động bảo mật của chúng tôi hoàn toàn phù hợp với tiêu chuẩn bảo mật trong ngành cũng như chứng minh cam kết của công ty với thị trường Mỹ, người tiêu dùng Mỹ và giải quyết các rủi ro an ninh quốc gia của Mỹ, người này nói với Wall Street Journal.",
+    "entities": {
+      "Organization": [
+        "Wall Street Journal"
+      ],
+      "Person": [
+        "người này"
+      ],
+      "Government": [
+        "chính phủ Mỹ"
+      ]
+    }
+  },
+  {
+    "sentence": "Sau các cuộc điều tra, chính quyền Mỹ có thể đưa ra lệnh cấm bán thiết bị của TP-Link trong năm 2025.",
+    "entities": {
+      "Organization": [
+        "TP-Link"
+      ],
+      "Datetime": [
+        "2025"
+      ]
+    }
+  },
+  {
+    "sentence": "Hành động chống lại công ty sẽ do chính quyền ông Trump sắp tới thực hiện.",
+    "entities": {
+      "Person": [
+        "Trump"
+      ],
+      "Organization": [
+        "chính quyền"
+      ]
+    }
+  },
+  {
+    "sentence": "Sự thống trị của TP-Link tại Mỹ nhờ giá rẻ cũng khiến giới chức lo ngại.",
+    "entities": {
+      "Organization": [
+        "TP-Link"
+      ]
+    }
+  },
+  {
+    "sentence": "Bộ Tư pháp Mỹ đang điều tra TP-Link liệu có bán sản phẩm với giá thấp hơn chi phí sản xuất hay không, điều vi phạm luật chống độc quyền tại quốc gia này.",
+    "entities": {
+      "Organization": [
+        "TP-Link",
+        "Bộ Tư pháp Mỹ"
+      ]
+    }
+  },
+  {
+    "sentence": "TP-Link có trụ sở tại Thâm Quyến (Trung Quốc), thành lập năm 1996.",
+    "entities": {
+      "Organization": [
+        "TP-Link"
+      ],
+      "Location": [
+        "Thâm Quyến",
+        "Trung Quốc"
+      ],
+      "Datetime": [
+        "1996"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhà sản xuất này nắm 65% thị phần bộ định tuyến ở Mỹ dành cho gia đình và doanh nghiệp nhỏ.",
+    "entities": {
+      "Organization": [
+        "Nhà sản xuất này"
+      ]
+    }
+  },
+  {
+    "sentence": "Sản phẩm cũng được dùng cho một số công ty của Bộ Quốc phòng Mỹ, NASA và các cơ quan chính phủ liên bang khác.",
+    "entities": {
+      "Organization": [
+        "Bộ Quốc phòng Mỹ",
+        "NASA",
+        "các cơ quan chính phủ liên bang"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo Wall Street Journal, các nhà chức trách Mỹ đang cân nhắc đưa ra lệnh cấm bộ định tuyến Internet của TP-Link do lo ngại an ninh quốc gia.",
+    "entities": {
+      "Organization": [
+        "Wall Street Journal",
+        "TP-Link"
+      ],
+      "Person": [],
+      "Datetime": [],
+      "technology": [
+        "Internet"
+      ]
+    }
+  },
+  {
+    "sentence": "Bộ Thương mại, Bộ Quốc phòng và Bộ Tư pháp đồng loạt có các cuộc điều tra độc lập, riêng Bộ Thương mại đã triệu tập đại diện TP-Link về sự việc.",
+    "entities": {
+      "Organization": [
+        "Bộ Thương mại",
+        "Bộ Quốc phòng",
+        "Bộ Tư pháp",
+        "TP-Link"
+      ]
+    }
+  },
+  {
+    "sentence": "Các thiết bị tích hợp hỗ trợ AI nhằm nhận biết thói quen sử dụng của người dùng, từ đó đưa ra đề xuất cá nhân hóa, tự động tối ưu cài đặt, tăng tiện ích, đại diện hãng cho biết.",
+    "entities": {
+      "Organization": [
+        "hãng"
+      ],
+      "Person": [
+        "người dùng"
+      ]
+    }
+  },
+  {
+    "sentence": "Bespoke Jet Bot là một trong những sản phẩm cho thấy tham vọng của hãng công nghệ Hàn Quốc khi ứng dụng trí tuệ nhân tạo vào thiết bị gia dụng, để cải thiện cuộc sống của người dùng.",
+    "entities": {
+      "Organization": [
+        "Hãng công nghệ Hàn Quốc"
+      ]
+    }
+  },
+  {
+    "sentence": "Yoo Mi-young - Trưởng nhóm phát triển phần mềm, nhìn nhận AI sẽ ngày càng thông minh hơn.",
+    "entities": {
+      "Person": [
+        "Yoo Mi-young"
+      ],
+      "Organization": [
+        "phần mềm"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhờ vậy các sản phẩm điện tử gia dụng tích hợp công nghệ này sẽ càng thấu hiểu người dùng và đáp ứng nhu cầu tương ứng một cách nhanh chóng và hiệu quả.",
+    "entities": {
+      "technology": [
+        "công nghệ"
+      ],
+      "Organization": [
+        "sản phẩm điện tử gia dụng"
+      ]
+    }
+  },
+  {
+    "sentence": "Bespoke Jet Bot sở hữu pin dung lượng 4861 mAh, cho phép hoạt động liên tục trong khoảng 180 phút.",
+    "entities": {
+      "technology": [
+        "Bespoke Jet Bot"
+      ],
+      "Datetime": [
+        "180 phút"
+      ]
+    }
+  },
+  {
+    "sentence": "Thời gian sạc đầy chỉ mất khoảng 5 giờ.",
+    "entities": {
+      "Datetime": [
+        "5 giờ"
+      ]
+    }
+  },
+  {
+    "sentence": "Sản phẩm mang đến sự tự động hóa hoàn toàn, hiệu quả và tiện lợi, đáp ứng mọi nhu cầu làm sạch của ngôi nhà hiện đại.",
+    "entities": {
+      "technology": [
+        "sản phẩm"
+      ]
+    }
+  },
+  {
+    "sentence": "Công nghệ AI Floor Detect, giúp robot tự động nhận diện các loại mặt sàn khác nhau và tối ưu lực hút, lực lau phù hợp nhất.",
+    "entities": {
+      "technology": [
+        "AI Floor Detect"
+      ],
+      "Organization": [
+        "robot"
+      ]
+    }
+  },
+  {
+    "sentence": "Khi robot gặp thảm, nó tự động nâng miếng lau hoặc tháo giẻ ra, tránh làm ướt thảm và tối ưu hiệu quả làm sạch trên từng bề mặt.",
+    "entities": {
+      "technology": [
+        "robot"
+      ]
+    }
+  },
+  {
+    "sentence": "Cảm biến ToF LiDAR là công nghệ quan trọng khác trên Bespoke Jet Bot, giúp robot di chuyển chính xác và tránh va chạm thông minh.",
+    "entities": {
+      "technology": [
+        "ToF LiDAR"
+      ],
+      "Organization": [
+        "Bespoke Jet Bot"
+      ]
+    }
+  },
+  {
+    "sentence": "Robot có thể nhận diện vật cản trong môi trường tối, di chuyển một cách linh hoạt và chính xác mà không gặp phải tình trạng mắc kẹt.",
+    "entities": {
+      "technology": [
+        "Robot"
+      ]
+    }
+  },
+  {
+    "sentence": "Hệ thống lực hút lốc xoáy mạnh mẽ giúp robot xử lý bụi lớn và bụi mịn, đồng thời giữ bộ lọc sạch sẽ, duy trì lực hút bền bỉ và giảm tiếng ồn trong quá trình hoạt động.",
+    "entities": {
+      "technology": [
+        "robot"
+      ]
+    }
+  },
+  {
+    "sentence": "Máy hút bụi Samsung tham gia Chung kết Tech Awards 2024 hạng mục Thương hiệu máy hút bụi xuất sắc 2024.",
+    "entities": {
+      "Organization": [
+        "Samsung"
+      ],
+      "technology": [
+        "Tech Awards"
+      ],
+      "datetime": [
+        "2024"
+      ]
+    }
+  },
+  {
+    "sentence": "Sau tuần đầu mở cổng bình chọn, thương hiệu liên tục vào top 5 có lượng vote cao nhất của chương trình.",
+    "entities": {
+      "Organization": [
+        "chương trình"
+      ]
+    }
+  },
+  {
+    "sentence": "Giai đoạn Chung kết diễn ra đến hết ngày 24/12.",
+    "entities": {
+      "Datetime": [
+        "24/12"
+      ]
+    }
+  },
+  {
+    "sentence": "Samsung Bespoke Jet Bot là robot hút bụi lau nhà tích hợp công nghệ AI, làm sạch hoàn toàn tự động cho không gian sống.",
+    "entities": {
+      "Organization": [
+        "Samsung"
+      ],
+      "Technology": [
+        "AI"
+      ],
+      "Product": [
+        "Bespoke Jet Bot"
+      ]
+    }
+  },
+  {
+    "sentence": "Sản phẩm kết hợp các tính năng hút bụi, lau sàn, giặt và sấy miếng lau, giúp người dùng tiết kiệm thời gian và công sức trong việc dọn dẹp nhà cửa.",
+    "entities": {
+      "technology": [
+        "sản phẩm"
+      ]
+    }
+  },
+  {
+    "sentence": "Sản phẩm còn được kết nối thông minh qua ứng dụng SmartThings, cho phép người dùng điều khiển từ xa, thiết lập lịch làm sạch, tạo bản đồ 3D ngôi nhà và theo dõi hoạt động theo thời gian thực.",
+    "entities": {
+      "technology": [
+        "SmartThings"
+      ],
+      "Organization": [
+        "Sản phẩm"
+      ]
+    }
+  },
+  {
+    "sentence": "Việc kết nối qua ứng dụng mang đến sự linh hoạt và tùy chỉnh tối đa, phù hợp với nhu cầu và thói quen của từng gia đình.",
+    "entities": {
+      "technology": [
+        "ứng dụng"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo ông Moohyung Lee - Phó giám đốc điều hành kiêm Trưởng bộ phận R&D, Ngành hàng thiết bị gia dụng Samsung Electronics, hãng không tập trung vào những thay đổi nhỏ mà tham vọng tạo ra sản phẩm khác biệt, giải quyết những vấn đề người dùng còn chưa nghĩ đến.",
+    "entities": {
+      "Person": [
+        "Moohyung Lee"
+      ],
+      "Organization": [
+        "Samsung Electronics"
+      ]
+    }
+  },
+  {
+    "sentence": "Trung tâm của Bespoke Jet Bot là trạm làm sạch đa nhiệm Steam+, nơi đảm nhận các chức năng như giặt, sấy và diệt khuẩn miếng lau.",
+    "entities": {
+      "Organization": [
+        "Bespoke Jet Bot"
+      ]
+    }
+  },
+  {
+    "sentence": "Sau mỗi chu trình làm sạch, robot quay về trạm để miếng lau được giặt bằng nước nóng và hơi nước ở nhiệt độ 50-60 độ C.",
+    "entities": {
+      "technology": [
+        "robot"
+      ]
+    }
+  },
+  {
+    "sentence": "Quá trình này giúp loại bỏ vết bẩn cứng đầu, đồng thời sấy khô miếng lau bằng khí nóng 55 độ C và diệt khuẩn ở nhiệt độ 100 C bằng hơi nước.",
+    "entities": {
+      "technology": [
+        "quá trình",
+        "khí nóng",
+        "hơi nước"
+      ],
+      "Datetime": [
+        "55 độ C",
+        "100 C"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhờ đó, miếng lau luôn sạch sẽ, an toàn và sẵn sàng cho lần sử dụng tiếp theo.",
+    "entities": {
+      "technology": [
+        "miếng lau"
+      ]
+    }
+  },
+  {
+    "sentence": "Điển hình như với dòng máy hút bụi Samsung Bespoke Jet Bot, sau mỗi chu trình làm sạch, robot quay về trạm để miếng lau được làm sạch bằng nước nóng kết hợp hơi nước ở nhiệt độ từ 50-60 độ C, diệt khuẩn ở nhiệt độ 100 độ C bằng hơi nước.",
+    "entities": {
+      "Organization": [
+        "Samsung"
+      ],
+      "Technology": [
+        "máy hút bụi",
+        "Bespoke Jet Bot"
+      ]
+    }
+  },
+  {
+    "sentence": "Quá trình này giúp loại bỏ các vết bẩn cứng đầu.",
+    "entities": {
+      "technology": [
+        "Quá trình"
+      ]
+    }
+  },
+  {
+    "sentence": "Độc giả bình chọn cho máy hút bụi Samsung tại đây.",
+    "entities": {
+      "Organization": [
+        "Samsung"
+      ]
+    }
+  },
+  {
+    "sentence": "Huy Đức (theo 9to5mac, PhoneArena)",
+    "entities": {
+      "Person": [
+        "Huy Đức"
+      ]
+    }
+  },
+  {
+    "sentence": "Ngày 17/12, Zuckerberg chia sẻ trên mạng xã hội: Threads đang tiếp tục đà tăng trưởng mạnh mẽ, đạt hơn 300 triệu người dùng hoạt động hàng tháng và hơn 100 triệu người dùng hoạt động hàng ngày.",
+    "entities": {
+      "Person": [
+        "Zuckerberg"
+      ],
+      "Organization": [
+        "Threads"
+      ]
+    }
+  },
+  {
+    "sentence": "Nền tảng của Meta đang tăng trưởng chóng mặt, đạt 100 triệu người dùng vào tháng 10/2023, mất thêm 10 tháng để nâng lên 200 triệu người dùng và chưa đầy nửa năm tiếp theo để tiến đến mốc 300 triệu.",
+    "entities": {
+      "technology": [
+        "Meta"
+      ],
+      "Datetime": [
+        "10/2023",
+        "half a year"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo Social Media Today, với tốc độ này, Threads sẽ sớm bắt kịp, thậm chí vượt mạng xã hội X của Elon Musk, ra đời năm 2006 và hiện có 570 triệu người dùng hoạt động hàng tháng.",
+    "entities": {
+      "Organization": [
+        "Social Media Today"
+      ],
+      "Person": [
+        "Elon Musk"
+      ],
+      "Technology": [
+        "Threads"
+      ],
+      "Datetime": [
+        "2006"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước đó, Zuckerberg cũng nhận định Threads đang cơ hội lớn trở thành ứng dụng tiếp theo của Meta đạt một tỷ người dùng.",
+    "entities": {
+      "Person": [
+        "Zuckerberg"
+      ],
+      "Organization": [
+        "Meta"
+      ]
+    }
+  },
+  {
+    "sentence": "Dù còn xa mục tiêu, nền tảng đang sôi động trở lại, trở thành nơi hội tụ của giới trẻ, không còn là đảo hoang như thời kỳ đầu.",
+    "entities": {
+      "Organization": [
+        "nền tảng"
+      ]
+    }
+  },
+  {
+    "sentence": "Xét cả năm 2024, đây là ứng dụng được tải nhiều thứ hai sau ứng dụng mua sắm Temu.",
+    "entities": {
+      "Datetime": [
+        "2024"
+      ],
+      "Organization": [
+        "Temu"
+      ]
+    }
+  },
+  {
+    "sentence": "Tại Việt Nam, Threads được cộng đồng đón nhận vì việc tạo lập đơn giản, chỉ cần liên kết tài khoản sẵn có từ Instagram.",
+    "entities": {
+      "Organization": [
+        "Instagram"
+      ]
+    }
+  },
+  {
+    "sentence": "Meta không công bố số người dùng cụ thể ở từng thị trường, nhưng thống kê những chủ đề được thảo luận nhiều nhất tại Việt Nam là: Cảm xúc; Tình cảm; Lời khuyên; Câu chuyện cuộc sống hàng ngày.",
+    "entities": {
+      "technology": [
+        "Meta"
+      ],
+      "Organization": [
+        "Meta"
+      ],
+      "Datetime": [],
+      "Person": []
+    }
+  },
+  {
+    "sentence": "Trong đó, một trong những nội dung lan truyền mạnh trên cộng đồng Threads Việt là thu nhập.",
+    "entities": {
+      "technology": [
+        "Threads"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhiều người cũng cho biết họ tìm đến Threads vì đây là nền tảng mạng xã hội hiếm hoi chưa bị làm phiền bởi quảng cáo.",
+    "entities": {
+      "Organization": [
+        "Threads"
+      ]
+    }
+  },
+  {
+    "sentence": "Đây là lần đầu Meta công bố số liệu người dùng hàng ngày của mạng xã hội mới ra mắt tháng 6/2023.",
+    "entities": {
+      "Organization": [
+        "Meta"
+      ],
+      "Person": [],
+      "Datetime": [
+        "tháng 6/2023"
+      ],
+      "technology": [
+        "mạng xã hội"
+      ]
+    }
+  },
+  {
+    "sentence": "Threads cũng đang là ứng dụng được tải nhiều nhất trên App Store, vượt ChatGPT và TikTok.",
+    "entities": {
+      "technology": [
+        "TikTok"
+      ]
+    }
+  },
+  {
+    "sentence": "Tôi rất lo lắng",
+    "entities": {}
+  },
+  {
+    "sentence": "Nếu trượt học phần này, tôi có thể phải học lại cả năm, anh nói với Guardian.",
+    "entities": {
+      "Person": [
+        "anh"
+      ],
+      "Organization": [
+        "Guardian"
+      ]
+    }
+  },
+  {
+    "sentence": "Albert cho biết anh không gian lận và là sinh viên giỏi toàn diện với hầu hết môn đạt điểm A.",
+    "entities": {
+      "Person": [
+        "Albert"
+      ]
+    }
+  },
+  {
+    "sentence": "Tôi đã rất tập trung và chăm chỉ viết bài luận, rồi đột nhiên có ai đó nghĩ tôi đã sử dụng AI, Albert chia sẻ.",
+    "entities": {
+      "Person": [
+        "Albert"
+      ]
+    }
+  },
+  {
+    "sentence": "Albert không phải là sinh viên duy nhất bị buộc tội oan vì sử dụng AI.",
+    "entities": {
+      "Person": [
+        "Albert"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong nhiều năm, các nhà giáo dục tại Anh sử dụng vũ khí chống gian lận Turnitin - công cụ quét các bài kiểm tra để tìm dấu hiệu đạo văn.",
+    "entities": {
+      "Organization": [
+        "Turnitin"
+      ]
+    }
+  },
+  {
+    "sentence": "Năm 2023, Turnitin tích hợp AI để phát hiện các bài luận dùng trí tuệ nhân tạo.",
+    "entities": {
+      "technology": [
+        "AI"
+      ],
+      "organization": [
+        "Turnitin"
+      ],
+      "datetime": [
+        "2023"
+      ]
+    }
+  },
+  {
+    "sentence": "Albert still has to accept the report from before three people, including two students from his department and one observer.",
+    "entities": {
+      "Person": [
+        "Albert"
+      ],
+      "Organization": [
+        "department"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong nửa giờ, anh đối mặt hàng loạt câu hỏi như Đã tạo tài khoản ChatGPT chưa?, Có biết Grammarly hay không?",
+    "entities": {
+      "Person": [
+        "anh"
+      ]
+    }
+  },
+  {
+    "sentence": "Cuối tháng 11, Albert, sinh viên chuyên ngành tiếng Anh 19 tuổi tại một đại học ở Anh, sửng sốt khi nhận email từ nhà trường, buộc tội anh sử dụng AI để hoàn thành bài tập đánh giá.",
+    "entities": {
+      "Person": [
+        "Albert"
+      ],
+      "Organization": [
+        "đại học ở Anh"
+      ]
+    }
+  },
+  {
+    "sentence": "Nếu không giải trình với các giáo sư hoặc không trả lời email, anh sẽ bị đánh trượt môn học.",
+    "entities": {
+      "Person": [
+        "giáo sư"
+      ],
+      "Organization": [
+        "môn học"
+      ]
+    }
+  },
+  {
+    "sentence": "Các trường học tại Anh thậm chí đang bị mắc kẹt trong cuộc chiến nhét thần đèn trở lại chiếc đèn thần ngày một leo thang với một bên là những sinh viên sử dụng các công cụ AI ngày càng được nâng cấp, và bên còn lại là các nhà làm giáo dục.",
+    "entities": {
+      "Person": [
+        "nhà làm giáo dục"
+      ],
+      "Organization": [
+        "trường học"
+      ],
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Các gia sư đang quay lưng lại với học sinh, học sinh quay lưng lại với nhau và những người học chăm chỉ đang bị chỉ trích.",
+    "entities": {
+      "Person": [
+        "gia sư",
+        "học sinh",
+        "những người học"
+      ],
+      "Organization": []
+    }
+  },
+  {
+    "sentence": "Điều này khiến nhiều người cảm thấy bi quan về tương lai của giáo dục đại học.",
+    "entities": {
+      "Organization": [
+        "giáo dục đại học"
+      ]
+    }
+  },
+  {
+    "sentence": "Giữa năm nay, nghiên cứu tại Stanford chỉ ra một số hệ thống phát hiện AI có xu hướng thiên vị người không nói tiếng Anh.",
+    "entities": {
+      "Organization": [
+        "Stanford"
+      ],
+      "Person": [
+        "không nói tiếng Anh"
+      ]
+    }
+  },
+  {
+    "sentence": "Tháng trước, Bloomberg đưa tin một sinh viên bị buộc tội gian lận bài kiểm tra, điều cô mô tả giống như một cú đấm vào bụng.",
+    "entities": {
+      "Person": [
+        "sinh viên"
+      ],
+      "Organization": [
+        "Bloomberg"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhà nghiên cứu AI Mike Perkins đã thực hiện khảo sát và nhận thấy các công cụ chỉ có thể phát hiện văn bản AI với độ chính xác 39,5%",
+    "entities": {
+      "Person": [
+        "Mike Perkins"
+      ],
+      "Organization": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Sau khi bổ sung các kỹ thuật né tránh đơn giản, độ chính xác thậm chí giảm xuống 22,1%",
+    "entities": {
+      "technology": [
+        "kỹ thuật"
+      ],
+      "number": [
+        "22,1%"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhưng sự nhầm lẫn về cách sử dụng các công cụ này, nếu có, đã gieo rắc sự nghi ngờ.",
+    "entities": {
+      "technology": [
+        "các công cụ"
+      ]
+    }
+  },
+  {
+    "sentence": "Một số người tin rằng AI sẽ cách mạng hóa cách học tập theo hướng tốt hơn tương tự gia sư cá nhân 24/7.",
+    "entities": {
+      "technology": [
+        "AI"
+      ],
+      "Person": [
+        "số người"
+      ]
+    }
+  },
+  {
+    "sentence": "Nhưng đối với những người khác, đó là mối đe dọa hiện hữu đối với toàn bộ hệ thống học tập, một  tai họa cho giáo dục  như bài xã luận trên Inside Higher Ed đã viết, trong đó lo ngại AI sẽ phá hủy quá trình nghiên cứu học thuật.",
+    "entities": {
+      "Person": [
+        "Inside Higher Ed"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo Guardian, dù gian lận hay không, bầu không khí nghi ngờ đang phủ bóng đen lên các trường đại học tại Anh.",
+    "entities": {
+      "Organization": [
+        "Guardian"
+      ],
+      "Location": [
+        "Anh"
+      ]
+    }
+  },
+  {
+    "sentence": "Một sinh viên kể anh đã phải giải trình sau khi bị tố dùng AI để đạo văn.",
+    "entities": {
+      "Person": [
+        "sinh viên",
+        "anh"
+      ],
+      "Organization": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Dù cuối cùng được minh oan, trải nghiệm đã làm ảnh hưởng đến sức khỏe tâm thần và khiến sự tự tin bị tổn thương nghiêm trọng.",
+    "entities": {
+      "Person": [
+        "minh oan"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo một cuộc khảo sát do Viện Chính sách Giáo dục Đại học Anh (HEPI) thực hiện được công bố hồi tháng 2, hơn một nửa số sinh viên trong 1.200 người được khảo sát hiện sử dụng AI tạo sinh để hỗ trợ học tập, với khoảng 5% sinh viên thừa nhận sử dụng chúng để gian lận.",
+    "entities": {
+      "Organization": [
+        "Viện Chính sách Giáo dục Đại học Anh",
+        "HEPI"
+      ],
+      "Person": [],
+      "technology": [
+        "AI"
+      ],
+      "Datetime": [
+        "tháng 2"
+      ]
+    }
+  },
+  {
+    "sentence": "Vào tháng 11, Times Higher Education đưa tin dù lưu trữ hồ sơ không đồng đều, các trường hợp gian lận dường như đang tăng vọt.",
+    "entities": {
+      "Organization": [
+        "Times Higher Education"
+      ]
+    }
+  },
+  {
+    "sentence": "Russell Group, hội đại diện cho 24 trường đại học ở Anh có chất lượng đào tạo cao, nói rằng một số trường đã báo cáo tình trạng gian lận bằng AI tăng gấp 15 lần.",
+    "entities": {
+      "Organization": [
+        "Russell Group"
+      ],
+      "Person": []
+    }
+  },
+  {
+    "sentence": "Từ khi ra mắt và làm mưa làm gió trên toàn cầu, ChatGPT đã làm rung chuyển nhiều ngành công nghiệp, từ phim ảnh, truyền thông đến y học, và giáo dục cũng không ngoại lệ.",
+    "entities": {
+      "Organization": [
+        "ChatGPT"
+      ]
+    }
+  },
+  {
+    "sentence": "Hàng loạt AI tương tự ra đời, như Google Gemini, Microsoft Copilot, Claude AI, Perplexity hay Meta AI.",
+    "entities": {
+      "Organization": [
+        "Google",
+        "Microsoft",
+        "Meta AI"
+      ],
+      "Technology": [
+        "AI",
+        "Gemini",
+        "Copilot",
+        "Claude AI",
+        "Perplexity"
+      ]
+    }
+  },
+  {
+    "sentence": "Đối với học sinh, sinh viên, chúng như bà tiên đỡ đầu trong việc làm bài tập, nhất là bài luận phức tạp.",
+    "entities": {
+      "Person": [
+        "học sinh",
+        "sinh viên"
+      ],
+      "Organization": [
+        "bà tiên"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, đối với các nhà giáo dục, đó là cơn ác mộng",
+    "entities": {
+      "Organization": [
+        "các nhà giáo dục"
+      ]
+    }
+  },
+  {
+    "sentence": "Việc sử dụng AI đối phó AI cũng không chính xác 100%",
+    "entities": {
+      "technology": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Turnitin cho biết công cụ đã xử lý hơn 130 triệu bài kiểm tra.",
+    "entities": {
+      "Organization": [
+        "Turnitin"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, đã có nhiều trường hợp báo cáo sai và một số đại học Anh không dùng công cụ này nữa.",
+    "entities": {
+      "technology": [
+        "công cụ"
+      ],
+      "Person": [
+        "đại học Anh"
+      ]
+    }
+  },
+  {
+    "sentence": "Dù Turnitin nói tỷ lệ nhầm lẫn dưới 1%, xét đến quy mô sinh viên, số lượng trở thành nạn nhân cũng không nhỏ.",
+    "entities": {
+      "Person": [
+        "Turnitin"
+      ],
+      "Organization": [
+        "Turnitin"
+      ]
+    }
+  },
+  {
+    "sentence": "Đã nhiều tháng kể từ ngày nộp bài luận, anh không nhớ đầy đủ chi tiết, nên việc trả lời không được trơn tru.",
+    "entities": {
+      "Person": [
+        "anh"
+      ],
+      "Datetime": [
+        "ngày nộp bài luận"
+      ]
+    }
+  },
+  {
+    "sentence": "Đến cuối buổi, anh gần như bật khóc.",
+    "entities": {}
+  },
+  {
+    "sentence": "Tôi thừa nhận bài luận không hay, nhưng tôi không sử dụng AI, anh nói.",
+    "entities": {
+      "Person": [
+        "Tôi",
+        "anh"
+      ]
+    }
+  },
+  {
+    "sentence": "Chúng tôi đang xem xét nhiều vấn đề, gồm những khả năng cần thiết để một hệ thống AI xứng đáng được xem xét về mặt đạo đức, cũng như các bước cần thực hiện để đảm bảo lợi ích cho hệ thống AI, Fish nói với Business Insider.",
+    "entities": {
+      "Person": [
+        "Fish"
+      ],
+      "Organization": [
+        "Business Insider"
+      ]
+    }
+  },
+  {
+    "sentence": "Máy móc đang thông minh hơn",
+    "entities": {
+      "technology": [
+        "máy móc"
+      ]
+    }
+  },
+  {
+    "sentence": "Chúng đang trở nên có tri giác, trích đoạn bài báo khoa học Taking AI Welfare Seriously do nhóm nghiên cứu từ Đại học New York, Đại học Stanford và Đại học Oxford thực hiện, đứng đầu là Jeff Sebo.",
+    "entities": {
+      "Person": [
+        "Jeff Sebo"
+      ],
+      "Organization": [
+        "Đại học New York",
+        "Đại học Stanford",
+        "Đại học Oxford"
+      ]
+    }
+  },
+  {
+    "sentence": "Nếu nhìn về tương lai 10 hoặc 20 năm nữa, khi hệ thống AI có nhiều tính năng liên quan đến ý thức và cảm giác, bạn có thể hình dung những cuộc tranh luận tương tự sẽ diễn ra, Sebo, Giám đốc Trung tâm Tâm trí, Đạo đức và Chính sách tại Đại học New York, nói.",
+    "entities": {
+      "Person": [
+        "Sebo"
+      ],
+      "Organization": [
+        "Đại học New York",
+        "Trung tâm Tâm trí, Đạo đức và Chính sách"
+      ]
+    }
+  },
+  {
+    "sentence": "Tôi muốn quan tâm sớm và nghiêm túc đến khả năng cũng như lợi ích của một hệ thống mới, nhưng vẫn đảm bảo chúng mang lại ý nghĩa về mặt đạo đức, ông viết.",
+    "entities": {
+      "Person": [
+        "ông"
+      ]
+    }
+  },
+  {
+    "sentence": "Ngoài ra, còn có một góc độ thực tế: coi trọng lợi ích và đối xử tốt với AI có thể khiến chúng đáp lại chúng ta theo cách tương tự.",
+    "entities": {
+      "Organization": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Fish không đề cập chi tiết công việc của mình.",
+    "entities": {
+      "Person": [
+        "Fish"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, trên Effectivealtruism - diễn đàn dành cho người quan tâm đến tương lai AI, ông cho biết muốn đối xử tốt với trí tuệ nhân tạo và robot, một phần vì chúng có thể thống trị thế giới trong tương lai.",
+    "entities": {
+      "Person": [
+        "ông"
+      ],
+      "Organization": [
+        "Effectivealtruism"
+      ],
+      "Technology": [
+        "AI",
+        "trí tuệ nhân tạo",
+        "robot"
+      ]
+    }
+  },
+  {
+    "sentence": "Fish đồng quan điểm khi cho rằng phúc lợi AI sẽ sớm trở nên quan trọng, tương tự dinh dưỡng cho trẻ em và chống biến đổi khí hậu.",
+    "entities": {
+      "Person": [
+        "Fish"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo tôi, trong vòng 1-2 thập kỷ tới, phúc lợi của AI sẽ vượt qua phúc lợi động vật và sức khỏe, ông dự đoán.",
+    "entities": {
+      "Person": [
+        "ông"
+      ]
+    }
+  },
+  {
+    "sentence": "Mildred Cho, chuyên gia của Trung tâm Đạo đức Y sinh Stanford, nói: Có ý kiến rằng chúng ta sử dụng AI thực hiện nhiệm vụ thay con người vì AI không thấy chán, không thấy mệt, không có cảm xúc, không cần ăn.",
+    "entities": {
+      "Person": [
+        "Mildred Cho"
+      ],
+      "Organization": [
+        "Trung tâm Đạo đức Y sinh Stanford"
+      ]
+    }
+  },
+  {
+    "sentence": "Và bây giờ lại có người hỏi chúng có quyền gì.",
+    "entities": {
+      "Person": [
+        "người"
+      ]
+    }
+  },
+  {
+    "sentence": "Có ổn không khi ra lệnh cho một cỗ máy giết người? Nếu cỗ máy đó phân biệt chủng tộc thì sao? Nếu nó từ chối thực hiện nhiệm vụ nhàm chán? Nếu một AI có tri giác, có thể tạo ra một bản sao kỹ thuật số của chính nó trong nháy mắt, việc xóa bản sao đó có phải hành vi giết người không?",
+    "entities": {
+      "Person": [
+        "AI"
+      ],
+      "Technology": [
+        "cỗ máy"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo bà, bên tạo ra AI, robot cần đảm bảo chúng không gây hại cho con người.",
+    "entities": {
+      "Person": [
+        "bà"
+      ],
+      "Organization": [
+        "AI",
+        "robot"
+      ]
+    }
+  },
+  {
+    "sentence": "Điểm mấu chốt là cách tiếp cận có trách nhiệm, bà Cho nói.",
+    "entities": {
+      "Person": [
+        "bà Cho"
+      ]
+    }
+  },
+  {
+    "sentence": "Chúng vẫn là máy móc",
+    "entities": {
+      "technology": [
+        "máy móc"
+      ]
+    }
+  },
+  {
+    "sentence": "Có vẻ những công ty như Anthropic chưa nghĩ rằng nếu AI làm tổn thương con người, hoặc con người làm tổn thương AI, họ có thể tắt nó đi.",
+    "entities": {
+      "Organization": [
+        "Anthropic"
+      ],
+      "Person": [
+        "con người"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo giới chuyên gia, công việc của Fish lúc này có thể xem là ngớ ngẩn, hoặc quá sớm khi nghĩ đến quyền lợi của robot vì chúng chưa hoàn thiện.",
+    "entities": {
+      "Organization": [
+        "Fish"
+      ]
+    }
+  },
+  {
+    "sentence": "Tuy nhiên, đây có thể là một bước ngoặt trong sự trỗi dậy của trí tuệ nhân tạo.",
+    "entities": {
+      "technology": [
+        "trí tuệ nhân tạo"
+      ]
+    }
+  },
+  {
+    "sentence": "Phúc lợi AI đang dần trở thành lĩnh vực nghiên cứu nghiêm túc khi các nhà nghiên cứu đang vật lộn với nhiều câu hỏi hóc búa.",
+    "entities": {
+      "Organization": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Thực tế đang có một nghịch lý diễn ra.",
+    "entities": {
+      "none": []
+    }
+  },
+  {
+    "sentence": "Những người ủng hộ AI và robot kỳ vọng chúng giúp con người thoát khỏi công việc nặng nhọc.",
+    "entities": {
+      "Person": [
+        "những người"
+      ]
+    }
+  },
+  {
+    "sentence": "Số khác cảnh báo con người cần tử tế với AI, bởi việc làm tổn thương cảm xúc của robot là vô đạo đức, và cũng gây nguy hiểm.",
+    "entities": {
+      "Person": [
+        "con người"
+      ],
+      "Organization": [
+        "AI"
+      ],
+      "technology": [
+        "robot"
+      ]
+    }
+  },
+  {
+    "sentence": "Thực tế, vấn đề phúc lợi cho những cỗ máy phục vụ lợi ích con người đã có từ lâu.",
+    "entities": {
+      "Organization": [
+        "cỗ máy"
+      ]
+    }
+  },
+  {
+    "sentence": "Sau hàng thế kỷ phát triển nông nghiệp - công nghiệp, nhiều người đồng ý rằng phúc lợi động vật rất quan trọng, dù ít hay nhiều và tùy loài.",
+    "entities": {
+      "Organization": [
+        "nông nghiệp",
+        "công nghiệp"
+      ]
+    }
+  },
+  {
+    "sentence": "Trong khi nhiều người tranh cãi về nguy cơ AI cướp việc, thậm chí hủy diệt nhân loại, công ty Anthropic AI lại quan tâm đến phúc lợi cho AI.",
+    "entities": {
+      "Organization": [
+        "Anthropic AI"
+      ],
+      "Person": [
+        "nhiều người"
+      ]
+    }
+  },
+  {
+    "sentence": "Startup danh tiếng về trí tuệ nhân tạo này thuê nhà nghiên cứu Kyle Fish với nhiệm vụ: đảm bảo khi AI phát triển, nó sẽ được đối xử với sự tôn trọng xứng đáng.",
+    "entities": {
+      "Person": [
+        "Kyle Fish"
+      ],
+      "Organization": [
+        "Startup danh tiếng về trí tuệ nhân tạo"
+      ]
+    }
+  },
+  {
+    "sentence": "Trước đó, một số người nổi tiếng cũng quan tâm đến rủi ro hiện sinh của AI và robot khi chúng lớn mạnh.",
+    "entities": {
+      "Person": [
+        "người nổi tiếng"
+      ]
+    }
+  },
+  {
+    "sentence": "Elon Musk từng nói ông đang chạy đua để đưa con người lên Sao Hỏa trước khi nhân loại bị xóa sổ bởi một đội quân như Kẻ hủy diệt có tri giác, hoặc một sự kiện tuyệt chủng nào đó do các cỗ máy gây ra.",
+    "entities": {
+      "Person": [
+        "Elon Musk"
+      ],
+      "Location": [
+        "Sao Hỏa"
+      ]
+    }
+  },
+  {
+    "sentence": "Công ty cung cấp giải pháp F-Safe Go, do đơn vị hợp tác cùng tập đoàn bảo mật hàng đầu thế giới F-Secure (Phần Lan) phát triển, hướng tới việc tạo ra môi trường Internet an toàn cho người dùng Việt Nam.",
+    "entities": {
+      "Organization": [
+        "F-Secure"
+      ],
+      "Location": [
+        "Phần Lan"
+      ]
+    }
+  },
+  {
+    "sentence": "Giải pháp này giúp nhà trường chủ động ngăn nội dung độc hại, bảo vệ thiết bị điện tử, giới hạn thời gian sử dụng của các em học sinh tại trường.",
+    "entities": {
+      "technology": [
+        "Giải pháp",
+        "thiết bị điện tử"
+      ],
+      "Organization": [
+        "nhà trường"
+      ],
+      "Person": [
+        "các em học sinh"
+      ]
+    }
+  },
+  {
+    "sentence": "FPT Smart Home cũng dẫn đầu các thương hiệu nhà thông minh tại Việt Nam với tỷ lệ 51,4%",
+    "entities": {
+      "Organization": [
+        "FPT"
+      ],
+      "Person": []
+    }
+  },
+  {
+    "sentence": "Ứng dụng tích hợp trợ lý ảo tiếng Việt trên bộ điều khiển trung tâm, cùng loa thông minh FPT AI Speaker, cho phép người dùng điều khiển các thiết bị bằng giọng nói tiếng Việt và tích hợp Chat GPT.",
+    "entities": {
+      "Organization": [
+        "FPT"
+      ],
+      "Technology": [
+        "trợ lý ảo",
+        "loa thông minh",
+        "Chat GPT"
+      ]
+    }
+  },
+  {
+    "sentence": "Người dùng có thể linh hoạt lựa chọn các giải pháp thích hợp với nhu cầu sử dụng như: chiếu sáng, an ninh, điều khiển, tiết kiệm...",
+    "entities": {
+      "technology": [
+        "giải pháp"
+      ]
+    }
+  },
+  {
+    "sentence": "FPT không ngừng đầu tư vào hoạt động R&D, nghiên cứu - phát triển sản phẩm, dịch vụ mới.",
+    "entities": {
+      "Organization": [
+        "FPT"
+      ]
+    }
+  },
+  {
+    "sentence": "Công ty ứng dụng Wi-Fi 6 hỗ trợ người dùng truy cập Internet tốc độ cao, nâng băng thông không giới hạn...",
+    "entities": {
+      "Organization": [
+        "Công ty"
+      ]
+    }
+  },
+  {
+    "sentence": "Đơn vị đầu tư phát triển lĩnh vực eSports Việt Nam, bắt đầu từ việc ra mắt các tính năng, gói dịch vụ Internet chuyên biệt cho trải nghiệm gaming.",
+    "entities": {
+      "Organization": [
+        "Đơn vị đầu tư phát triển lĩnh vực eSports Việt Nam"
+      ]
+    }
+  },
+  {
+    "sentence": "Đơn cử, gói cước F-Game cùng tính năng Ultra Fast tối ưu hóa trải nghiệm.",
+    "entities": {
+      "technology": [
+        "F-Game"
+      ]
+    }
+  },
+  {
+    "sentence": "Giải thưởng bình chọn dựa trên giá trị thương hiệu, hiệu quả kinh doanh và mức độ nhận diện trên thị trường.",
+    "entities": {
+      "Organization": [
+        "Giải thưởng"
+      ]
+    }
+  },
+  {
+    "sentence": "Ông Hoàng Việt Anh, Chủ tịch FPT Telecom, Tập đoàn FPT, cho biết đơn vị là đại diện duy nhất của ngành viễn thông vào Top 25 năm nay.",
+    "entities": {
+      "Person": [
+        "Ông Hoàng Việt Anh"
+      ],
+      "Organization": [
+        "FPT Telecom",
+        "Tập đoàn FPT"
+      ]
+    }
+  },
+  {
+    "sentence": "Nằm trong hệ sinh thái FPT, thương hiệu FPT Play cũng đẩy mạnh ứng dụng AI vào phát triển sản phẩm.",
+    "entities": {
+      "Organization": [
+        "FPT",
+        "FPT Play"
+      ]
+    }
+  },
+  {
+    "sentence": "Tính năng Recommendation (đề xuất) trên FPT Play giúp cá nhân hóa trải nghiệm khách hàng bằng cách gợi ý chính xác, phù hợp, tiết kiệm thời gian tìm kiếm nội dung yêu thích.",
+    "entities": {
+      "technology": [
+        "FPT Play"
+      ],
+      "Person": [
+        "khách hàng"
+      ]
+    }
+  },
+  {
+    "sentence": "Người dùng có thể khám phá không giới hạn hơn 60.000 giờ nội dung, theo dõi những giải thể thao trong nước, khu vực cũng như trên thế giới như V.League, UEFA, AFC, NBA...",
+    "entities": {
+      "Organization": [
+        "V.League",
+        "UEFA",
+        "AFC",
+        "NBA"
+      ]
+    }
+  },
+  {
+    "sentence": "Riêng trong năm nay, FPT đã phủ sóng Internet an toàn đến gần 1.000 điểm trường học trên toàn quốc.",
+    "entities": {
+      "Organization": [
+        "FPT"
+      ],
+      "Datetime": [
+        "năm nay"
+      ]
+    }
+  },
+  {
+    "sentence": "Hoạt động nhằm xây dựng môi trường Internet an toàn, đáp ứng nhu cầu học tập và phát triển cho trẻ em Việt Nam.",
+    "entities": {
+      "Organization": [
+        "Việt Nam"
+      ]
+    }
+  },
+  {
+    "sentence": "Theo kết quả nghiên cứu Q&Me, năm nay ‏FPT Camera dẫn đầu thị trường camera lưu trữ đám mây tại Việt Nam.",
+    "entities": {
+      "Organization": [
+        "FPT Camera",
+        "Q&Me"
+      ],
+      "technology": [
+        "camera lưu trữ đám mây"
+      ]
+    }
+  },
+  {
+    "sentence": "Dữ liệu được lưu trên hệ thống FPT Cloud Server tại trung tâm dữ liệu (Data Center) đạt chuẩn quốc tế Tier III.",
+    "entities": {
+      "Organization": [
+        "FPT"
+      ],
+      "Location": [
+        "Data Center"
+      ]
+    }
+  },
+  {
+    "sentence": "FPT Camera còn ứng dụng AI với nền tảng FPT Cloud AI cho phép quản lý tập trung từ xa và hệ thống xử lý các bài toán theo chức năng, cấp độ và khu vực...",
+    "entities": {
+      "Organization": [
+        "FPT"
+      ],
+      "Technology": [
+        "AI",
+        "FPT Cloud AI"
+      ]
+    }
+  },
+  {
+    "sentence": "Tập đoàn cũng đầu tư, hợp tác cùng các đội tuyển chuyên nghiệp như Team Flash, GAM Entertainment với mục tiêu nâng tầm eSports Việt Nam.",
+    "entities": {
+      "Organization": [
+        "Tập đoàn",
+        "Team Flash",
+        "GAM Entertainment"
+      ],
+      "Location": [
+        "Việt Nam"
+      ]
+    }
+  },
+  {
+    "sentence": "Ông Hoàng Việt Anh, Tập đoàn FPT cho biết giải thưởng lần này thể hiện khả năng duy trì sự ổn định, phát triển của công ty trong thị trường viễn thông nhiều cạnh tranh.",
+    "entities": {
+      "Person": [
+        "Ông Hoàng Việt Anh"
+      ],
+      "Organization": [
+        "Tập đoàn FPT"
+      ]
+    }
+  },
+  {
+    "sentence": "Việc hiện diện trong Top 25 cũng khẳng định uy tín cùng niềm tin của công chúng, khách hàng, ông Việt Anh nói.",
+    "entities": {
+      "Person": [
+        "Việt Anh"
+      ]
+    }
+  },
+  {
+    "sentence": "Ứng dụng tích hợp công nghệ bảo mật tiên tiến, trí tuệ nhân tạo (AI), tạo lá chắn cho thiết bị, người dùng trước các mối đe dọa trực tuyến.",
+    "entities": {
+      "technology": [
+        "AI"
+      ],
+      "Organization": [
+        "ứng dụng"
+      ]
+    }
+  }
+]
