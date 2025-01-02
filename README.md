@@ -16,13 +16,18 @@ Welcome to the NLP repository! This project focuses on solving tasks in Natural 
 This module implements two variations of sequence-to-sequence models based on LSTMs, build with PyTorch:
 
 1. **LSTM-to-LSTM Without Attention**:
+   - Total epochs: 80, time es: ~60 mins
    - This is a baseline encoder-decoder model where the input sequence is transformed into a fixed-size vector representation before being decoded into the target sequence.
    - It is suitable for relatively short sentences but struggles with longer sequences due to the lack of a mechanism to focus on specific parts of the input.
 
-2. **LSTM-to-LSTM With Attention**:
+3. **LSTM-to-LSTM With Attention**:
+   - Total epochs: 80, time estimate: ~ 125 mins
    - This model incorporates an attention mechanism, which allows the decoder to dynamically attend to different parts of the input sequence during generation.
    - The attention mechanism significantly improves performance on longer and more complex sentences by overcoming the bottleneck of fixed-size vector representations.
 
+5. **Data source**
+   - Download here: ([GitHub](https://github.com/ccr-cheng/English-to-Vietnamese-NMT-Model/tree/master/en_vi)) 
+  
 Both implementations support training, evaluation, and inference functionalities.
 
 ---
@@ -48,6 +53,7 @@ This hybrid approach combines the strengths of large language models and domain-
 - PyTorch 1.10+
 - Transformers
 - scikit-learn
+- nltk
 - numpy
 - matplotlib
 
