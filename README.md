@@ -1,5 +1,10 @@
 # NLP Repository
 
+<div align="center">
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="80" height="80" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="80" height="80" />
+</div>
+
 Welcome to the NLP repository! This project focuses on solving tasks in Natural Language Processing (NLP), including machine translation and information extraction. By leveraging state-of-the-art techniques and models, this repository aims to address challenges in technology and digitalization domains effectively.
 
 ## Table of Contents
@@ -38,6 +43,7 @@ This module addresses information extraction tasks in the field of technology an
 
 1. **Data Labeling with Meta Llama**:
    - The Meta Llama 8B model is utilized to annotate data efficiently. It leverages its large-scale pretraining to generate high-quality labels for various aspects of information extraction tasks.
+   - Download here: ([Click here](https://replicate.com/meta/meta-llama-3-8b-instruct/api)). You need to be granted to the repo of them.
 
 2. **Model Training with PhoBERT**:
    - PhoBERT, a robust transformer-based model pre-trained on Vietnamese text, is fine-tuned using the labeled data for specific information extraction tasks.
